@@ -32,7 +32,7 @@ WETH = {
 LOGO_DIR = 'logos'
 
 
-HOSTED_URL = 'https://raw.githubusercontent.com/elkfinance/elk-tokens/main/'
+HOSTED_URL = 'https://raw.githubusercontent.com/elkfinance/tokens/main/'
 
 
 def process_token(t, chain, fetch_logo):
@@ -89,14 +89,14 @@ if __name__ == '__main__':
     tokenlist = {}
     tokenlist['name'] = f'Elk {chain} Tokens'
     tokenlist['timestamp'] = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S+00:00')
-    tokenlist['keywords'] = ['elk', 'elk-finance', 'defi', chain.lower()]
+    tokenlist['keywords'] = ['elk', 'defi', chain.lower()]
 
     if args.version is not None:
         m = re.match(r'(\d+)\.(\d+)\.(\d+)', args.version)
         if m is None:
             print(f'Invalid version: {args.version}!')
             sys.exit(-1)
-        version = {'major': m.group(1), 'minor': m.group(2), 'patch': m.group(3)}
+        version = {'major': int(m.group(1)), 'minor': int(m.group(2)), 'patch': int(m.group(3))}
     else:
         try:
             old_version = old_tokenlist['version']

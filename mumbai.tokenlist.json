@@ -1,11 +1,10 @@
 {
     "keywords": [
         "elk",
-        "elk-finance",
         "defi",
         "mumbai"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/elk-tokens/main/logos/mumbai/0x5B67676a984807a212b1c59eBFc9B3568a474F0a/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x5B67676a984807a212b1c59eBFc9B3568a474F0a/logo.png",
     "name": "Elk MUMBAI Tokens",
     "timestamp": "2021-04-21T20:36:33+00:00",
     "tokens": [
@@ -13,7 +12,7 @@
             "address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
             "chainId": 80001,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/elk-tokens/main/logos/mumbai/0x5B67676a984807a212b1c59eBFc9B3568a474F0a/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x5B67676a984807a212b1c59eBFc9B3568a474F0a/logo.png",
             "name": "Wrapped Matic",
             "symbol": "WMATIC"
         },
@@ -21,7 +20,7 @@
             "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
             "chainId": 80001,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/elk-tokens/main/logos/mumbai/0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1/logo.png",
             "name": "Dai Stablecoin",
             "symbol": "DAI"
         },
@@ -29,7 +28,7 @@
             "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
             "chainId": 80001,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/elk-tokens/main/logos/mumbai/0x3813e82e6f7098b9583FC0F33a962D02018B6803/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x3813e82e6f7098b9583FC0F33a962D02018B6803/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
         },
@@ -37,14 +36,14 @@
             "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
             "chainId": 80001,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/elk-tokens/main/logos/mumbai/0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323/logo.png",
             "name": "Ether",
             "symbol": "ETH"
         }
     ],
     "version": {
-        "major": "1",
-        "minor": "1",
-        "patch": "0"
+        "major": 1,
+        "minor": 1,
+        "patch": 0
     }
 }
