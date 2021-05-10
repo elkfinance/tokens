@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
     "name": "Elk AVAX Tokens",
-    "timestamp": "2021-04-21T20:34:35+00:00",
+    "timestamp": "2021-05-10T14:51:26+00:00",
     "tokens": [
         {
             "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
@@ -39,6 +39,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537/logo.png",
             "name": "sled.finance",
             "symbol": "SFI"
+        },
+        {
+            "address": "0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb",
+            "chainId": 43114,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb/logo.png",
+            "name": "SL3",
+            "symbol": "SL3"
         },
         {
             "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
@@ -3011,7 +3019,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
