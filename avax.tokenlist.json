@@ -25,6 +25,15 @@
             "symbol": "PNG"
         },
         {
+            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
+            "name": "Snowball",
+            "symbol": "SNOB"
+        },
+        {
+        {
             "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
             "chainId": 43114,
             "decimals": 9,
