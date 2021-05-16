@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
     "name": "Elk MATIC Tokens",
-    "timestamp": "2021-05-10T14:53:27+00:00",
+    "timestamp": "2021-05-17T14:20:19+00:00",
     "tokens": [
         {
             "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
@@ -15,6 +15,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png",
+            "name": "Krill",
+            "symbol": "KRILL"
         },
         {
             "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
@@ -221,7 +229,7 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png",
-            "name": "GHST Token",
+            "name": "Aavegotchi GHST Token",
             "symbol": "GHST"
         },
         {
@@ -229,7 +237,7 @@
             "chainId": 137,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C/logo.png",
-            "name": "HEX",
+            "name": "HEXX",
             "symbol": "HEX"
         },
         {
@@ -376,14 +384,6 @@
             "name": "Must",
             "symbol": "MUST"
         },
-        {
-            "name": "Krill",
-            "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
-            "symbol": "Krill",
-            "decimals": 18,
-            "chainId": 137,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png"
-    	},
         {
             "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
             "chainId": 137,
@@ -849,19 +849,11 @@
             "symbol": "NDR"
         },
         {
-            "address": "0x9f5755D47fB80100E7ee65Bf7e136FCA85Dd9334",
-            "chainId": 137,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x9f5755D47fB80100E7ee65Bf7e136FCA85Dd9334/logo.png",
-            "name": "OM",
-            "symbol": "OM"
-        },
-        {
             "address": "0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947",
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947/logo.png",
-            "name": "pBTC",
+            "name": "pTokens BTC",
             "symbol": "pBTC"
         },
         {

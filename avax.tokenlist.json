@@ -149,7 +149,7 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png",
-            "name": "Aave Token",
+            "name": "Aave",
             "symbol": "AAVE"
         },
         {
@@ -373,7 +373,7 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6Fd02c0789797e595751208a2446faF721B9f3C2/logo.png",
-            "name": "BandToken",
+            "name": "Band Protocol",
             "symbol": "BAND"
         },
         {
@@ -606,14 +606,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xE0976dCa075C4055cADa33C2452429572885aE7E/logo.png",
             "name": "Cover Protocol",
-            "symbol": "COVER"
-        },
-        {
-            "address": "0xe35f68f3DE8590F3FD6884Eef166AF9f414D75F7",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xe35f68f3DE8590F3FD6884Eef166AF9f414D75F7/logo.png",
-            "name": "Cover Protocol Governance Token",
             "symbol": "COVER"
         },
         {
@@ -3007,14 +2999,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xF9F0BB57D247a8c55c463b9a231de7E998bdc9a0/logo.png",
             "name": "zLOT",
             "symbol": "zLOT"
-        },
-        {
-            "address": "0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18/logo.png",
-            "name": "Dai Stablecoin v1.0",
-            "symbol": "DAI"
         },
         {
             "address": "0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620",
