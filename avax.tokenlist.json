@@ -46,7 +46,7 @@
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537/logo.png",
             "name": "sled.finance",
-            "symbol": "SFI"
+            "symbol": "SFIN"
         },
         {
             "address": "0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb",
@@ -55,6 +55,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb/logo.png",
             "name": "SL3",
             "symbol": "SL3"
+        },
+        {
+            "address": "0x3ab71CA6DA13e50Ab4966E3A0566D1b6B118c4aE",
+            "chainId": 43114,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3ab71CA6DA13e50Ab4966E3A0566D1b6B118c4aE/logo.png",
+            "name": "BostonTerrier",
+            "symbol": "ARFV2"
         },
         {
             "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
@@ -2311,22 +2319,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAdcE0b08127EFd11d4A6CDAA82feDe77b0Fa57F9/logo.png",
             "name": "SPANK",
             "symbol": "SPANK"
-        },
-        {
-            "address": "0xC386282f66c090A1e42c39e83dBD2c2d447dE506",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xC386282f66c090A1e42c39e83dBD2c2d447dE506/logo.png",
-            "name": "Spice",
-            "symbol": "SFI"
-        },
-        {
-            "address": "0x9F7841A719e26cE4Ab7374806857f91C83F05f33",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9F7841A719e26cE4Ab7374806857f91C83F05f33/logo.png",
-            "name": "Spice",
-            "symbol": "SPICE"
         },
         {
             "address": "0x3BfCDB1Ec986430ffF0e35C00D71888D305E48f3",

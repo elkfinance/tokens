@@ -33,12 +33,28 @@
             "symbol": "WBTC"
         },
         {
+            "address": "0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615",
+            "chainId": 250,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615/logo.png",
+            "name": "Shiba Fantom",
+            "symbol": "SHIBA"
+        },
+        {
+            "address": "0xE91d855e870bb6462ef8876d9AB9C130968b1131",
+            "chainId": 250,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xE91d855e870bb6462ef8876d9AB9C130968b1131/logo.png",
+            "name": "Dogenstein",
+            "symbol": "DSTEIN"
+        },
+        {
             "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png",
-            "name": "Wrapped Ether",
-            "symbol": "WETH"
+            "name": "Ether",
+            "symbol": "ETH"
         },
         {
             "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
