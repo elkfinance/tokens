@@ -41,6 +41,14 @@
             "symbol": "0xBTC"
         },
         {
+            "address": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xf2ae0038696774d65E67892c9D301C5f2CbbDa58/logo.png",
+            "name": "CargoX Token",
+            "symbol": "CXO"
+        },
+        {
             "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
             "chainId": 137,
             "decimals": 18,
@@ -963,7 +971,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }

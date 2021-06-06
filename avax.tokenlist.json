@@ -65,6 +65,22 @@
             "symbol": "ARFV2"
         },
         {
+            "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
+            "name": "Avaware",
+            "symbol": "AVE"
+        },
+        {
+            "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+            "name": "Husky",
+            "symbol": "HUSKY"
+        },
+        {
             "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
             "chainId": 43114,
             "decimals": 18,
@@ -3003,7 +3019,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }
