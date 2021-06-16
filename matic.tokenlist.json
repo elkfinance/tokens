@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
     "name": "Elk MATIC Tokens",
-    "timestamp": "2021-05-17T14:20:19+00:00",
+    "timestamp": "2021-06-16T20:19:20+00:00",
     "tokens": [
         {
             "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
@@ -971,7 +971,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     }
 }

@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
     "name": "Elk FTM Tokens",
-    "timestamp": "2021-05-16T20:54:31+00:00",
+    "timestamp": "2021-06-16T20:19:52+00:00",
     "tokens": [
         {
             "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
@@ -291,7 +291,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     }
 }
