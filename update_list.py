@@ -65,7 +65,7 @@ def download_logo(url, path):
         os.makedirs(os.path.dirname(path))
     except:
         pass
-    r = requests.get(url, allow_redirects=True)
+    r = requests.get(url, verify=False, allow_redirects=True)
     with open(path, 'wb') as f:
         f.write(r.content)
     print(' Done!')

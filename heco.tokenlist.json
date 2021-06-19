@@ -6,8 +6,16 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f/logo.png",
     "name": "Elk HECO Tokens",
-    "timestamp": "2021-06-16T20:42:00+00:00",
+    "timestamp": "2021-06-26T17:00:01+00:00",
     "tokens": [
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
         {
             "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
             "chainId": 128,
@@ -132,16 +140,16 @@
             "address": "0x538CEe985E930557D16C383783ca957fA90b63b3",
             "chainId": 128,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x538cee985e930557d16c383783ca957fa90b63b3/logo.png",
-            "name": "Anyswap ",
-            "symbol": "ANY "
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x538CEe985E930557D16C383783ca957fA90b63b3/logo.png",
+            "name": "Anyswap",
+            "symbol": "ANY"
         },
         {
             "address": "0x34D75515090902a513F009f4505A750efaaD63b0",
             "chainId": 128,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x34d75515090902a513f009f4505a750efaad63b0/logo.png",
-            "name": "Heco-Peg MKR Token",
+            "name": "MKR",
             "symbol": "MKR"
         },
         {
@@ -268,8 +276,8 @@
             "address": "0x8DC9c7521cD538A9969A422E3f0f2A309713484a",
             "chainId": 128,
             "decimals": 12,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x8DC9c7521cD538A9969A422E3f0f2A309713484a/logo.png",
-            "name": "Emoji NFT",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x8dc9c7521cd538a9969a422e3f0f2a309713484a/logo.png",
+            "name": "EMJ",
             "symbol": "EMJ"
         },
         {
@@ -421,7 +429,7 @@
             "chainId": 128,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xe131f048d85f0391a24435eefb7763199b587d0e/logo.png",
-            "name": "Heco-Peg LAMB Token",
+            "name": "LAMB",
             "symbol": "LAMB"
         },
         {
@@ -543,11 +551,1099 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x41198c6736d23734E6d17a6F0B4f2D15d2621A3a/logo.png",
             "name": "SHARE",
             "symbol": "SHARE"
+        },
+        {
+            "address": "0x350aE659B0010895b9E18400e9356B43BABc9139",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x350ae659b0010895b9e18400e9356b43babc9139/logo.png",
+            "name": "BKK",
+            "symbol": "BKK"
+        },
+        {
+            "address": "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f/logo.png",
+            "name": "MATTER",
+            "symbol": "MATTER"
+        },
+        {
+            "address": "0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3",
+            "chainId": 128,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3/logo.png",
+            "name": "SWFTC",
+            "symbol": "SWFTC"
+        },
+        {
+            "address": "0x48C859531254F25e57D1C1A8E030Ef0B1c895c27",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x48C859531254F25e57D1C1A8E030Ef0B1c895c27/logo.png",
+            "name": "DEP",
+            "symbol": "DEP"
+        },
+        {
+            "address": "0x42712dF5009c20fee340B245b510c0395896cF6e",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x42712dF5009c20fee340B245b510c0395896cF6e/logo.png",
+            "name": "DFT",
+            "symbol": "DFT"
+        },
+        {
+            "address": "0xE0fE25EeFCfcadDEF844fe30b8Be1d68ac6B7aF3",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3/logo.png",
+            "name": "XF",
+            "symbol": "XF"
+        },
+        {
+            "address": "0x9EDE2Df15DEeEE26A916B9B93Ea7d9363D7531D7",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9ede2df15deeee26a916b9b93ea7d9363d7531d7/logo.png",
+            "name": "HYOT",
+            "symbol": "HYOT"
+        },
+        {
+            "address": "0x2eFFC887B3195D7c8f3966A07c421D828E8F8AeE",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x2eFFC887B3195D7c8f3966A07c421D828E8F8AeE/logo.png",
+            "name": "HWIN",
+            "symbol": "HWIN"
+        },
+        {
+            "address": "0x958788357d9C9f0C3eAc4BFDF6869aB94710734D",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x958788357d9C9f0C3eAc4BFDF6869aB94710734D/logo.png",
+            "name": "NHA",
+            "symbol": "NHA"
+        },
+        {
+            "address": "0xCe0A5CA134fb59402B723412994B30E02f083842",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xce0a5ca134fb59402b723412994b30e02f083842/logo.png",
+            "name": "COMP",
+            "symbol": "COMP"
+        },
+        {
+            "address": "0x46EFB7724364ded21b3598519D754323A4f66EC9",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x46EFB7724364ded21b3598519D754323A4f66EC9/logo.png",
+            "name": "COPR",
+            "symbol": "COPR"
+        },
+        {
+            "address": "0xDe9495De889996404b14dDBf05f66Db7401F0733",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xDe9495De889996404b14dDBf05f66Db7401F0733/logo.png",
+            "name": "FIX",
+            "symbol": "FIX"
+        },
+        {
+            "address": "0xE09A504071C0c1483E86727fb95f550a0559d9D2",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xe09a504071c0c1483e86727fb95f550a0559d9d2/logo.png",
+            "name": "VNLA",
+            "symbol": "VNLA"
+        },
+        {
+            "address": "0x991075Cc14A91Fe001528943B3EB6DF31CfF431F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x991075Cc14A91Fe001528943B3EB6DF31CfF431F/logo.png",
+            "name": "ODT",
+            "symbol": "ODT"
+        },
+        {
+            "address": "0x6A4db3965CB6293dBA0F63F14FB36873172E38d3",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x6A4db3965CB6293dBA0F63F14FB36873172E38d3/logo.png",
+            "name": "LLC",
+            "symbol": "LLC"
+        },
+        {
+            "address": "0x5a42eeD7200d23F0D4CF35Ccd582D6d363F16BFc",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x5a42eeD7200d23F0D4CF35Ccd582D6d363F16BFc/logo.png",
+            "name": "LLS",
+            "symbol": "LLS"
+        },
+        {
+            "address": "0x704F96F04279ec8eB570e520EFcE56F9245CAc38",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x704F96F04279ec8eB570e520EFcE56F9245CAc38/logo.png",
+            "name": "HNB",
+            "symbol": "HNB"
+        },
+        {
+            "address": "0x52Ee54dd7a68e9cf131b0a57fd6015C74d7140E2",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2/logo.png",
+            "name": "PTD",
+            "symbol": "PTD"
+        },
+        {
+            "address": "0x9E9842bd60cA6CDD4D17532433a2EA41c723a40D",
+            "chainId": 128,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9e9842bd60ca6cdd4d17532433a2ea41c723a40d/logo.png",
+            "name": "ANO",
+            "symbol": "ANO"
+        },
+        {
+            "address": "0xeEF1324343ca7Bf6e743e21Dd9e92Dfa4eFc3a56",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56/logo.png",
+            "name": "CON",
+            "symbol": "CON"
+        },
+        {
+            "address": "0x9193754bA76c2DE16BeC8bE02590821cc9798acC",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9193754bA76c2DE16BeC8bE02590821cc9798acC/logo.png",
+            "name": "GDB",
+            "symbol": "GDB"
+        },
+        {
+            "address": "0xbBe6C2337a2543239FF313Bed370e4eAEda268eF",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xbbe6c2337a2543239ff313bed370e4eaeda268ef/logo.png",
+            "name": "sHT",
+            "symbol": "sHT"
+        },
+        {
+            "address": "0x2f92C6e8ed836B5d507251b59d816A55F1B853cC",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x2f92C6e8ed836B5d507251b59d816A55F1B853cC/logo.png",
+            "name": "sNEO",
+            "symbol": "sNEO"
+        },
+        {
+            "address": "0xfD6cE15009D46c6327649218431E8643F82f6D64",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xfd6ce15009d46c6327649218431e8643f82f6d64/logo.png",
+            "name": "HGT",
+            "symbol": "HGT"
+        },
+        {
+            "address": "0xcBD6Cb9243d8e3381Fea611EF023e17D1B7AeDF0",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xcBD6Cb9243d8e3381Fea611EF023e17D1B7AeDF0/logo.png",
+            "name": "BXH",
+            "symbol": "BXH"
+        },
+        {
+            "address": "0xb1A9a1585A553f2170fC68D402a278Af5D186c79",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xb1A9a1585A553f2170fC68D402a278Af5D186c79/logo.png",
+            "name": "XC",
+            "symbol": "XC"
+        },
+        {
+            "address": "0x80C66D460E2bB9d31a8De54b4016fcA986D0811F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x80c66d460e2bb9d31a8de54b4016fca986d0811f/logo.png",
+            "name": "HTM",
+            "symbol": "HTM"
+        },
+        {
+            "address": "0x7Ab088FedAE4FA8ada4Df638c07CEF6C23Aff002",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x7Ab088FedAE4FA8ada4Df638c07CEF6C23Aff002/logo.png",
+            "name": "DORA",
+            "symbol": "DORA"
+        },
+        {
+            "address": "0xaAaE746b5e55D14398879312660e9fDe07FBC1DC",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xaaae746b5e55d14398879312660e9fde07fbc1dc/logo.png",
+            "name": "PIPI",
+            "symbol": "PIPI"
+        },
+        {
+            "address": "0x7d4B6CDCC6fD68Ab651c97d787aF462B78F55cD0",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x7d4b6cdcc6fd68ab651c97d787af462b78f55cd0/logo.png",
+            "name": "ZT",
+            "symbol": "ZT"
+        },
+        {
+            "address": "0x38C499dd2a14Af3b695901bcEC76961008BBC227",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x38c499dd2a14af3b695901bcec76961008bbc227/logo.png",
+            "name": "pUSDT",
+            "symbol": "pUSDT"
+        },
+        {
+            "address": "0xfe04C1d41502Ac0D664B1B41dc23E1a4803188e2",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xfe04c1d41502ac0d664b1b41dc23e1a4803188e2/logo.png",
+            "name": "HGB",
+            "symbol": "HGB"
+        },
+        {
+            "address": "0xd187e65f5A6e88d84437D96d2aE8c909Cc329f95",
+            "chainId": 128,
+            "decimals": 12,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xd187e65f5a6e88d84437d96d2ae8c909cc329f95/logo.png",
+            "name": "STK",
+            "symbol": "STK"
+        },
+        {
+            "address": "0x74189862B069e2Be5f7c8E6ff08eA8E1B1948519",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x74189862b069e2be5f7c8e6ff08ea8e1b1948519/logo.png",
+            "name": "COOK",
+            "symbol": "COOK"
+        },
+        {
+            "address": "0xaab4B32014189e924a9759701586e8bFb0FeaE3c",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xaab4b32014189e924a9759701586e8bfb0feae3c/logo.png",
+            "name": "LUCK",
+            "symbol": "LUCK"
+        },
+        {
+            "address": "0x414fE43435086924b7b5A32D0218EE3a65bbfbeb",
+            "chainId": 128,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x414fe43435086924b7b5a32d0218ee3a65bbfbeb/logo.png",
+            "name": "DBS",
+            "symbol": "DBS"
+        },
+        {
+            "address": "0x1E0aBaF926013fAdC7da19aD41665bb753639A94",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x1e0abaf926013fadc7da19ad41665bb753639a94/logo.png",
+            "name": "RDTK",
+            "symbol": "RDTK"
+        },
+        {
+            "address": "0xb813b811967a77e30B3B1582A578753520C2a4d0",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xb813b811967a77e30b3b1582a578753520c2a4d0/logo.png",
+            "name": "sFILDA",
+            "symbol": "sFILDA"
+        },
+        {
+            "address": "0x9812C79099418486838a218037D49b2f823F120c",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9812c79099418486838a218037d49b2f823f120c/logo.png",
+            "name": "sNULS",
+            "symbol": "sNULS"
+        },
+        {
+            "address": "0x0f73280A282F3B87a3ae2e343cEb6A91e7D87Acd",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x0f73280a282f3b87a3ae2e343ceb6a91e7d87acd/logo.png",
+            "name": "AAB",
+            "symbol": "AAB"
+        },
+        {
+            "address": "0xf2d3640eeCB890984c3A4D282811f805Db2fA93b",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xf2d3640eecb890984c3a4d282811f805db2fa93b/logo.png",
+            "name": "HOBA",
+            "symbol": "HOBA"
+        },
+        {
+            "address": "0x38999Fa3a7320bD2c3609BF0f8cB5CD4C11D3Fe1",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x38999fa3a7320bd2c3609bf0f8cb5cd4c11d3fe1/logo.png",
+            "name": "TRIBE",
+            "symbol": "TRIBE"
+        },
+        {
+            "address": "0x485cdBFF08A4F91a16689E73893a11ae8B76af6D",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x485cdbff08a4f91a16689e73893a11ae8b76af6d/logo.png",
+            "name": "FEI",
+            "symbol": "FEI"
+        },
+        {
+            "address": "0x950BFdda329d120f6763d3C7bEDb35d2880bF7Bf",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x950bfdda329d120f6763d3c7bedb35d2880bf7bf/logo.png",
+            "name": "IDT",
+            "symbol": "IDT"
+        },
+        {
+            "address": "0x9FFA142B9c7726E819bb637d4cb70F02224B2185",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9ffa142b9c7726e819bb637d4cb70f02224b2185/logo.png",
+            "name": "PWT",
+            "symbol": "PWT"
+        },
+        {
+            "address": "0xff96dccf2763D512B6038Dc60b7E96d1A9142507",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xff96dccf2763d512b6038dc60b7e96d1a9142507/logo.png",
+            "name": "BOO",
+            "symbol": "BOO"
+        },
+        {
+            "address": "0x0302A9778A61ABd0c9cc1A8FB8f9246f3fBCd18F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x0302a9778a61abd0c9cc1a8fb8f9246f3fbcd18f/logo.png",
+            "name": "SWF",
+            "symbol": "SWF"
+        },
+        {
+            "address": "0x7404DB858261673d47bDdc2970a23d2163720a5F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x7404db858261673d47bddc2970a23d2163720a5f/logo.png",
+            "name": "LOM",
+            "symbol": "LOM"
+        },
+        {
+            "address": "0xF288A18b65FEe193C915158908143AbDde4D5106",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xf288a18b65fee193c915158908143abdde4d5106/logo.png",
+            "name": "GURU",
+            "symbol": "GURU"
+        },
+        {
+            "address": "0xC0EA346E4A6eA25a92975B268183Eb2628585f19",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xc0ea346e4a6ea25a92975b268183eb2628585f19/logo.png",
+            "name": "SYN",
+            "symbol": "SYN"
+        },
+        {
+            "address": "0xE1d1F66215998786110Ba0102ef558b22224C016",
+            "chainId": 128,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xe1d1f66215998786110ba0102ef558b22224c016/logo.png",
+            "name": "HOO",
+            "symbol": "HOO"
+        },
+        {
+            "address": "0x40280E26A572745B1152A54D1D44F365DaA51618",
+            "chainId": 128,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x40280e26a572745b1152a54d1d44f365daa51618/logo.png",
+            "name": "DOGE",
+            "symbol": "DOGE"
+        },
+        {
+            "address": "0xAE3A94A6Dc7fCe46B40D63bbf355a3ab2AA2a588",
+            "chainId": 128,
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588/logo.png",
+            "name": "EOS",
+            "symbol": "EOS"
+        },
+        {
+            "address": "0x843Af718EF25708765a8E0942F89edEae1D88DF0",
+            "chainId": 128,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x843af718ef25708765a8e0942f89edeae1d88df0/logo.png",
+            "name": "ADA",
+            "symbol": "ADA"
+        },
+        {
+            "address": "0xA2F3C2446a3E20049708838a779Ff8782cE6645a",
+            "chainId": 128,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xa2f3c2446a3e20049708838a779ff8782ce6645a/logo.png",
+            "name": "XRP",
+            "symbol": "XRP"
+        },
+        {
+            "address": "0xc35eFB44D01f9C121F7070f3De53E600233378f8",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xc35efb44d01f9c121f7070f3de53e600233378f8/logo.png",
+            "name": "DHD",
+            "symbol": "DHD"
+        },
+        {
+            "address": "0xD27547A4e3bA5FBc8ac6C2477151aB8E17e4D341",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xd27547a4e3ba5fbc8ac6c2477151ab8e17e4d341/logo.png",
+            "name": "CVT",
+            "symbol": "CVT"
+        },
+        {
+            "address": "0x4fA8F0a59a47BeaBf950A8795933C01455Dd9C81",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x4fa8f0a59a47beabf950a8795933c01455dd9c81/logo.png",
+            "name": "XMPT",
+            "symbol": "XMPT"
+        },
+        {
+            "address": "0x8637ac40300296fE3e5C9E67f73AC1d16749A7bf",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x8637ac40300296fe3e5c9e67f73ac1d16749a7bf/logo.png",
+            "name": "XFORCE",
+            "symbol": "XFORCE"
+        },
+        {
+            "address": "0x057899Dd6FcB69b23f3b4DC6c7c2bFA4A8a0b0EE",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x057899dd6fcb69b23f3b4dc6c7c2bfa4a8a0b0ee/logo.png",
+            "name": "RP",
+            "symbol": "RP"
+        },
+        {
+            "address": "0x3aC19481FAce71565155F370B3E34A1178745382",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x3ac19481face71565155f370b3e34a1178745382/logo.png",
+            "name": "HYN",
+            "symbol": "HYN"
+        },
+        {
+            "address": "0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0/logo.png",
+            "name": "ONE",
+            "symbol": "ONE"
+        },
+        {
+            "address": "0xC0eCC17C6C87B32b2a86D9F4a783974cB1e6507C",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xc0ecc17c6c87b32b2a86d9f4a783974cb1e6507c/logo.png",
+            "name": "JT",
+            "symbol": "JT"
+        },
+        {
+            "address": "0x90e8896b12a92D51CD213b681C2CaD83A9a6bD49",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x90e8896b12a92d51cd213b681c2cad83a9a6bd49/logo.png",
+            "name": "APYS",
+            "symbol": "APYS"
+        },
+        {
+            "address": "0xd10852DF03Ea8b8Af0CC0B09cAc3f7dbB15e0433",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xd10852df03ea8b8af0cc0b09cac3f7dbb15e0433/logo.png",
+            "name": "hFLUX",
+            "symbol": "hFLUX"
+        },
+        {
+            "address": "0xE8145dF475e819C64ad68d66CD09d1a5E5E60219",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xe8145df475e819c64ad68d66cd09d1a5e5e60219/logo.png",
+            "name": "BCV",
+            "symbol": "BCV"
+        },
+        {
+            "address": "0xA51EEf95A1Da7E26ED7d06A28e1Bb3507cC34eBd",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xa51eef95a1da7e26ed7d06a28e1bb3507cc34ebd/logo.png",
+            "name": "PFi",
+            "symbol": "PFi"
+        },
+        {
+            "address": "0x770c3565daDB34edE50a226A21d1d0671A89BCFD",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x770c3565dadb34ede50a226a21d1d0671a89bcfd/logo.png",
+            "name": "XY",
+            "symbol": "XY"
+        },
+        {
+            "address": "0xC38072AA3F8E049De541223A9c9772132bB48634",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xc38072aa3f8e049de541223a9c9772132bb48634/logo.png",
+            "name": "SHIB",
+            "symbol": "SHIB"
+        },
+        {
+            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x765277eebeca2e31912c9946eae1021199b39c61/logo.png",
+            "name": "BIFI",
+            "symbol": "BIFI"
+        },
+        {
+            "address": "0x46914A848405fd79a0B937F388936C9798bF6eAC",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x46914a848405fd79a0b937f388936c9798bf6eac/logo.png",
+            "name": "sMDX",
+            "symbol": "sMDX"
+        },
+        {
+            "address": "0xE5ed86704819b5C5ec41eeeb52BB739fd36Aec20",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xe5ed86704819b5c5ec41eeeb52bb739fd36aec20/logo.png",
+            "name": "ATM",
+            "symbol": "ATM"
+        },
+        {
+            "address": "0x4911F439936b7E34453BffF4322520E23243cfA3",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x4911f439936b7e34453bfff4322520e23243cfa3/logo.png",
+            "name": "ETET",
+            "symbol": "ETET"
+        },
+        {
+            "address": "0x7a45D615f26Da940fFFF43EcA1274d8EA116Ce0C",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x7a45d615f26da940ffff43eca1274d8ea116ce0c/logo.png",
+            "name": "MAN",
+            "symbol": "MAN"
+        },
+        {
+            "address": "0xB86e05F2CbEd6DE54874763E4237be6b6391Bf48",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xb86e05f2cbed6de54874763e4237be6b6391bf48/logo.png",
+            "name": "ETHST",
+            "symbol": "ETHST"
+        },
+        {
+            "address": "0x99336B9a5f70f52B4B1fC2886ba9bd2D2263f5D5",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5/logo.png",
+            "name": "ET",
+            "symbol": "ET"
+        },
+        {
+            "address": "0x3beFB2308bcE92dA97264077fAf37dcd6C8A75E6",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x3befb2308bce92da97264077faf37dcd6c8a75e6/logo.png",
+            "name": "WOO",
+            "symbol": "WOO"
+        },
+        {
+            "address": "0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2/logo.png",
+            "name": "BLACK",
+            "symbol": "BLACK"
+        },
+        {
+            "address": "0x910651F81a605a6Ef35d05527d24A72fecef8bF0",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x910651f81a605a6ef35d05527d24a72fecef8bf0/logo.png",
+            "name": "WAR",
+            "symbol": "WAR"
+        },
+        {
+            "address": "0x9a359907a1B8f80F59653B3B0844615dda109730",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9a359907a1b8f80f59653b3b0844615dda109730/logo.png",
+            "name": "GOAT",
+            "symbol": "GOAT"
+        },
+        {
+            "address": "0x25032dBfC1C889ECC78ef1ADCfdf65e45A3E02EC",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x25032dbfc1c889ecc78ef1adcfdf65e45a3e02ec/logo.png",
+            "name": "AFT",
+            "symbol": "AFT"
+        },
+        {
+            "address": "0xacef56397556502B27048a4a546D0F2c2f54b840",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xacef56397556502b27048a4a546d0f2c2f54b840/logo.png",
+            "name": "BADI",
+            "symbol": "BADI"
+        },
+        {
+            "address": "0x099626783842d35C221E5d01694C2B928eB3B0AD",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x099626783842d35c221e5d01694c2b928eb3b0ad/logo.png",
+            "name": "DOG",
+            "symbol": "DOG"
+        },
+        {
+            "address": "0xd44c3Ba075D73c812E272c03D42FDB6448Ae10cd",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xd44c3ba075d73c812e272c03d42fdb6448ae10cd/logo.png",
+            "name": "LION",
+            "symbol": "LION"
+        },
+        {
+            "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+            "chainId": 128,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x0D1cde65E2DBa76D08c29867Aa3bC1b84e1E3AEd",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x0d1cde65e2dba76d08c29867aa3bc1b84e1e3aed/logo.png",
+            "name": "YF",
+            "symbol": "YF"
+        },
+        {
+            "address": "0xF55a93b613D172b86c2Ba3981a849DaE2aeCDE2f",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xf55a93b613d172b86c2ba3981a849dae2aecde2f/logo.png",
+            "name": "YFX",
+            "symbol": "YFX"
+        },
+        {
+            "address": "0xb62E3b6a3866f5754FdeFcf82e733310e2851043",
+            "chainId": 128,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xb62e3b6a3866f5754fdefcf82e733310e2851043/logo.png",
+            "name": "HTMoon",
+            "symbol": "HTMoon"
+        },
+        {
+            "address": "0x29E8e0055Cd5C41bDff16A649Be2D1e653901625",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x29e8e0055cd5c41bdff16a649be2d1e653901625/logo.png",
+            "name": "SHARE",
+            "symbol": "SHARE"
+        },
+        {
+            "address": "0x06943F317B0111BD5d3EFF7E83F33b05914721c5",
+            "chainId": 128,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x06943f317b0111bd5d3eff7e83f33b05914721c5/logo.png",
+            "name": "KISHU",
+            "symbol": "KISHU"
+        },
+        {
+            "address": "0x89F8E4473842e92441165c3506a0b909049f6Faa",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x89f8e4473842e92441165c3506a0b909049f6faa/logo.png",
+            "name": "ASS",
+            "symbol": "ASS"
+        },
+        {
+            "address": "0x10C41DBf49B935f268b6cAb0A0a9e9b62a654BDe",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x10c41dbf49b935f268b6cab0a0a9e9b62a654bde/logo.png",
+            "name": "NDFIL",
+            "symbol": "NDFIL"
+        },
+        {
+            "address": "0xE7aAD5EB7d46C8fCECdd1dc88114CCA2385C2317",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xe7aad5eb7d46c8fcecdd1dc88114cca2385c2317/logo.png",
+            "name": "NDCEX",
+            "symbol": "NDCEX"
+        },
+        {
+            "address": "0x4bC94ffe38cA9BbbFbfd62eDba0aA5574418A65e",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x4bc94ffe38ca9bbbfbfd62edba0aa5574418a65e/logo.png",
+            "name": "CMC",
+            "symbol": "CMC"
+        },
+        {
+            "address": "0x8d854e603dc777337134286f5b3408261736a88F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x8d854e603dc777337134286f5b3408261736a88f/logo.png",
+            "name": "MX",
+            "symbol": "MX"
+        },
+        {
+            "address": "0xd97b21993187391F44D497DD4d961122e0a6f958",
+            "chainId": 128,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xd97b21993187391f44d497dd4d961122e0a6f958/logo.png",
+            "name": "mBTM",
+            "symbol": "mBTM"
+        },
+        {
+            "address": "0x14FADc277f18f848B10d120BA723A3f0f4189a05",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x14fadc277f18f848b10d120ba723a3f0f4189a05/logo.png",
+            "name": "KIKA",
+            "symbol": "KIKA"
+        },
+        {
+            "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xee9801669c6138e84bd50deb500827b776777d28/logo.png",
+            "name": "O3",
+            "symbol": "O3"
+        },
+        {
+            "address": "0x9c80d1Ff2452dF8c7d061ee277082B6D51b3f6A0",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9c80d1ff2452df8c7d061ee277082b6d51b3f6a0/logo.png",
+            "name": "FIDO",
+            "symbol": "FIDO"
+        },
+        {
+            "address": "0x5CDAFd00AfF95DA3304791A5C9aE00f84506a909",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x5cdafd00aff95da3304791a5c9ae00f84506a909/logo.png",
+            "name": "MFIL",
+            "symbol": "MFIL"
+        },
+        {
+            "address": "0xFC33785f44c1069010b5De466eE7657C27aB8A0E",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xfc33785f44c1069010b5de466ee7657c27ab8a0e/logo.png",
+            "name": "HOGT",
+            "symbol": "HOGT"
+        },
+        {
+            "address": "0x440ab529708ce0aF5bb3a4d77cfd270BEED701C5",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x440ab529708ce0af5bb3a4d77cfd270beed701c5/logo.png",
+            "name": "ORB",
+            "symbol": "ORB"
+        },
+        {
+            "address": "0x764B290D97Ca0119387133feA63391A765213dc5",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x764b290d97ca0119387133fea63391a765213dc5/logo.png",
+            "name": "MEL",
+            "symbol": "MEL"
+        },
+        {
+            "address": "0x681472b80D6E5c4fC27760A9b92E77d7EEA99679",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x681472b80d6e5c4fc27760a9b92e77d7eea99679/logo.png",
+            "name": "CMP",
+            "symbol": "CMP"
+        },
+        {
+            "address": "0x8c517631a7cD20FC365aA9A4025955FcDAA11f57",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x8c517631a7cd20fc365aa9a4025955fcdaa11f57/logo.png",
+            "name": "HBELT",
+            "symbol": "HBELT"
+        },
+        {
+            "address": "0xf6EF1f99314D9B1A51FD5B69C7D6ad0008083477",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xf6ef1f99314d9b1a51fd5b69c7d6ad0008083477/logo.png",
+            "name": "OGT",
+            "symbol": "OGT"
+        },
+        {
+            "address": "0xaCA179e010a5d0624d103D2e8E563b26716194CE",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xaca179e010a5d0624d103d2e8e563b26716194ce/logo.png",
+            "name": "FA",
+            "symbol": "FA"
+        },
+        {
+            "address": "0xF23E43AB4f3990651b562411CDa2A053F8590563",
+            "chainId": 128,
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xf23e43ab4f3990651b562411cda2a053f8590563/logo.png",
+            "name": "eCell",
+            "symbol": "eCell"
+        },
+        {
+            "address": "0x8a3B7bCbcFA1cF18D415db34E8Ed39bDA95aCfc8",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x8a3b7bcbcfa1cf18d415db34e8ed39bda95acfc8/logo.png",
+            "name": "SKK",
+            "symbol": "SKK"
+        },
+        {
+            "address": "0xA2B7CB98585634ad3b91CE7E719a4C696090aDF1",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xa2b7cb98585634ad3b91ce7e719a4c696090adf1/logo.png",
+            "name": "COO",
+            "symbol": "COO"
+        },
+        {
+            "address": "0x80861A817106665bcA173DB6AC2ab628a738c737",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x80861a817106665bca173db6ac2ab628a738c737/logo.png",
+            "name": "COW",
+            "symbol": "COW"
+        },
+        {
+            "address": "0x588694f56AF825b5A1Bb80e6ce1AAF08755064de",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x588694f56af825b5a1bb80e6ce1aaf08755064de/logo.png",
+            "name": "COC",
+            "symbol": "COC"
+        },
+        {
+            "address": "0xc424Ad368d901F6159e43b4f59dD15f90c06Ac67",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xc424ad368d901f6159e43b4f59dd15f90c06ac67/logo.png",
+            "name": "COB",
+            "symbol": "COB"
+        },
+        {
+            "address": "0xF08A2A19e4766B342b5eD6644550B05acEdeE5A8",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xf08a2a19e4766b342b5ed6644550b05acedee5a8/logo.png",
+            "name": "COS",
+            "symbol": "COS"
+        },
+        {
+            "address": "0x15e65456310ecb216B51EfBd8a1dBf753353DcF9",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x15e65456310ecb216b51efbd8a1dbf753353dcf9/logo.png",
+            "name": "RING",
+            "symbol": "RING"
+        },
+        {
+            "address": "0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3/logo.png",
+            "name": "BNB",
+            "symbol": "BNB"
+        },
+        {
+            "address": "0x7f8AB1593f84B0C450385a3f70e921cB796401Ba",
+            "chainId": 128,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x7f8ab1593f84b0c450385a3f70e921cb796401ba/logo.png",
+            "name": "SGB",
+            "symbol": "SGB"
+        },
+        {
+            "address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xbc194e6f748a222754c3e8b9946922c09e7d4e91/logo.png",
+            "name": "LEV",
+            "symbol": "LEV"
+        },
+        {
+            "address": "0xFC01b8f883a89278235ba674bbE2bb48db96d9Cf",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xfc01b8f883a89278235ba674bbe2bb48db96d9cf/logo.png",
+            "name": "PAUL",
+            "symbol": "PAUL"
+        },
+        {
+            "address": "0x7c657cc7B58f4fc8AC6d951d82D31C7dD370106D",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x7c657cc7b58f4fc8ac6d951d82d31c7dd370106d/logo.png",
+            "name": "BSD",
+            "symbol": "BSD"
+        },
+        {
+            "address": "0xDb0ad86386Dc5C12CD2B9Cb7f17f31f405c7E376",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xdb0ad86386dc5c12cd2b9cb7f17f31f405c7e376/logo.png",
+            "name": "PNX",
+            "symbol": "PNX"
+        },
+        {
+            "address": "0xc36fF5B42092A1822948e8fac103509CC8B68DC6",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xc36ff5b42092a1822948e8fac103509cc8b68dc6/logo.png",
+            "name": "PUSD",
+            "symbol": "PUSD"
+        },
+        {
+            "address": "0x926875854917C871EbBd44B75Ac33AC8386D4eD5",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x926875854917c871ebbd44b75ac33ac8386d4ed5/logo.png",
+            "name": "CRU",
+            "symbol": "CRU"
+        },
+        {
+            "address": "0xAFe739209C8bD6993D0ABDB50caB9bC4Eafe68c4",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xafe739209c8bd6993d0abdb50cab9bc4eafe68c4/logo.png",
+            "name": "GFC",
+            "symbol": "GFC"
+        },
+        {
+            "address": "0x3Ca3d376BFe88510712B3E8CA5AEE2cfd8c3d956",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x3ca3d376bfe88510712b3e8ca5aee2cfd8c3d956/logo.png",
+            "name": "SGT",
+            "symbol": "SGT"
+        },
+        {
+            "address": "0x1B625dd82aEb3aac21398ea9933fBd56e9652383",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x1b625dd82aeb3aac21398ea9933fbd56e9652383/logo.png",
+            "name": "kungfu",
+            "symbol": "kungfu"
+        },
+        {
+            "address": "0x4f0A338DFa1C9369F62109C9022042e1F0aE479b",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x4f0a338dfa1c9369f62109c9022042e1f0ae479b/logo.png",
+            "name": "NUT",
+            "symbol": "NUT"
+        },
+        {
+            "address": "0x67BAB912eE30074cF9a94826E2e02D9936842781",
+            "chainId": 128,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x67bab912ee30074cf9a94826e2e02d9936842781/logo.png",
+            "name": "Dogmoon",
+            "symbol": "Dogmoon"
+        },
+        {
+            "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x61ed1c66239d29cc93c8597c6167159e8f69a823/logo.png",
+            "name": "RSD",
+            "symbol": "RSD"
+        },
+        {
+            "address": "0x1f7E5d3ACf238674Df0Cbfb64f66428dbAB3D442",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x1f7e5d3acf238674df0cbfb64f66428dbab3d442/logo.png",
+            "name": "SID",
+            "symbol": "SID"
+        },
+        {
+            "address": "0x180dAe91D6d56235453a892d2e56a3E40Ba81DF8",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x180dae91d6d56235453a892d2e56a3e40ba81df8/logo.png",
+            "name": "DOJO",
+            "symbol": "DOJO"
+        },
+        {
+            "address": "0x6aB015683914CD09A209b500f9CB24C39352973d",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x6ab015683914cd09a209b500f9cb24c39352973d/logo.png",
+            "name": "UDog",
+            "symbol": "UDog"
+        },
+        {
+            "address": "0x19EcE5243ED8CBF4b4aabc7F897881EB5759FB7b",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x19ece5243ed8cbf4b4aabc7f897881eb5759fb7b/logo.png",
+            "name": "NIO",
+            "symbol": "NIO"
+        },
+        {
+            "address": "0xc66496BD7616EE02691E56d17608E59E6C9f94eA",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xc66496bd7616ee02691e56d17608e59e6c9f94ea/logo.png",
+            "name": "MNC",
+            "symbol": "MNC"
+        },
+        {
+            "address": "0xb7A819D170e59D79f6289b91cA1D1a9D0C788A2a",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xb7a819d170e59d79f6289b91ca1d1a9d0c788a2a/logo.png",
+            "name": "LGC",
+            "symbol": "LGC"
         }
     ],
     "version": {
         "major": 1,
-        "minor": 5,
+        "minor": 7,
         "patch": 0
     }
 }
