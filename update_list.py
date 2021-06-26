@@ -47,7 +47,7 @@ def process_token(t, chain, fetch_logo):
     chainId = CHAIN_IDS[chain.upper()]
     if t['chainId'] == chainId:
         address = Web3.toChecksumAddress(t['address'])
-        path = os.path.join(chain.lower(), t['address'], 'logo.png')
+        path = os.path.join(chain.lower(), Web3.toChecksumAddress(t['address']), 'logo.png')
         logo_path = os.path.join(LOGO_DIR, path)
         logo_target = os.path.join(HOSTED_URL, logo_path)
         if fetch_logo:
