@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x5B67676a984807a212b1c59eBFc9B3568a474F0a/logo.png",
     "name": "Elk MUMBAI Tokens",
-    "timestamp": "2021-06-16T20:20:08+00:00",
+    "timestamp": "2021-06-26T21:23:33+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -59,7 +59,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     }
 }
