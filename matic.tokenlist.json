@@ -33,6 +33,14 @@
             "symbol": "KRILL"
         },
         {
+            "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png",
+            "name": "Polycat.finance",
+            "symbol": "FISH"
+        },
+        {
             "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
             "chainId": 137,
             "decimals": 18,
@@ -979,7 +987,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     }
 }

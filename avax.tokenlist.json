@@ -41,6 +41,38 @@
             "symbol": "SNOB"
         },
         {
+            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+            "name": "Trader Joe",
+            "symbol": "JOE"
+        },
+        {
+            "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
+            "name": "Avalaunch",
+            "symbol": "XAVA"
+        },
+        {
+            "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png",
+            "name": "Verso.Finance",
+            "symbol": "VSO"
+        },
+        {
+            "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png",
+            "name": "Rugpull Prevention",
+            "symbol": "RUGPULL"
+        },
+        {
             "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
             "chainId": 43114,
             "decimals": 9,
@@ -3027,7 +3059,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     }
 }
