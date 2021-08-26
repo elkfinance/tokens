@@ -13,6 +13,7 @@ import re
 import sys
 from web3 import Web3
 
+WHITELIST = [ 'lELK', 'ELK', 'PNG', 'DAI', 'ETH', 'USDT', 'USDC', 'QUICK', 'WBTC', 'LINK', 'YTS', 'OLIVE', 'PEFI', 'AAVE', 'GHST', 'MUST', 'DEFI5', 'CC10', 'CEL', 'KRILL', 'MANA', 'SUSHI', 'SPORE', 'SFIN', 'SL3', 'SNOB', 'fUSDT', 'BOO', 'SPIRIT', 'BNB', 'ZOO', 'CREAM', 'ICE', 'YFI', 'DSTEIN', 'SHIBA', 'ARFV2', 'CXO', 'AZUKI', 'AVE', 'HUSKY', 'HUSD', 'FilDA', 'GOF', 'MKR', 'COW', 'HBTC', 'MDX', 'HBELT', 'HPT', 'PTD', 'XAVA', 'VSO', 'JOE', 'UNI', 'STAKE', 'HNY', 'AGVE', 'xCOMB', 'DXD', 'HAUS', 'UNCX', 'BTCB', 'BUSD', 'CAKE', 'BAKE', 'REEF', 'XRP', 'ADA', 'DOT', 'TRX', 'BELT']
 
 CHAIN_IDS = {
     'MUMBAI': 80001,
@@ -88,6 +89,8 @@ if __name__ == '__main__':
 
     for symbol, chain_details in sorted(grouped_tokens.items(), key=lambda x: x[0]):
         if symbol in IGNORE:
+            continue
+        if symbol not in WHITELIST:
             continue
         safe_symbol = symbol
         if '+' in safe_symbol:

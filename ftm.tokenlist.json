@@ -295,6 +295,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD0660cD418a64a1d44E9214ad8e459324D8157f1/logo.png",
             "name": "Woofy",
             "symbol": "WOOFY"
+        },
+        {
+            "address": "0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882/logo.png",
+            "name": "ftm.guru",
+            "symbol": "ELITE"
         }
     ],
     "version": {
