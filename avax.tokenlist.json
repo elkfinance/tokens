@@ -3055,6 +3055,21 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png",
             "name": "Maker",
             "symbol": "MKR"
+        },
+        {
+            "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+            "name": "Yield Yak Token",
+            "symbol": "YAK"
+        {
+            "address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
+            "name": "AVME",
+            "symbol": "AVME"
         }
     ],
     "version": {

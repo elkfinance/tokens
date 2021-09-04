@@ -1769,6 +1769,14 @@
             "symbol": "ZEE"
         },
         {
+            "address": "0x0328A69b363a16f66810B23cB0b8d32Abadb203D",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x0328A69b363a16f66810B23cB0b8d32Abadb203D/logo.png",
+            "name": "Kanaloa Network",
+            "symbol": "KANA"
+        },
+        {
             "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
             "chainId": 56,
             "decimals": 12,
