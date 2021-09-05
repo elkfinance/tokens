@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
     "name": "Elk XDAI Tokens",
-    "timestamp": "2021-08-17T11:08:27+00:00",
+    "timestamp": "2021-08-26T11:08:27+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -1522,8 +1522,8 @@
         }
     ],
     "version": {
-        "major": 1,
-        "minor": 9,
+        "major": 2,
+        "minor": 0,
         "patch": 0
     }
 }
