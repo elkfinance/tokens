@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
     "name": "Elk XDAI Tokens",
-    "timestamp": "2021-08-26T11:08:27+00:00",
+    "timestamp": "2021-09-11T00:00:00+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -1422,7 +1422,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/logo.png",
             "name": "xDai Native Comb",
-            "symbol": "xCOMB"
+            "symbol": "XCOMB"
         },
         {
             "address": "0xf1738912ae7439475712520797583ac784ea9033",
@@ -1519,11 +1519,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x226bCf0e417428a25012d0fA2183d37f92bCeDF6/logo.png",
             "name": "0x Protocol Token on xDai",
             "symbol": "ZRX"
+        },
+        {
+            "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
+            "name": "FOX",
+            "symbol": "FOX"
         }
     ],
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

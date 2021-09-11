@@ -13,7 +13,7 @@ import re
 import sys
 from web3 import Web3
 
-WHITELIST = [ 'lELK', 'ELK', 'PNG', 'DAI', 'ETH', 'USDT', 'USDC', 'QUICK', 'WBTC', 'LINK', 'YTS', 'OLIVE', 'PEFI', 'AAVE', 'GHST', 'MUST', 'DEFI5', 'CC10', 'CEL', 'KRILL', 'MANA', 'SUSHI', 'SPORE', 'SFIN', 'SL3', 'SNOB', 'fUSDT', 'BOO', 'SPIRIT', 'BNB', 'ZOO', 'CREAM', 'ICE', 'YFI', 'DSTEIN', 'SHIBA', 'ARFV2', 'CXO', 'AZUKI', 'AVE', 'HUSKY', 'HUSD', 'FilDA', 'GOF', 'MKR', 'COW', 'HBTC', 'MDX', 'HBELT', 'HPT', 'PTD', 'XAVA', 'VSO', 'JOE', 'UNI', 'STAKE', 'HNY', 'AGVE', 'xCOMB', 'DXD', 'HAUS', 'UNCX', 'BTCB', 'BUSD', 'CAKE', 'BAKE', 'REEF', 'XRP', 'ADA', 'DOT', 'TRX', 'BELT']
+WHITELIST = [ 'PNG', 'DAI', 'ETH', 'USDT', 'USDC', 'QUICK', 'WBTC', 'LINK', 'YTS', 'OLIVE', 'PEFI', 'AAVE', 'GHST', 'MUST', 'DEFI5', 'CC10', 'CEL', 'KRILL', 'MANA', 'SUSHI', 'SPORE', 'SFIN', 'SL3', 'SNOB', 'FUSDT', 'BOO', 'SPIRIT', 'BNB', 'ZOO', 'CREAM', 'ICE', 'YFI', 'DSTEIN', 'SHIBA', 'ARFV2', 'CXO', 'AZUKI', 'AVE', 'HUSKY', 'HUSD', 'FILDA', 'GOF', 'MKR', 'COW', 'HBTC', 'MDX', 'HBELT', 'HPT', 'PTD', 'XAVA', 'VSO', 'JOE', 'UNI', 'STAKE', 'HNY', 'AGVE', 'XCOMB', 'DXD', 'HAUS', 'UNCX', 'BTCB', 'BUSD', 'CAKE', 'BAKE', 'REEF', 'XRP', 'ADA', 'DOT', 'TRX', 'BELT', 'SHI3LD', 'WUSD', 'WEXPOLY', 'WAULTX', 'PCOMB', 'PAR', 'POLYDOGE', 'SURF', 'YAK', 'QI', 'AVME', 'SHERPA', 'RUGPULL', 'WILD', 'FOLIVE', 'FOX', 'COLD', 'DXD', 'MDEX', 'BANANA', 'TUNDRA', 'NUT', 'WEX', 'KANA', 'SOTA', 'WAVE', 'WBTC.e', 'WETH.e', 'DAI.e', 'USDT.e', 'LINK.e', 'SUSHI.e', 'AAVE.e']
 
 CHAIN_IDS = {
     'MUMBAI': 80001,
@@ -97,6 +97,8 @@ if __name__ == '__main__':
             safe_symbol = safe_symbol.replace('+', '_')
         if '-' in safe_symbol:
             safe_symbol = safe_symbol.replace('-', '_')
+        if '.' in safe_symbol:
+            safe_symbol = safe_symbol.replace('.', '_')
         if safe_symbol.startswith('$') or safe_symbol.startswith('0') or safe_symbol.startswith('1') or safe_symbol.startswith('2'):
             safe_symbol = '_' + safe_symbol
         print('export const %s: { [chainId in ChainId]: Token } = {' % safe_symbol)

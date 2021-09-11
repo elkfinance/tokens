@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
     "name": "Elk MATIC Tokens",
-    "timestamp": "2021-08-26T21:23:33+00:00",
+    "timestamp": "2021-09-11T00:00:00+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -37,7 +37,7 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png",
-            "name": "Polycat.finance",
+            "name": "FISH",
             "symbol": "FISH"
         },
         {
@@ -253,7 +253,7 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png",
-            "name": "Aavegotchi GHST Token",
+            "name": "GHST Token",
             "symbol": "GHST"
         },
         {
@@ -261,7 +261,7 @@
             "chainId": 137,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C/logo.png",
-            "name": "HEXX",
+            "name": "HEX",
             "symbol": "HEX"
         },
         {
@@ -877,7 +877,7 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947/logo.png",
-            "name": "pTokens BTC",
+            "name": "pBTC",
             "symbol": "pBTC"
         },
         {
@@ -983,11 +983,235 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xD921F8318cfd786baB1ea7492673F053c518Ac04/logo.png",
             "name": "Staked SDT",
             "symbol": "xSDT"
+        },
+        {
+            "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539/logo.png",
+            "name": "Adamant",
+            "symbol": "ADDY"
+        },
+        {
+            "address": "0x669ddc70273084Ea30e6cd4f28CA6e2C70735065",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x669ddc70273084Ea30e6cd4f28CA6e2C70735065/logo.png",
+            "name": "AGAc",
+            "symbol": "AGAc"
+        },
+        {
+            "address": "0xcBce9f77921C2E90522d438dF4C5582F4c617768",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xcBce9f77921C2E90522d438dF4C5582F4c617768/logo.png",
+            "name": "AGAcr",
+            "symbol": "AGAcr"
+        },
+        {
+            "address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x6C0AB120dBd11BA701AFF6748568311668F63FE0/logo.png",
+            "name": "APWine",
+            "symbol": "APW"
+        },
+        {
+            "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F/logo.png",
+            "name": "Binance coin",
+            "symbol": "BNB"
+        },
+        {
+            "address": "0x6863BD30C9e313B264657B107352bA246F8Af8e0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x6863BD30C9e313B264657B107352bA246F8Af8e0/logo.png",
+            "name": "Blackpool",
+            "symbol": "BPT"
+        },
+        {
+            "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
+            "name": "Eleven Finance",
+            "symbol": "ELE"
+        },
+        {
+            "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xF4B0903774532AEe5ee567C02aaB681a81539e92/logo.png",
+            "name": "PolyGaj",
+            "symbol": "GAJ"
+        },
+        {
+            "address": "0x6A174B728D8b7C0C1F239910BB90B3540e1Cc0Dd",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x6A174B728D8b7C0C1F239910BB90B3540e1Cc0Dd/logo.png",
+            "name": "GrumpySat",
+            "symbol": "gSAT"
+        },
+        {
+            "address": "0xd93c61D4418d77A537b6B57478C108E193362f0C",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xd93c61D4418d77A537b6B57478C108E193362f0C/logo.png",
+            "name": "MegaBONK",
+            "symbol": "mBONK"
+        },
+        {
+            "address": "0x9f5755D47fB80100E7ee65Bf7e136FCA85Dd9334",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x9f5755D47fB80100E7ee65Bf7e136FCA85Dd9334/logo.png",
+            "name": "OM",
+            "symbol": "OM"
+        },
+        {
+            "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf/logo.png",
+            "name": "Autofarm",
+            "symbol": "pAUTO"
+        },
+        {
+            "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png",
+            "name": "renDOGE",
+            "symbol": "renDOGE"
+        },
+        {
+            "address": "0x9e01e0A928588aE6E669b8d1F0f1fa4AB976f617",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x9e01e0A928588aE6E669b8d1F0f1fa4AB976f617/logo.png",
+            "name": "Showcase",
+            "symbol": "SHO"
+        },
+        {
+            "address": "0xBbbe128568222623D21299f019a978C8587B33dC",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xBbbe128568222623D21299f019a978C8587B33dC/logo.png",
+            "name": "StakeWise",
+            "symbol": "SWISE"
+        },
+        {
+            "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png",
+            "name": "IRON Titanium Token",
+            "symbol": "TITAN"
+        },
+        {
+            "address": "0xc0f14C88250E680eCd70224B7fBa82b7C6560d12",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xc0f14C88250E680eCd70224B7fBa82b7C6560d12/logo.png",
+            "name": "wrapped Prestige",
+            "symbol": "wPTG"
+        },
+        {
+            "address": "0xb3B681dEE0435eCc0a508e40B02b3C9068D618cd",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xb3B681dEE0435eCc0a508e40B02b3C9068D618cd/logo.png",
+            "name": "YAM",
+            "symbol": "YAM"
+        },
+        {
+            "address": "0xb8ab048D6744a276b2772dC81e406a4b769A5c3D",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xb8ab048D6744a276b2772dC81e406a4b769A5c3D/logo.png",
+            "name": "WUSD",
+            "symbol": "WUSD"
+        },
+        {
+            "address": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x4c4BF319237D98a30A929A96112EfFa8DA3510EB/logo.png",
+            "name": "POLYWEX",
+            "symbol": "WEXPOLY"
+        },
+        {
+            "address": "0x37D1EbC3Af809b8fADB45DCE7077eFc629b2B5BB",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x37D1EbC3Af809b8fADB45DCE7077eFc629b2B5BB/logo.png",
+            "name": "Pcomb",
+            "symbol": "PCOMB"
+        },
+        {
+            "address": "0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2/logo.png",
+            "name": "Parachute",
+            "symbol": "PAR"
+        },
+        {
+            "address": "0x4DE7FEA447b837d7E77848a4B6C0662a64A84E14",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x4DE7FEA447b837d7E77848a4B6C0662a64A84E14/logo.png",
+            "name": "polyWAVE",
+            "symbol": "WAVE"
+        },
+        {
+            "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472/logo.png",
+            "name": "PolyDoge",
+            "symbol": "POLYDOGE"
+        },
+        {
+            "address": "0xb371248Dd0f9E4061ccf8850E9223Ca48Aa7CA4b",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xb371248Dd0f9E4061ccf8850E9223Ca48Aa7CA4b/logo.png",
+            "name": "HNY",
+            "symbol": "HNY"
+        },
+        {
+            "address": "0x3053ad3b31600074e9A90440770f78D5e8Fc5A54",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x3053ad3b31600074e9A90440770f78D5e8Fc5A54/logo.png",
+            "name": "WAULTx",
+            "symbol": "WAULTX"
+        },
+        {
+            "address": "0xF239E69ce434c7Fb408b05a0Da416b14917d934e",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xF239E69ce434c7Fb408b05a0Da416b14917d934e/logo.png",
+            "name": "PolyShield",
+            "symbol": "SHI3LD"
+        },
+        {
+            "address": "0x1E42EDbe5376e717C1B22904C59e406426E8173F",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x1E42EDbe5376e717C1B22904C59e406426E8173F/logo.png",
+            "name": "SURF",
+            "symbol": "SURF"
         }
     ],
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

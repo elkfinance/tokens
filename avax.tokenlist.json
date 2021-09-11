@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
     "name": "Elk AVAX Tokens",
-    "timestamp": "2021-08-26T21:23:33+00:00",
+    "timestamp": "2021-09-11T00:00:00+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -16,7 +16,7 @@
             "name": "Elk",
             "symbol": "ELK"
         },
-	{
+        {
             "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
             "chainId": 43114,
             "decimals": 18,
@@ -45,7 +45,7 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
-            "name": "Trader Joe",
+            "name": "TraderJoe Token",
             "symbol": "JOE"
         },
         {
@@ -61,7 +61,7 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png",
-            "name": "Verso.Finance",
+            "name": "VersoToken",
             "symbol": "VSO"
         },
         {
@@ -215,6 +215,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png",
             "name": "Aave",
             "symbol": "AAVE"
+        },
+        {
+            "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
+            "name": "Aave",
+            "symbol": "AAVE.e"
         },
         {
             "address": "0x2C4Ac7ABe6D09F81a775DE153E5593c8C56884eb",
@@ -2481,6 +2489,14 @@
             "symbol": "SUSHI"
         },
         {
+            "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
+            "name": "SushiToken",
+            "symbol": "SUSHI.e"
+        },
+        {
             "address": "0xE8ddE6E36ae86E3c61Dc13DFf908B4a12d50F754",
             "chainId": 43114,
             "decimals": 18,
@@ -2566,7 +2582,7 @@
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xde3A24028580884448a5397872046a019649b084/logo.png",
             "name": "Tether USD",
-            "symbol": "USDT"
+            "symbol": "oldUSDT"
         },
         {
             "address": "0x390ba0fb0Bd3Aa2a5484001606329701148074e6",
@@ -3061,7 +3077,7 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
-            "name": "Yield Yak Token",
+            "name": "Yak Token",
             "symbol": "YAK"
         },
         {
@@ -3071,11 +3087,251 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
             "name": "AVME",
             "symbol": "AVME"
+        },
+        {
+            "address": "0xa1144a6A1304bd9cbb16c800F7a867508726566E",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xa1144a6A1304bd9cbb16c800F7a867508726566E/logo.png",
+            "name": "Baguette",
+            "symbol": "BAG"
+        },
+        {
+            "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
+            "name": "LydiaFinance Token",
+            "symbol": "LYD"
+        },
+        {
+            "address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo.png",
+            "name": "Gondola",
+            "symbol": "GDL"
+        },
+        {
+            "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
+            "name": "WebleEcosystemToken",
+            "symbol": "WET"
+        },
+        {
+            "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
+            "name": "Sherpa",
+            "symbol": "SHERPA"
+        },
+        {
+            "address": "0x82FE038Ea4b50f9C957da326C412ebd73462077C",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x82FE038Ea4b50f9C957da326C412ebd73462077C/logo.png",
+            "name": "JoeHatToken",
+            "symbol": "HAT"
+        },
+        {
+            "address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png",
+            "name": "Avaxtars Token",
+            "symbol": "AVXT"
+        },
+        {
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI.e"
+        },
+        {
+            "address": "0x5947BB275c521040051D82396192181b413227A3",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5947BB275c521040051D82396192181b413227A3/logo.png",
+            "name": "ChainLink Token",
+            "symbol": "LINK.e"
+        },
+        {
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT.e"
+        },
+        {
+            "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+            "chainId": 43114,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC.e"
+        },
+        {
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH.e"
+        },
+        {
+            "address": "0x78c42324016cd91D1827924711563fb66E33A83A",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x78c42324016cd91D1827924711563fb66E33A83A/logo.png",
+            "name": "Relay Token",
+            "symbol": "RELAY"
+        },
+        {
+            "address": "0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xD769bDFc0CaEe933dc0a047C7dBad2Ec42CFb3E2/logo.png",
+            "name": "ChartEx",
+            "symbol": "CHART"
+        },
+        {
+            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
+            "name": "Benqi",
+            "symbol": "QI"
+        },
+        {
+            "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
+            "name": "SHIBAVAX",
+            "symbol": "SHIBX"
+        },
+        {
+            "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC.e"
+        },
+        {
+            "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+            "chainId": 43114,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png",
+            "name": "Ape-X",
+            "symbol": "APE-X"
+        },
+        {
+            "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
+            "name": "Magic Internet Money",
+            "symbol": "MIM"
+        },
+        {
+            "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
+            "name": "Eleven Finance",
+            "symbol": "ELE"
+        },
+        {
+            "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png",
+            "name": "Synapse",
+            "symbol": "SYN"
+        },
+        {
+            "address": "0x4501e37a79cf953116331a105B3644d07b74C0F8",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4501e37a79cf953116331a105B3644d07b74C0F8/logo.png",
+            "name": "SafeMoonAvax",
+            "symbol": "SAFEMOONA"
+        },
+        {
+            "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+            "chainId": 43114,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
+            "name": "Time",
+            "symbol": "TIME"
+        },
+        {
+            "address": "0x0dd2d581994132C919827A2d5401ed6FFDAEFFc9",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x0dd2d581994132C919827A2d5401ed6FFDAEFFc9/logo.png",
+            "name": "Amogus.Finance",
+            "symbol": "SUS"
+        },
+        {
+            "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
+            "name": "Frax",
+            "symbol": "FRAX"
+        },
+        {
+            "address": "0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF/logo.png",
+            "name": "Zabu Token",
+            "symbol": "ZABU"
+        },
+        {
+            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
+            "chainId": 43114,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
+            "name": "Good Bridging",
+            "symbol": "GB"
+        },
+        {
+            "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
+            "name": "Spell Token",
+            "symbol": "SPELL"
+        },
+        {
+            "address": "0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
+            "name": "Tundra",
+            "symbol": "TUNDRA"
         }
     ],
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
