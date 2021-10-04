@@ -25,6 +25,7 @@ CHAIN_IDS = {
     'HECO': 128,
     'BSC': 56,
     'XDAI': 100,
+    'FUSE': 122,
 }
 
 WETH = {
@@ -38,6 +39,7 @@ WETH = {
     'HECO': '0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F',
     'BSC': '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
     'XDAI': '0xe91d153e0b41518a2ce8dd3d7944fa863463a97d',
+    'FUSE': '0x0BE9e53fd7EDaC9F859882AfdDa116645287C629',
 }
 
 
