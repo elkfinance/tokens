@@ -102,7 +102,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x84ABcb2832bE606341a50128AEB1DB43AA017449/logo.png",
             "name": "BUSD",
-            "symbol": "BUSD_b"
+            "symbol": "BUSDb"
         },
         {
             "address": "0xA00744882684C3e4747faEFD68D283eA44099D03",
@@ -142,7 +142,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x62a9D987Cbf4C45a550DEEd5B57b200d7a319632/logo.png",
             "name": "Matic DAI Stablecoin",
-            "symbol": "DAI_m"
+            "symbol": "DAIm"
         },
         {
             "address": "0x3CDb7c48E70B854ED2Fa392E21687501D84B3AFc",
@@ -150,7 +150,7 @@
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x3CDb7c48E70B854ED2Fa392E21687501D84B3AFc/logo.png",
             "name": "Matic Tether USD",
-            "symbol": "USDT_m"
+            "symbol": "USDTm"
         },
         {
             "address": "0x5d0f4cA481FD725c9BC6b415c0Ce5B3c3bD726CF",
@@ -204,7 +204,6 @@
             "address": "0x86702a7f8898B172de396eB304d7D81207127915",
             "chainId": 4689,
             "decimals": 18,
-            "logo": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io1secz5lugnzch9h3ed6esf47czgr3y7g43k5jcv.png",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x86702a7f8898B172de396eB304d7D81207127915/logo.png",
             "name": "ZOOM TOKEN",
             "symbol": "ZOOM"
