@@ -26,6 +26,14 @@ CHAIN_IDS = {
     'BSC': 56,
     'XDAI': 100,
     'FUSE': 122,
+    'KCC': 321,
+    'ARBITRUM': 42161,
+    'HARMONY': 1666600000,
+    'OKEX': 66,
+    'IOTEX': 4689,
+    'HOO': 70,
+    'ELASTOS': 20,
+    'ETHEREUM': 1,
 }
 
 WETH = {
@@ -40,6 +48,14 @@ WETH = {
     'BSC': '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
     'XDAI': '0xe91d153e0b41518a2ce8dd3d7944fa863463a97d',
     'FUSE': '0x0BE9e53fd7EDaC9F859882AfdDa116645287C629',
+    'KCC': '0x4446fc4eb47f2f6586f9faab68b3498f86c07521',
+    'ARBITRUM': '0x82aF49447D8a07e3bd95BD0d56f35241523fBab1',
+    'HARMONY': '0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a',
+    'OKEX': '0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15',
+    'IOTEX': '0xa00744882684c3e4747faefd68d283ea44099d03',
+    'HOO': '0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87',
+    'ELASTOS': '0x517e9e5d46c1ea8ab6f78677d6114ef47f71f6c4',
+    'ETHEREUM': '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
 }
 
 
@@ -56,7 +72,7 @@ def process_token(t, chain, fetch_logo):
         path = os.path.join(chain.lower(), Web3.toChecksumAddress(t['address']), 'logo.png')
         logo_path = os.path.join(LOGO_DIR, path)
         logo_target = os.path.join(HOSTED_URL, logo_path)
-        if fetch_logo:
+        if fetch_logo and 'logoURI' in t:
             download_logo(t['logoURI'], logo_path)
         t['address'] = address
         t['logoURI'] = logo_target

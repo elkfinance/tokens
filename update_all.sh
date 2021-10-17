@@ -12,7 +12,15 @@ python update_list.py -o mumbai.tokenlist.json -c mumbai --logos
 python update_list.py -o fuji.tokenlist.json -c fuji --logos
 python update_list.py -o ftmtest.tokenlist.json -c ftmtest --logos
 python update_list.py -o hecotest.tokenlist.json -c hecotest --logos
+python update_list.py -o kcc.tokenlist.json -c kcc --logos
+python update_list.py -o arbitrum.tokenlist.json -c arbitrum -u https://bridge.arbitrum.io/token-list-42161.json --logos
+python update_list.py -o harmony.tokenlist.json -c harmony -u https://d1xrz6ki9z98vb.cloudfront.net/venomswap/lists/venomswap-default.tokenlist.json --logos
+python update_list.py -o okex.tokenlist.json -c okex --logos
+python update_list.py -o iotex.tokenlist.json -c iotex --logos
+python update_list.py -o hoo.tokenlist.json -c hoo --logos
+python update_list.py -o elastos.tokenlist.json -c elastos --logos
+python update_list.py -o ethereum.tokenlist.json -c ethereum -u https://www.gemini.com/uniswap/manifest.json --logos
 
-for chain in avax matic ftm heco bsc xdai fuse mumbai fuji ftmtest hecotest; do
+for chain in avax matic ftm heco bsc xdai fuse mumbai fuji ftmtest hecotest arbitrum elastos ethereum harmony hoo iotex kcc okex; do
 	rsync -a logos/$chain/ logos/all/
 done
