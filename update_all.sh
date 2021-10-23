@@ -19,8 +19,9 @@ python update_list.py -o okex.tokenlist.json -c okex --logos
 python update_list.py -o iotex.tokenlist.json -c iotex --logos
 python update_list.py -o hoo.tokenlist.json -c hoo --logos
 python update_list.py -o elastos.tokenlist.json -c elastos --logos
+python update_list.py -o moonriver.tokenlist.json -c moonriver --logos
 python update_list.py -o ethereum.tokenlist.json -c ethereum -u https://www.gemini.com/uniswap/manifest.json --logos
 
-for chain in avax matic ftm heco bsc xdai fuse mumbai fuji ftmtest hecotest arbitrum elastos ethereum harmony hoo iotex kcc okex; do
+for chain in avax matic ftm heco bsc xdai fuse mumbai fuji ftmtest hecotest arbitrum elastos moonriver ethereum harmony hoo iotex kcc okex; do
 	rsync -a logos/$chain/ logos/all/
 done
