@@ -22,7 +22,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x58f1b044d8308812881a1433d9Bbeff99975e70C/logo.png",
             "name": "1INCH Token",
-            "symbol": "11INCH"
+            "symbol": "1INCH"
         },
         {
             "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
@@ -30,7 +30,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F/logo.png",
             "name": "Aave Token",
-            "symbol": "1AAVE"
+            "symbol": "AAVE"
         },
         {
             "address": "0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f",
@@ -38,7 +38,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f/logo.png",
             "name": "Balancer",
-            "symbol": "1BAL"
+            "symbol": "BAL"
         },
         {
             "address": "0x32137b9275EA35162812883582623cd6f6950958",
@@ -46,7 +46,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x32137b9275EA35162812883582623cd6f6950958/logo.png",
             "name": "Compound",
-            "symbol": "1COMP"
+            "symbol": "COMP"
         },
         {
             "address": "0x5c99F47e749d2Fb9F6002a2945df5Ea3F7162dFe",
@@ -54,7 +54,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x5c99F47e749d2Fb9F6002a2945df5Ea3F7162dFe/logo.png",
             "name": "Cream",
-            "symbol": "1CREAM"
+            "symbol": "CREAM"
         },
         {
             "address": "0x352cd428EFd6F31B5cae636928b7B84149cF369F",
@@ -62,7 +62,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x352cd428EFd6F31B5cae636928b7B84149cF369F/logo.png",
             "name": "Curve DAO Token",
-            "symbol": "1CRV"
+            "symbol": "CRV"
         },
         {
             "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
@@ -70,7 +70,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xEf977d2f931C1978Db5F6747666fa1eACB0d0339/logo.png",
             "name": "Dai Stablecoin",
-            "symbol": "1DAI"
+            "symbol": "DAI"
         },
         {
             "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
@@ -78,7 +78,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734/logo.png",
             "name": "DSLA",
-            "symbol": "1DSLA"
+            "symbol": "DSLA"
         },
         {
             "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
@@ -86,7 +86,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x6983D1E6DEf3690C4d616b13597A09e6193EA013/logo.png",
             "name": "Ether",
-            "symbol": "1ETH"
+            "symbol": "ETH"
         },
         {
             "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
@@ -94,7 +94,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x301259f392B551CA8c592C9f676FCD2f9A0A84C5/logo.png",
             "name": "Matic Token",
-            "symbol": "1MATIC"
+            "symbol": "MATIC"
         },
         {
             "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
@@ -102,7 +102,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x7b9c523d59AeFd362247Bd5601A89722e3774dD2/logo.png",
             "name": "Synthetix Network Token",
-            "symbol": "1SNX"
+            "symbol": "SNX"
         },
         {
             "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
@@ -110,7 +110,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A/logo.png",
             "name": "SushiToken",
-            "symbol": "1SUSHI"
+            "symbol": "SUSHI"
         },
         {
             "address": "0x50aE1ABA372B836523C982d8CE88E89AA8A92863",
@@ -118,7 +118,7 @@
             "decimals": 2,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x50aE1ABA372B836523C982d8CE88E89AA8A92863/logo.png",
             "name": "Telcoin",
-            "symbol": "1TEL"
+            "symbol": "TEL"
         },
         {
             "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
@@ -126,7 +126,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x90D81749da8867962c760414C1C25ec926E889b6/logo.png",
             "name": "Uniswap",
-            "symbol": "1UNI"
+            "symbol": "UNI"
         },
         {
             "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
@@ -134,7 +134,7 @@
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x985458E523dB3d53125813eD68c274899e9DfAb4/logo.png",
             "name": "USD Coin",
-            "symbol": "1USDC"
+            "symbol": "USDC"
         },
         {
             "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
@@ -142,7 +142,7 @@
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f/logo.png",
             "name": "Tether USD",
-            "symbol": "1USDT"
+            "symbol": "USDT"
         },
         {
             "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
@@ -150,7 +150,7 @@
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x3095c7557bCb296ccc6e363DE01b760bA031F2d9/logo.png",
             "name": "Wrapped BTC",
-            "symbol": "1WBTC"
+            "symbol": "WBTC"
         },
         {
             "address": "0xE7e3C4D1cFc722b45A428736845B6AfF862842a1",
@@ -158,7 +158,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE7e3C4D1cFc722b45A428736845B6AfF862842a1/logo.png",
             "name": "Wise Token",
-            "symbol": "1WISE"
+            "symbol": "WISE"
         },
         {
             "address": "0xa7a22299918828D791240f9Ec310c2E066592053",
@@ -166,7 +166,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xa7a22299918828D791240f9Ec310c2E066592053/logo.png",
             "name": "xSUSHI",
-            "symbol": "1xSUSHI"
+            "symbol": "xSUSHI"
         },
         {
             "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
@@ -174,7 +174,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xa0dc05F84A27FcCBD341305839019aB86576bc07/logo.png",
             "name": "yearn.finance",
-            "symbol": "1YFI"
+            "symbol": "YFI"
         },
         {
             "address": "0x03732a1b4297eC285999402A9129CFaD62a65463",
@@ -379,7 +379,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
