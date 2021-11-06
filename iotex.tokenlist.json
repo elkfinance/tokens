@@ -9,10 +9,10 @@
     "timestamp": "2021-10-17T15:02:30+00:00",
     "tokens": [
         {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "address": "0xe1cE1c0fa22EC693bAca6F5076bcdC4D0183DE1C",
             "chainId": 4689,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0xe1cE1c0fa22EC693bAca6F5076bcdC4D0183DE1C/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -46,7 +46,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0xacEE9B11CD4B3f57e58880277aC72c8c41ABe4e4/logo.png",
             "name": "Binance USD",
-            "symbol": "ioBUSD"
+            "symbol": "BUSD"
         },
         {
             "address": "0xC7b93720F73b037394cE00f954f849Ed484a3dEA",

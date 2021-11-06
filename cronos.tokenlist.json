@@ -1,0 +1,81 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "cronos"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
+    "name": "Elk CRONOS Tokens",
+    "timestamp": "2021-11-08T14:56:04+00:00",
+    "tokens": [
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png",
+            "name": "Crodex Token",
+            "symbol": "CRX"
+        },
+        {
+            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
+            "name": "Wrapped CRO",
+            "symbol": "wCRO"
+        },
+        {
+            "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "wETH"
+        },
+        {
+            "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+            "chainId": 25,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x062E66477Faf219F25D27dCED647BF57C3107d52/logo.png",
+            "name": "Wrapped BTC",
+            "symbol": "wBTC"
+        },
+        {
+            "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+            "chainId": 25,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+            "chainId": 25,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png",
+            "name": "USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        }
+    ],
+    "version": {
+        "major": 2,
+        "minor": 3,
+        "patch": 0
+    }
+}
