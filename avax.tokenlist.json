@@ -3327,6 +3327,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
             "name": "Tundra",
             "symbol": "TUNDRA"
+        },
+	    {
+            "address": "0xDd57fA6A38326b5c040a6bFce7A0a7C65588175A",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://imgur.com/a/rh5ComF",
+            "name": "Frost-Finance",
+            "symbol": "DUNE"
+        },
+		{
+            "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://imgur.com/a/D5jhd6u",
+            "name": "Dragon Crypto Aurum",
+            "symbol": "DCAU"
         }
     ],
     "version": {

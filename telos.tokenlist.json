@@ -23,6 +23,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
             "name": "Wrapped Telos",
             "symbol": "WTLOS"
+        },
+        {
+            "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
+            "chainId": 20,
+            "decimals": 18,
+            "logoURI": "https://imgur.com/a/zVpu7bH",
+            "name": "Dougecoin",
+            "symbol": "DOUGE"
         }
     ],
     "version": {

@@ -247,6 +247,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
             "name": "0xProtocol",
             "symbol": "ZRX"
+        },
+        {
+            "address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://d5oedxduspd3v.cloudfront.net/mushrooms/logo_256.png",
+            "name": "MMToken",
+            "symbol": "MM"
         }
     ],
     "version": {
