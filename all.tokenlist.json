@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Tokens",
-    "timestamp": "2021-11-12T16:24:27+00:00",
+    "timestamp": "2021-11-12T17:10:07+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -91,7 +91,7 @@
             "address": "0x039AcEC8659Cc69a35E8A48c618c47128934B575",
             "chainId": 25,
             "decimals": 18,
-            "logoURI": "https://github.com/truemiller/cronavirus/blob/main/cronavirus.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x039AcEC8659Cc69a35E8A48c618c47128934B575/logo.png",
             "name": "Cronavirus",
             "symbol": "CRONAVIRUS"
         },
@@ -171,7 +171,7 @@
             "address": "0xBd451b952dE19F2C7bA2c8c516b0740484E953B2",
             "chainId": 321,
             "decimals": 18,
-            "logoURI": "https://kudex.finance/images/kud/2.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0xBd451b952dE19F2C7bA2c8c516b0740484E953B2/logo.png",
             "name": "Kudex",
             "symbol": "KUD"
         },
@@ -7171,7 +7171,7 @@
             "address": "0xDd57fA6A38326b5c040a6bFce7A0a7C65588175A",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://imgur.com/a/rh5ComF",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xDd57fA6A38326b5c040a6bFce7A0a7C65588175A/logo.png",
             "name": "Frost-Finance",
             "symbol": "DUNE"
         },
@@ -7179,7 +7179,7 @@
             "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://imgur.com/a/D5jhd6u",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
             "name": "Dragon Crypto Aurum",
             "symbol": "DCAU"
         },
@@ -7915,7 +7915,7 @@
             "address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
             "chainId": 1,
             "decimals": 18,
-            "logoURI": "https://d5oedxduspd3v.cloudfront.net/mushrooms/logo_256.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304/logo.png",
             "name": "MMToken",
             "symbol": "MM"
         },
@@ -9819,7 +9819,7 @@
             "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
             "chainId": 20,
             "decimals": 18,
-            "logoURI": "https://imgur.com/a/zVpu7bH",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
             "name": "Dougecoin",
             "symbol": "DOUGE"
         },
@@ -12682,7 +12682,7 @@
     ],
     "version": {
         "major": 4,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
