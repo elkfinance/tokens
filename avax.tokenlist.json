@@ -3328,7 +3328,7 @@
             "name": "Tundra",
             "symbol": "TUNDRA"
         },
-	    {
+        {
             "address": "0xDd57fA6A38326b5c040a6bFce7A0a7C65588175A",
             "chainId": 43114,
             "decimals": 18,
@@ -3336,7 +3336,7 @@
             "name": "Frost-Finance",
             "symbol": "DUNE"
         },
-		{
+        {
             "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
             "chainId": 43114,
             "decimals": 18,
@@ -3346,8 +3346,8 @@
         }
     ],
     "version": {
-        "major": 3,
-        "minor": 0,
+        "major": 4,
+        "minor": 1,
         "patch": 0
     }
 }

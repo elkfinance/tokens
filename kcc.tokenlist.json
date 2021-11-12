@@ -80,7 +80,7 @@
             "name": "KUST",
             "symbol": "KUST"
         },
-		{
+        {
             "address": "0xBd451b952dE19F2C7bA2c8c516b0740484E953B2",
             "chainId": 321,
             "decimals": 18,
@@ -90,8 +90,8 @@
         }
     ],
     "version": {
-        "major": 3,
-        "minor": 0,
+        "major": 4,
+        "minor": 1,
         "patch": 0
     }
 }
