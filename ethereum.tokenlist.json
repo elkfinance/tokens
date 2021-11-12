@@ -252,7 +252,7 @@
             "address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
             "chainId": 1,
             "decimals": 18,
-            "logoURI": "https://d5oedxduspd3v.cloudfront.net/mushrooms/logo_256.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304/logo.png",
             "name": "MMToken",
             "symbol": "MM"
         }
