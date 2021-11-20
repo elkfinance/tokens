@@ -4223,6 +4223,14 @@
             "name": "ATIS Token",
             "symbol": "ATIS"
         },
+		{
+            "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
+            "name": "Orca DAO",
+            "symbol": "AVAI"
+		},
         {
             "address": "0xAeaDfDc09c284E848aeBA876FF086Ed06A95B4b2",
             "chainId": 43114,
@@ -9752,10 +9760,10 @@
             "symbol": "ELK"
         },
         {
-            "address": "0xd88F23867f329fF0B1D145c096b78050825F701A",
+            "address": "0xd39eC832FF1CaaFAb2729c76dDeac967ABcA8F27",
             "chainId": 20,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0xd88F23867f329fF0B1D145c096b78050825F701A/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0xd39eC832FF1CaaFAb2729c76dDeac967ABcA8F27/logo.png",
             "name": "Glide",
             "symbol": "GLIDE"
         },
@@ -9790,6 +9798,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0x802c3e839E4fDb10aF583E3E759239ec7703501e/logo.png",
             "name": "ETH on Elastos",
             "symbol": "ETH"
+		},
+		{
+			"address": "0xA70Efd687EADFb738389e0739a26fb9036D99A1E",
+            "chainId": 20,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0xA70Efd687EADFb738389e0739a26fb9036D99A1E/logo.png",
+            "name": "Sloth",
+            "symbol": "SLOTH"
+		},
+		{
+			"address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
+            "chainId": 20,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0x20e757800e04b370FD1Ed8326709aDFf889d2d6B/logo.png",
+            "name": "T-Squirrel NFT",
+            "symbol": "TSQRL"
         },
         {
             "address": "0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4",
