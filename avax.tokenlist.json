@@ -3343,7 +3343,15 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
             "name": "Dragon Crypto Aurum",
             "symbol": "DCAU"
-        }
+        },
+		{
+            "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
+            "name": "Orca DAO",
+            "symbol": "AVAI"
+		}
     ],
     "version": {
         "major": 4,
