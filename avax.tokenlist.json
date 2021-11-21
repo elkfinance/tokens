@@ -3351,6 +3351,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
             "name": "Orca DAO",
             "symbol": "AVAI"
+        },
+        {
+            "address": "0x4Aca0ad6357b918e3d06BB1a0BCC403619177523",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png",
+            "name": "AVAXRush",
+            "symbol": "SONIC"
         }
     ],
     "version": {
