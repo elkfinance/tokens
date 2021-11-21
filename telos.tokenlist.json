@@ -32,8 +32,8 @@
             "name": "Dougecoin",
             "symbol": "DOUGE"
         },
-		{
-			"address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
+        {
+            "address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
             "chainId": 20,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0x20e757800e04b370FD1Ed8326709aDFf889d2d6B/logo.png",
@@ -43,7 +43,7 @@
     ],
     "version": {
         "major": 4,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }
