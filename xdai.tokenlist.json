@@ -1527,6 +1527,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
             "name": "FOX",
             "symbol": "FOX"
+        },
+        {
+            "address": "0x3942a1b8B446B94CEc4ADEB2203097cbF307A6F4",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3942a1b8B446B94CEc4ADEB2203097cbF307A6F4/logo.png",
+            "name": "Bright",
+            "symbol": "BRIGHT"
         }
     ],
     "version": {
