@@ -1438,7 +1438,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
             "name": "Xion Global Token",
-            "symbol": "XGTv2"
+            "symbol": "XGTV2"
         },
         {
             "address": "0x3e33cF23073FD8d5aD1d48d1860a96C0D8E56193",
@@ -1529,17 +1529,17 @@
             "symbol": "FOX"
         },
         {
-            "address": "0x3942a1b8B446B94CEc4ADEB2203097cbF307A6F4",
+            "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
             "chainId": 100,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3942a1b8B446B94CEc4ADEB2203097cbF307A6F4/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
             "name": "Bright",
             "symbol": "BRIGHT"
         }
     ],
     "version": {
         "major": 4,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     }
 }
