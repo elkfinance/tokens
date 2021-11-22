@@ -26,7 +26,7 @@
         },
         {
             "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
-            "chainId": 20,
+            "chainId": 40,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
             "name": "Dougecoin",
@@ -34,7 +34,7 @@
         },
 		{
 			"address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
-            "chainId": 20,
+            "chainId": 40,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0x20e757800e04b370FD1Ed8326709aDFf889d2d6B/logo.png",
             "name": "T-Squirrel NFT",
