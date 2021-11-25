@@ -3359,6 +3359,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png",
             "name": "AVAXRush",
             "symbol": "SONIC"
+        },
+        {
+            "address": "0xeCfE536a209e405Db19887830b366E397f5B917a",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xeCfE536a209e405Db19887830b366E397f5B917a/logo.png",
+            "name": "Plateau Finance",
+            "symbol": "PLT"
         }
     ],
     "version": {

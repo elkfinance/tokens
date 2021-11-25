@@ -111,6 +111,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/logo.png",
             "name": "WBTC",
             "symbol": "WBTC"
+        },
+        {
+            "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xcCf69d549a25d90938B3EEA0D7A2d112c971071B/logo.png",
+            "name": "TelosMeMe",
+            "symbol": "TM"
         }
     ],
     "version": {

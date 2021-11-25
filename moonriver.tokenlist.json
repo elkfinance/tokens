@@ -183,6 +183,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x15B9CA9659F5dfF2b7d35a98dd0790a3CBb3D445/logo.png",
             "name": "DOT",
             "symbol": "DOT.m"
+        },
+        {
+            "address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C",
+            "chainId": 1285,
+            "decimals": 10,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C/logo.png",
+            "name": "QiDAO",
+            "symbol": "MAI"
         }
     ],
     "version": {
