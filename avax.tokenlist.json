@@ -3359,6 +3359,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png",
             "name": "AVAXRush",
             "symbol": "SONIC"
+        },
+        {
+            "address": "0xecfe536a209e405db19887830b366e397f5b917a",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xecfe536a209e405db19887830b366e397f5b917a/logo.png",
+            "name": "Plateau Finance",
+            "symbol": "PLT"
+        },
+        {
+            "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
+            "name": "QiDAO",
+            "symbol": "MAI"
         }
     ],
     "version": {
