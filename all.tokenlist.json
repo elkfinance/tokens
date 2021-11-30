@@ -4230,6 +4230,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
             "name": "Orca DAO",
             "symbol": "AVAI"
+        },
+        {
+            "address": "0x8B1d98A91F853218ddbb066F20b8c63E782e2430",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
+            "name": "Orca DAO",
+            "symbol": "ORCA"
 		},
         {
             "address": "0xAeaDfDc09c284E848aeBA876FF086Ed06A95B4b2",
@@ -7534,6 +7542,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
             "name": "QiDAO",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x53D831e1db0947c74e8a52618f662209ec5dE0cE/logo.png",
+            "name": "Singular.Farm",
+            "symbol": "SING"
         },
         {
             "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
