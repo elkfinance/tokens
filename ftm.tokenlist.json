@@ -319,6 +319,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xA9937092c4E2B0277C16802Cc8778D252854688A/logo.png",
             "name": "fOLIVE",
             "symbol": "FOLIVE"
+        },
+        {
+            "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/singularfarm/assets/main/200.png",
+            "name": "SING",
+            "symbol": "SING"
         }
     ],
     "version": {
