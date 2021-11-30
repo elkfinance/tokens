@@ -319,6 +319,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xA9937092c4E2B0277C16802Cc8778D252854688A/logo.png",
             "name": "fOLIVE",
             "symbol": "FOLIVE"
+        },
+        {
+            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
+            "name": "QiDAO",
+            "symbol": "MAI"
         }
     ],
     "version": {
