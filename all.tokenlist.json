@@ -96,6 +96,22 @@
             "symbol": "CRONAVIRUS"
         },
         {
+            "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xbdd4e5660839a088573191A9889A262c0Efc0983/logo.png",
+            "name": "Photonswap",
+            "symbol": "PHOTON"
+        },
+        {
+            "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
+            "chainId": 25,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.png",
+            "name": "IMPRESSO",
+            "symbol": "ESSO"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 321,
             "decimals": 18,
