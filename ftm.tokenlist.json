@@ -327,11 +327,19 @@
             "logoURI": "https://raw.githubusercontent.com/singularfarm/assets/main/200.png",
             "name": "SING",
             "symbol": "SING"
+        },
+        {
+            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
+            "name": "QiDAO",
+            "symbol": "MAI"
         }
     ],
     "version": {
         "major": 4,
-        "minor": 5,
+        "minor": 7,
         "patch": 0
     }
 }
