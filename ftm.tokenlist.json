@@ -321,14 +321,6 @@
             "symbol": "FOLIVE"
         },
         {
-            "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/singularfarm/assets/main/200.png",
-            "name": "SING",
-            "symbol": "SING"
-        },
-        {
             "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
             "chainId": 250,
             "decimals": 18,
@@ -346,8 +338,8 @@
         }
     ],
     "version": {
-        "major": 4,
-        "minor": 9,
+        "major": 5,
+        "minor": 0,
         "patch": 0
     }
 }
