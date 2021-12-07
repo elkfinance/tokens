@@ -7224,10 +7224,10 @@
             "symbol": "DCAU"
         },
         {
-            "address": "0xecfe536a209e405db19887830b366e397f5b917a",
+            "address": "0xeCfE536a209e405Db19887830b366E397f5B917a",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xecfe536a209e405db19887830b366e397f5b917a/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xeCfE536a209e405Db19887830b366E397f5B917a/logo.png",
             "name": "Plateau Finance",
             "symbol": "PLT"
         },
@@ -12842,7 +12842,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

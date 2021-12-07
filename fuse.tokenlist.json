@@ -46,7 +46,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
             "name": "Fuse Dollar",
-            "symbol": "fUSD"
+            "symbol": "FUSD"
         },
         {
             "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
@@ -124,7 +124,6 @@
             "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
             "chainId": 122,
             "decimals": 18,
-            "isDeprecated": true,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670/logo.png",
             "name": "Wrapped Ether on Fuse",
             "symbol": "WETH"
@@ -140,7 +139,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
