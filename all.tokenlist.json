@@ -1712,6 +1712,14 @@
             "symbol": "FOX"
         },
         {
+            "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
+            "name": "xDai Punks",
+            "symbol": "PUNK"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 128,
             "decimals": 18,
