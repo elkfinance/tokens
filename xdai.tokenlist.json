@@ -1030,7 +1030,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe/logo.png",
             "name": "Rare Coin v2",
-            "symbol": "RAREv2"
+            "symbol": "RAREV2"
         },
         {
             "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
@@ -1538,8 +1538,8 @@
         }
     ],
     "version": {
-        "major": 4,
-        "minor": 6,
+        "major": 5,
+        "minor": 1,
         "patch": 0
     }
 }
