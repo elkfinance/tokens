@@ -11464,6 +11464,14 @@
             "symbol": "ZOOM"
         },
         {
+            "address": "0x32085B8ea854529178bD0F4E92D3fd2475A3A159",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x32085B8ea854529178bD0F4E92D3fd2475A3A159/logo.png",
+            "name": "FilDA",
+            "symbol": "FILDA"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 42161,
             "decimals": 18,

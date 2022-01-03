@@ -1968,6 +1968,14 @@
             "symbol": "SURF"
         },
         {
+            "address": "0xd86D318F5241EcAe47D6Df5a9e2394FE19ccc4f9",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xd86D318F5241EcAe47D6Df5a9e2394FE19ccc4f9/logo.png",
+            "name": "RavenToken",
+            "symbol": "RAVEN"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 4002,
             "decimals": 18,
