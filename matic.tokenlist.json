@@ -1207,6 +1207,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x1E42EDbe5376e717C1B22904C59e406426E8173F/logo.png",
             "name": "SURF",
             "symbol": "SURF"
+        },
+        {
+            "address": "0xd86D318F5241EcAe47D6Df5a9e2394FE19ccc4f9",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xd86D318F5241EcAe47D6Df5a9e2394FE19ccc4f9/logo.png",
+            "name": "RavenToken",
+            "symbol": "RAVEN"
         }
     ],
     "version": {
