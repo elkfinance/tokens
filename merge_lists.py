@@ -30,10 +30,12 @@ if __name__ == '__main__':
     all_tokenlist['keywords'] = ['elk', 'defi']
     all_tokenlist['tokens'] = []
 
+    added_tokens = {}
+
     pathlist = Path('.').glob('*.tokenlist.json')
     for path in pathlist:
          path = str(path)
-         if not path.startswith('all'):
+         if not path.startswith('all') and not path.startswith('top'):
              print(path)
 
              #all_tokenlist['keywords'].append(path.split('.')[0].lower())
@@ -44,8 +46,14 @@ if __name__ == '__main__':
                 tokens = {}
                 if 'tokens' in tokenlist:
                     for token in tokenlist['tokens']:
-                        clean_token = {'address': token['address'], 'chainId': token['chainId'], 'decimals': token['decimals'], 'logoURI': token['logoURI'], 'name': token['name'], 'symbol': token['symbol']}
-                        tokens[clean_token['address'].lower()] = clean_token
+                        if token['chainId'] in added_tokens and token['address'] in added_tokens[token['chainId']]:
+                            print(f'Token {token} is a duplicate! Ignoring...')
+                        else:
+                            if token['chainId'] not in added_tokens:
+                                added_tokens[token['chainId']] = {}
+                            added_tokens[token['chainId']][token['address']] = token
+                            clean_token = {'address': token['address'], 'chainId': token['chainId'], 'decimals': token['decimals'], 'logoURI': token['logoURI'], 'name': token['name'], 'symbol': token['symbol']}
+                            tokens[clean_token['address'].lower()] = clean_token
                 all_tokenlist['tokens'] = all_tokenlist['tokens'] + list(tokens.values())
 
     if args.version is not None:
