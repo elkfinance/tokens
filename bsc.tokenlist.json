@@ -1831,6 +1831,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3fF997eAeA488A082fb7Efc8e6B9951990D0c3aB/logo.png",
             "name": "WUSD",
             "symbol": "WUSD"
+        },
+        {
+            "address": "0x841dc7A49e0825bDF3eE585cfB6E553495915AcE",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x841dc7A49e0825bDF3eE585cfB6E553495915AcE/logo.png",
+            "name": "Soakmont",
+            "symbol": "SOAK"
         }
     ],
     "version": {
