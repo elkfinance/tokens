@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-01-02T14:22:38+00:00",
+    "timestamp": "2022-01-06T11:46:20+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -1608,6 +1608,14 @@
             "symbol": "WUSD"
         },
         {
+            "address": "0x841dc7A49e0825bDF3eE585cfB6E553495915AcE",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x841dc7A49e0825bDF3eE585cfB6E553495915AcE/logo.png",
+            "name": "Soakmont",
+            "symbol": "SOAK"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 20,
             "decimals": 18,
@@ -2056,6 +2064,14 @@
             "symbol": "DAI"
         },
         {
+            "address": "0x32085B8ea854529178bD0F4E92D3fd2475A3A159",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x32085B8ea854529178bD0F4E92D3fd2475A3A159/logo.png",
+            "name": "FilDA",
+            "symbol": "FILDA"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 42161,
             "decimals": 18,
@@ -2401,8 +2417,8 @@
         }
     ],
     "version": {
-        "major": 1,
-        "minor": 0,
+        "major": 6,
+        "minor": 1,
         "patch": 0
     }
 }
