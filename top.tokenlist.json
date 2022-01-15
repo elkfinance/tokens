@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-01-09T15:21:53+00:00",
+    "timestamp": "2022-01-15T04:15:09+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -62,6 +62,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png",
+            "name": "WKCS",
+            "symbol": "WKCS"
         },
         {
             "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
@@ -280,12 +288,36 @@
             "symbol": "USDT"
         },
         {
+            "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04/logo.png",
+            "name": "Wrapped BNB from BSC",
+            "symbol": "WBNB"
+        },
+        {
             "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
             "chainId": 100,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252/logo.png",
             "name": "Wrapped BTC on xDai",
             "symbol": "WBTC"
+        },
+        {
+            "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png",
+            "name": "Wrapped Ether on xDai",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
+            "name": "Wrapped XDAI",
+            "symbol": "WXDAI"
         },
         {
             "address": "0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7",
@@ -342,6 +374,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png",
+            "name": "Wrapped HT",
+            "symbol": "WHT"
         },
         {
             "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
@@ -528,6 +568,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87/logo.png",
+            "name": "Wrapped HOO",
+            "symbol": "WHOO"
+        },
+        {
             "address": "0xA1588dC914e236bB5AE4208Ce3081246f7A00193",
             "chainId": 70,
             "decimals": 18,
@@ -630,6 +678,30 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png",
             "name": "Wrapped BTC on Fuse",
             "symbol": "WBTC"
+        },
+        {
+            "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
+            "name": "Wrapped Ether on Fuse",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670/logo.png",
+            "name": "Wrapped Ether on Fuse",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
+            "name": "Wrapped Fuse",
+            "symbol": "WFUSE"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -766,6 +838,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png",
             "name": "PenguinToken",
             "symbol": "PEFI"
+        },
+        {
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX"
         },
         {
             "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
@@ -1176,6 +1256,14 @@
             "symbol": "YFI"
         },
         {
+            "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
+            "name": "Wrapped FTM",
+            "symbol": "WFTM"
+        },
+        {
             "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
             "chainId": 250,
             "decimals": 18,
@@ -1256,6 +1344,14 @@
             "symbol": "SING"
         },
         {
+            "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+            "chainId": 1285,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x98878B06940aE243284CA214f92Bb71a2b032B8A/logo.png",
+            "name": "Wrapped MOVR",
+            "symbol": "WMOVR"
+        },
+        {
             "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
             "chainId": 1285,
             "decimals": 6,
@@ -1318,6 +1414,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "WETH"
         },
         {
             "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
@@ -1528,6 +1632,14 @@
             "symbol": "USDT"
         },
         {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+            "name": "WBNB Token",
+            "symbol": "WBNB"
+        },
+        {
             "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
             "chainId": 56,
             "decimals": 18,
@@ -1656,12 +1768,28 @@
             "symbol": "ETH"
         },
         {
+            "address": "0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4",
+            "chainId": 20,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4/logo.png",
+            "name": "Wrapped Elastos",
+            "symbol": "WELA"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 40,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
+            "name": "Wrapped Telos",
+            "symbol": "WTLOS"
         },
         {
             "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
@@ -1872,6 +2000,14 @@
             "symbol": "WBTC"
         },
         {
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC"
+        },
+        {
             "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
             "chainId": 137,
             "decimals": 18,
@@ -2000,6 +2136,14 @@
             "symbol": "lELK"
         },
         {
+            "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
+            "chainId": 4002,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftmtest/0xf1277d1Ed8AD466beddF92ef448A132661956621/logo.png",
+            "name": "Wrapped FTM",
+            "symbol": "WFTM"
+        },
+        {
             "address": "0xe1cE1c0fa22EC693bAca6F5076bcdC4D0183DE1C",
             "chainId": 4689,
             "decimals": 18,
@@ -2030,6 +2174,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0xedEeFAca6a1581FE2349cdFc3083D4EfA8188e55/logo.png",
             "name": "UNISWAP",
             "symbol": "UNI"
+        },
+        {
+            "address": "0xA00744882684C3e4747faEFD68D283eA44099D03",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0xA00744882684C3e4747faEFD68D283eA44099D03/logo.png",
+            "name": "Wrapped IoTeX",
+            "symbol": "WIOTX"
         },
         {
             "address": "0x97e6c48867FDC391A8DFe9d169EcD005d1d90283",
@@ -2192,6 +2344,14 @@
             "symbol": "WBTC"
         },
         {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
             "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
             "chainId": 42161,
             "decimals": 18,
@@ -2214,6 +2374,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuji/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
             "name": "Elk Legacy",
             "symbol": "lELK"
+        },
+        {
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -2328,6 +2496,14 @@
             "symbol": "LINK"
         },
         {
+            "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a/logo.png",
+            "name": "Wrapped ONE",
+            "symbol": "WONE"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 80001,
             "decimals": 18,
@@ -2342,6 +2518,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
             "name": "Elk Legacy",
             "symbol": "lELK"
+        },
+        {
+            "address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+            "chainId": 80001,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x5B67676a984807a212b1c59eBFc9B3568a474F0a/logo.png",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC"
         },
         {
             "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
@@ -2376,12 +2560,28 @@
             "symbol": "ELK"
         },
         {
+            "address": "0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836",
+            "chainId": 256,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hecotest/0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836/logo.png",
+            "name": "Wrapped HT",
+            "symbol": "WHT"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 66,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/okex/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+            "chainId": 66,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/okex/0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15/logo.png",
+            "name": "WOKT",
+            "symbol": "WOKT"
         },
         {
             "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
@@ -2418,7 +2618,7 @@
     ],
     "version": {
         "major": 6,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
