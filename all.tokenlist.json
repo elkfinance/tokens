@@ -3880,6 +3880,14 @@
             "symbol": "WFUSE"
         },
         {
+            "address": "0xebB82851b8e1348Cc774442735B710b4Cd105210",
+            "chainId": 122,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xebB82851b8e1348Cc774442735B710b4Cd105210/logo.png",
+            "name": "Fuse Doge",
+            "symbol": "fDoge"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 43114,
             "decimals": 18,
@@ -7240,20 +7248,28 @@
             "symbol": "SONIC"
         },
         {
-            "address": "0xeCfE536a209e405Db19887830b366E397f5B917a",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xeCfE536a209e405Db19887830b366E397f5B917a/logo.png",
-            "name": "Plateau Finance",
-            "symbol": "PLT"
-        },
-        {
             "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
             "name": "QiDAO",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+            "name": "RaceX",
+            "symbol": "RACEX"
+        },
+        {
+            "address": "0xAE4AA155D2987B454C29450ef4f862CF00907B61",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
+            "name": "Thorus",
+            "symbol": "THO"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -9838,6 +9854,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x841dc7A49e0825bDF3eE585cfB6E553495915AcE/logo.png",
             "name": "Soakmont",
             "symbol": "SOAK"
+        },
+        {
+            "address": "0x4477b28E8b797eBaebd2539bb24290Fdfcc27807",
+            "chainId": 56,
+            "decimals": 10,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x4477b28E8b797eBaebd2539bb24290Fdfcc27807/logo.png",
+            "name": "Refugees Token",
+            "symbol": "RFG"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",

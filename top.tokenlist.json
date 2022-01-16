@@ -952,14 +952,6 @@
             "symbol": "PAR"
         },
         {
-            "address": "0xBc6e632244FD9a79e863B87841FFD9962B725895",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xBc6e632244FD9a79e863B87841FFD9962B725895/logo.png",
-            "name": "PlutusDeFi",
-            "symbol": "PLT"
-        },
-        {
             "address": "0x90557E63339cAed393ee15Cb6236Bb746DeD11D3",
             "chainId": 43114,
             "decimals": 18,
@@ -1136,12 +1128,20 @@
             "symbol": "ORCA"
         },
         {
-            "address": "0xeCfE536a209e405Db19887830b366E397f5B917a",
+            "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xeCfE536a209e405Db19887830b366E397f5B917a/logo.png",
-            "name": "Plateau Finance",
-            "symbol": "PLT"
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+            "name": "RaceX",
+            "symbol": "RACEX"
+        },
+        {
+            "address": "0xAE4AA155D2987B454C29450ef4f862CF00907B61",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
+            "name": "Thorus",
+            "symbol": "THO"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",

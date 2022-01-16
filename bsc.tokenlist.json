@@ -1839,6 +1839,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x841dc7A49e0825bDF3eE585cfB6E553495915AcE/logo.png",
             "name": "Soakmont",
             "symbol": "SOAK"
+        },
+        {
+            "address": "0x4477b28E8b797eBaebd2539bb24290Fdfcc27807",
+            "chainId": 56,
+            "decimals": 10,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x4477b28E8b797eBaebd2539bb24290Fdfcc27807/logo.png",
+            "name": "Refugees Token",
+            "symbol": "RFG"
         }
     ],
     "version": {
