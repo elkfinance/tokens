@@ -1215,6 +1215,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xd86D318F5241EcAe47D6Df5a9e2394FE19ccc4f9/logo.png",
             "name": "RavenToken",
             "symbol": "RAVEN"
+        },
+        {
+            "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
         }
     ],
     "version": {

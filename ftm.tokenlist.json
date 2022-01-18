@@ -335,6 +335,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x53D831e1db0947c74e8a52618f662209ec5dE0cE/logo.png",
             "name": "Singular.Farm",
             "symbol": "SING"
+        },
+        {
+            "address": "0x68Aa691a8819B07988B18923F712F3f4C8d36346",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x68Aa691a8819B07988B18923F712F3f4C8d36346/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
         }
     ],
     "version": {

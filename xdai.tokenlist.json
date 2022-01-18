@@ -1543,6 +1543,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
             "name": "xDai Punks",
             "symbol": "PUNK"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
         }
     ],
     "version": {

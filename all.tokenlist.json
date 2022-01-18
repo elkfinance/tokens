@@ -40,6 +40,14 @@
             "symbol": "wETH"
         },
         {
+            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
+            "name": "AutoFarm",
+            "symbol": "AUTO"
+        },
+        {
             "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
             "chainId": 25,
             "decimals": 8,
@@ -110,6 +118,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.png",
             "name": "IMPRESSO",
             "symbol": "ESSO"
+        },
+        {
+            "address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -1726,6 +1742,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
             "name": "xDai Punks",
             "symbol": "PUNK"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -3878,6 +3910,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
             "name": "Wrapped Fuse",
             "symbol": "WFUSE"
+        },
+        {
+            "address": "0xebB82851b8e1348Cc774442735B710b4Cd105210",
+            "chainId": 122,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xebB82851b8e1348Cc774442735B710b4Cd105210/logo.png",
+            "name": "Fuse Doge",
+            "symbol": "fDoge"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -7168,10 +7208,10 @@
             "symbol": "ZABU"
         },
         {
-            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
         },
@@ -7240,20 +7280,28 @@
             "symbol": "SONIC"
         },
         {
-            "address": "0xeCfE536a209e405Db19887830b366E397f5B917a",
+            "address": "0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xeCfE536a209e405Db19887830b366E397f5B917a/logo.png",
-            "name": "Plateau Finance",
-            "symbol": "PLT"
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
         },
         {
-            "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+            "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
-            "name": "QiDAO",
-            "symbol": "MAI"
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+            "name": "RaceX",
+            "symbol": "RACEX"
+        },
+        {
+            "address": "0xAE4AA155D2987B454C29450ef4f862CF00907B61",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
+            "name": "Thorus",
+            "symbol": "THO"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -7572,8 +7620,16 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
-            "name": "QiDAO",
+            "name": "miMATIC",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x68Aa691a8819B07988B18923F712F3f4C8d36346",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x68Aa691a8819B07988B18923F712F3f4C8d36346/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
         },
         {
             "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
@@ -7758,6 +7814,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x15B9CA9659F5dfF2b7d35a98dd0790a3CBb3D445/logo.png",
             "name": "DOT",
             "symbol": "DOT.m"
+        },
+        {
+            "address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C",
+            "chainId": 1285,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C/logo.png",
+            "name": "MmiMatic",
+            "symbol": "MAI"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -9840,6 +9904,22 @@
             "symbol": "SOAK"
         },
         {
+            "address": "0x4477b28E8b797eBaebd2539bb24290Fdfcc27807",
+            "chainId": 56,
+            "decimals": 10,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x4477b28E8b797eBaebd2539bb24290Fdfcc27807/logo.png",
+            "name": "Refugees Token",
+            "symbol": "RFG"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 20,
             "decimals": 18,
@@ -11224,6 +11304,22 @@
             "symbol": "RAVEN"
         },
         {
+            "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 4002,
             "decimals": 18,
@@ -12606,6 +12702,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
             "name": "xVIPER",
             "symbol": "xVIPER"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
