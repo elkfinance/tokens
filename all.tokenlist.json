@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Tokens",
-    "timestamp": "2022-01-09T15:20:20+00:00",
+    "timestamp": "2022-01-18T23:46:20+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -38,14 +38,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png",
             "name": "Wrapped ETH",
             "symbol": "wETH"
-        },
-        {
-            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
-            "name": "AutoFarm",
-            "symbol": "AUTO"
         },
         {
             "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
@@ -126,6 +118,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
+            "name": "AutoFarm",
+            "symbol": "AUTO"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -7211,7 +7211,7 @@
             "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
         },
@@ -7620,16 +7620,8 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
-            "name": "miMATIC",
-            "symbol": "MAI"
-        },
-        {
-            "address": "0x68Aa691a8819B07988B18923F712F3f4C8d36346",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x68Aa691a8819B07988B18923F712F3f4C8d36346/logo.png",
             "name": "QiDAO",
-            "symbol": "QiDAO"
+            "symbol": "MAI"
         },
         {
             "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
@@ -7638,6 +7630,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x53D831e1db0947c74e8a52618f662209ec5dE0cE/logo.png",
             "name": "Singular.Farm",
             "symbol": "SING"
+        },
+        {
+            "address": "0x68Aa691a8819B07988B18923F712F3f4C8d36346",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x68Aa691a8819B07988B18923F712F3f4C8d36346/logo.png",
+            "name": "QiDAO",
+            "symbol": "QiDAO"
         },
         {
             "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
@@ -12993,8 +12993,8 @@
         }
     ],
     "version": {
-        "major": 6,
-        "minor": 3,
+        "major": 8,
+        "minor": 0,
         "patch": 0
     }
 }
