@@ -40,6 +40,14 @@
             "symbol": "wETH"
         },
         {
+            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
+            "name": "AutoFarm",
+            "symbol": "AUTO"
+        },
+        {
             "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
             "chainId": 25,
             "decimals": 8,
