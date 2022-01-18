@@ -119,6 +119,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
+            "name": "AutoFarm",
+            "symbol": "AUTO"
         }
     ],
     "version": {
