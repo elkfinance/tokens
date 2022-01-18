@@ -3297,10 +3297,10 @@
             "symbol": "ZABU"
         },
         {
-            "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+            "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
         },
@@ -3369,12 +3369,12 @@
             "symbol": "SONIC"
         },
         {
-            "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+            "address": "0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6/logo.png",
             "name": "QiDAO",
-            "symbol": "MAI"
+            "symbol": "QiDAO"
         },
         {
             "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",

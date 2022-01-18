@@ -375,6 +375,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
             "name": "xVIPER",
             "symbol": "xVIPER"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
         }
     ],
     "version": {
