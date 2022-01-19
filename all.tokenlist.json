@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Tokens",
-    "timestamp": "2022-01-18T23:46:20+00:00",
+    "timestamp": "2022-01-19T16:35:03+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -12985,7 +12985,7 @@
         }
     ],
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 0
     }
