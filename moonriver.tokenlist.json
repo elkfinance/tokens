@@ -153,14 +153,6 @@
             "symbol": "1SWAP"
         },
         {
-            "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x7f5a79576620C046a293F54FFCdbd8f2468174F1/logo.png",
-            "name": "miMatic",
-            "symbol": "MAI"
-        },
-        {
             "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
             "chainId": 1285,
             "decimals": 18,
