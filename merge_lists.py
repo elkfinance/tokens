@@ -16,6 +16,9 @@ from web3 import Web3
 from pathlib import Path
 
 
+IGNORE_LISTS = ['all', 'top', 'farms']
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Merge Elk.Finance tokenlists')
     parser.add_argument('--symbols', '-s')
@@ -42,7 +45,7 @@ if __name__ == '__main__':
     pathlist = Path('.').glob('*.tokenlist.json')
     for path in pathlist:
          path = str(path)
-         if not path.startswith('all') and not path.startswith('top'):
+         if not any([path.startswith(l) for l in IGNORE_LISTS]):
              print(path)
 
              #all_tokenlist['keywords'].append(path.split('.')[0].lower())
