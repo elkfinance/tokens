@@ -18,13 +18,20 @@ from pathlib import Path
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Merge Elk.Finance tokenlists')
+    parser.add_argument('--symbols', '-s')
     parser.add_argument('--output_list', '-o', required=True)
     parser.add_argument('--version')
 
     args = parser.parse_args()
 
+    if args.symbols:
+        with open(args.symbols) as file:
+            whitelist = [line.rstrip() for line in file]
+    else:
+        whitelist = None
+
     all_tokenlist = {}
-    all_tokenlist['name'] = f'Elk Tokens'
+    all_tokenlist['name'] = f'Elk Top Tokens'
     all_tokenlist['logoURI'] = 'https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png'
     all_tokenlist['timestamp'] = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S+00:00')
     all_tokenlist['keywords'] = ['elk', 'defi']
@@ -46,14 +53,15 @@ if __name__ == '__main__':
                 tokens = {}
                 if 'tokens' in tokenlist:
                     for token in tokenlist['tokens']:
-                        if token['chainId'] in added_tokens and token['address'] in added_tokens[token['chainId']]:
-                            print(f'Token {token} is a duplicate! Ignoring...')
-                        else:
-                            if token['chainId'] not in added_tokens:
-                                added_tokens[token['chainId']] = {}
-                            added_tokens[token['chainId']][token['address']] = token
-                            clean_token = {'address': token['address'], 'chainId': token['chainId'], 'decimals': token['decimals'], 'logoURI': token['logoURI'], 'name': token['name'], 'symbol': token['symbol']}
-                            tokens[clean_token['address'].lower()] = clean_token
+                        if whitelist and token['symbol'] in whitelist or not whitelist:
+                            if token['chainId'] in added_tokens and token['address'] in added_tokens[token['chainId']]:
+                                print(f'Token {token} is a duplicate! Ignoring...')
+                            else:
+                                if token['chainId'] not in added_tokens:
+                                    added_tokens[token['chainId']] = {}
+                                added_tokens[token['chainId']][token['address']] = token
+                                clean_token = {'address': token['address'], 'chainId': token['chainId'], 'decimals': token['decimals'], 'logoURI': token['logoURI'], 'name': token['name'], 'symbol': token['symbol']}
+                                tokens[clean_token['address'].lower()] = clean_token
                 all_tokenlist['tokens'] = all_tokenlist['tokens'] + list(tokens.values())
 
     if args.version is not None:
