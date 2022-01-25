@@ -61,8 +61,8 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png",
-            "name": "Ether",
-            "symbol": "ETH"
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
         },
         {
             "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
@@ -117,8 +117,8 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC/logo.png",
-            "name": "SushiToken",
-            "symbol": "SUSHI"
+            "name": "Wrapped SushiToken",
+            "symbol": "WSUSHI"
         },
         {
             "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
@@ -133,8 +133,8 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo.png",
-            "name": "ChainLink Token",
-            "symbol": "LINK"
+            "name": "Wrapped ChainLink Token",
+            "symbol": "WLINK"
         },
         {
             "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
@@ -237,16 +237,16 @@
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
-            "name": "Binance Coin",
-            "symbol": "BNB"
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
         },
         {
             "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
             "chainId": 250,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B/logo.png",
-            "name": "Aave",
-            "symbol": "AAVE"
+            "name": "Wrapped Aave",
+            "symbol": "WAAVE"
         },
         {
             "address": "0x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9",
@@ -346,8 +346,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }

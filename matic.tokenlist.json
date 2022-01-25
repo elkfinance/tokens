@@ -69,8 +69,8 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png",
-            "name": "Aave",
-            "symbol": "AAVE"
+            "name": "Wrapped Aave",
+            "symbol": "WAAVE"
         },
         {
             "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
@@ -205,8 +205,8 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png",
-            "name": "Ether",
-            "symbol": "ETH"
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
         },
         {
             "address": "0x4eBdE54ba404bE158262EDe801744b92b9878c61",
@@ -301,8 +301,8 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png",
-            "name": "ChainLink Token",
-            "symbol": "LINK"
+            "name": "Wrapped ChainLink Token",
+            "symbol": "WLINK"
         },
         {
             "address": "0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
@@ -957,8 +957,8 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png",
-            "name": "SushiToken",
-            "symbol": "SUSHI"
+            "name": "WRapped SushiToken",
+            "symbol": "WSUSHI"
         },
         {
             "address": "0x1489F4F7E3a80A0aD9fA23C39D2E8af818204ce9",
@@ -1021,8 +1021,8 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F/logo.png",
-            "name": "Binance coin",
-            "symbol": "BNB"
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
         },
         {
             "address": "0x6863BD30C9e313B264657B107352bA246F8Af8e0",
@@ -1234,8 +1234,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }

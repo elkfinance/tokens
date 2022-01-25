@@ -153,14 +153,6 @@
             "symbol": "WAVAX"
         },
         {
-            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
-            "name": "Ether",
-            "symbol": "ETH"
-        },
-        {
             "address": "0x96CE026f10890f4836937e6FDe75f13252fdf414",
             "chainId": 43114,
             "decimals": 18,
@@ -207,14 +199,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xa477b670C46fe58cF48708D9519a5E8875a48062/logo.png",
             "name": "88mph.app",
             "symbol": "MPH"
-        },
-        {
-            "address": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png",
-            "name": "Aave",
-            "symbol": "AAVE"
         },
         {
             "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
@@ -633,14 +617,6 @@
             "symbol": "CBIX7"
         },
         {
-            "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png",
-            "name": "ChainLink Token",
-            "symbol": "LINK"
-        },
-        {
             "address": "0xEFb603A7844f11D17aDA15B63e3A876AB443372C",
             "chainId": 43114,
             "decimals": 18,
@@ -735,14 +711,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd77b301D644608eE1E3dC56C3CF8540E6C9EC60F/logo.png",
             "name": "CyberFi Token",
             "symbol": "CFi"
-        },
-        {
-            "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI"
         },
         {
             "address": "0x2263483B187d8C99d1E7D1f737183097c7071fe2",
@@ -1313,14 +1281,6 @@
             "symbol": "HOLY"
         },
         {
-            "address": "0x8c1632b83D9E2D3C31B0728e953A22B7B33348A3",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8c1632b83D9E2D3C31B0728e953A22B7B33348A3/logo.png",
-            "name": "Huobi BTC",
-            "symbol": "HBTC"
-        },
-        {
             "address": "0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B",
             "chainId": 43114,
             "decimals": 18,
@@ -1605,8 +1565,8 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
-            "name": "Matic Token",
-            "symbol": "MATIC"
+            "name": "Wrapped Matic Token",
+            "symbol": "WMATIC"
         },
         {
             "address": "0xD4355F4608277a616111B35A77E6C58F4B4B69c6",
@@ -2481,14 +2441,6 @@
             "symbol": "SURF"
         },
         {
-            "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
-            "name": "SushiToken",
-            "symbol": "SUSHI"
-        },
-        {
             "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
             "chainId": 43114,
             "decimals": 18,
@@ -2575,14 +2527,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xbE53F019a8786227E3D258A47a0D96BCf24A09A6/logo.png",
             "name": "Terra Virtua Kolect",
             "symbol": "TVK"
-        },
-        {
-            "address": "0xde3A24028580884448a5397872046a019649b084",
-            "chainId": 43114,
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xde3A24028580884448a5397872046a019649b084/logo.png",
-            "name": "Tether USD",
-            "symbol": "oldUSDT"
         },
         {
             "address": "0x390ba0fb0Bd3Aa2a5484001606329701148074e6",
@@ -2895,14 +2839,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xD3e6c7E9Dc08173276A17d23546cb9C24D7cD7b0/logo.png",
             "name": "Wrapped ANATHA",
             "symbol": "wANATHA"
-        },
-        {
-            "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
-            "chainId": 43114,
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
-            "name": "Wrapped BTC",
-            "symbol": "WBTC"
         },
         {
             "address": "0x3585E1f43Af5A0E5a9429A8058BDf999ED67f81d",
@@ -3394,8 +3330,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }

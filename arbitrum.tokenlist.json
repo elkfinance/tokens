@@ -530,7 +530,7 @@
             },
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4/logo.png",
             "name": "ChainLink Token",
-            "symbol": "LINK"
+            "symbol": "WLINK"
         },
         {
             "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
@@ -865,8 +865,8 @@
                 "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
             },
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xd4d42F0b6DEF4CE0383636770eF773390d85c61A/logo.png",
-            "name": "SushiToken",
-            "symbol": "SUSHI"
+            "name": "Wrapped SushiToken",
+            "symbol": "WSUSHI"
         },
         {
             "address": "0xdE903E2712288A1dA82942DDdF2c20529565aC30",
@@ -1122,8 +1122,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }

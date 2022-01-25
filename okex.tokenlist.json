@@ -133,8 +133,8 @@
             "chainId": 66,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/okex/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0/logo.png",
-            "name": "BNB",
-            "symbol": "BNB"
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
         },
         {
             "address": "0x79B627bC95fa5B36ecA53eB39c3cdf43AaFDD10f",
@@ -226,8 +226,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }
