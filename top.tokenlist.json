@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-01-25T08:27:06+00:00",
+    "timestamp": "2022-02-01T06:15:39+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -494,6 +494,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
             "name": "RaceX",
             "symbol": "RACEX"
+        },
+        {
+            "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
+            "name": "Defrost Finance Token",
+            "symbol": "MELT"
+        },
+        {
+            "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
+            "name": "Defrost Finance H2O",
+            "symbol": "H2O"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -1206,6 +1222,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
             "name": "Wrapped Fuse",
             "symbol": "WFUSE"
+        },
+        {
+            "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78/logo.png",
+            "name": "SushiToken",
+            "symbol": "SUSHI"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -2498,7 +2522,7 @@
     ],
     "version": {
         "major": 10,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

@@ -3327,11 +3327,27 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
             "name": "Thorus",
             "symbol": "THO"
+        },
+        {
+            "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
+            "name": "Defrost Finance Token",
+            "symbol": "MELT"
+        },
+        {
+            "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
+            "name": "Defrost Finance H2O",
+            "symbol": "H2O"
         }
     ],
     "version": {
         "major": 10,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
