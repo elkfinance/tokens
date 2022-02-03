@@ -69,16 +69,16 @@
             "chainId": 1285,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
-            "name": "Ethereum",
-            "symbol": "ETH"
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
         },
         {
             "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
             "chainId": 1285,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
-            "name": "Binance Coin",
-            "symbol": "BNB"
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
         },
         {
             "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
@@ -133,16 +133,16 @@
             "chainId": 1285,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x14a0243C333A5b238143068dC3A7323Ba4C30ECB/logo.png",
-            "name": "Avalanche",
-            "symbol": "AVAX"
+            "name": "Wrapped Avalanche",
+            "symbol": "WAVAX"
         },
         {
             "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
             "chainId": 1285,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x682F81e57EAa716504090C3ECBa8595fB54561D8/logo.png",
-            "name": "Matic",
-            "symbol": "MATIC"
+            "name": "WMatic",
+            "symbol": "WMATIC"
         },
         {
             "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
@@ -157,8 +157,8 @@
             "chainId": 1285,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xaD12daB5959f30b9fF3c2d6709f53C335dC39908/logo.png",
-            "name": "Fantom Token",
-            "symbol": "FTM"
+            "name": "Wrapped Fantom Token",
+            "symbol": "WFTM"
         },
         {
             "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
@@ -186,8 +186,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }

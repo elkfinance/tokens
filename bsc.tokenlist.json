@@ -33,6 +33,14 @@
             "symbol": "ADA"
         },
         {
+            "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xfb6115445Bff7b52FeB98650C87f44907E58f802/logo.png",
+            "name": "Binance Pegged AAVE",
+            "symbol": "BAAVE"
+        },
+        {
             "address": "0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
             "chainId": 56,
             "decimals": 18,
@@ -638,7 +646,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
             "name": "Binance Pegged ETH",
-            "symbol": "ETH"
+            "symbol": "WETH"
         },
         {
             "address": "0x5512014efa6Cd57764Fa743756F7a6Ce3358cC83",
@@ -901,8 +909,8 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png",
-            "name": "ChainLink Token",
-            "symbol": "LINK"
+            "name": "Wrapped ChainLink Token",
+            "symbol": "WLINK"
         },
         {
             "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
@@ -1382,7 +1390,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4/logo.png",
             "name": "Sushi",
-            "symbol": "SUSHI"
+            "symbol": "BSUSHI"
         },
         {
             "address": "0x4CfbBdfBd5BF0814472fF35C72717Bd095ADa055",
@@ -1858,8 +1866,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }

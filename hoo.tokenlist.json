@@ -37,16 +37,16 @@
             "chainId": 70,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0xAad9654a4df6973A92C1fd3e95281F0B37960CCd/logo.png",
-            "name": "Bitcon",
-            "symbol": "BTC"
+            "name": "Wrapped Bitcon",
+            "symbol": "WBTC"
         },
         {
             "address": "0xA1588dC914e236bB5AE4208Ce3081246f7A00193",
             "chainId": 70,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0xA1588dC914e236bB5AE4208Ce3081246f7A00193/logo.png",
-            "name": "Ethereum",
-            "symbol": "ETH"
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
         },
         {
             "address": "0x6705b383dEF2D9f3f93bc00C5FDe402613d2D695",
@@ -101,8 +101,8 @@
             "chainId": 70,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0xfC523B7BfAb1656b36A57Ef35F9D5c738CbF1E6C/logo.png",
-            "name": "Ethereum Classic",
-            "symbol": "ETC"
+            "name": "Wrapped Ethereum Classic",
+            "symbol": "WETC"
         },
         {
             "address": "0x381f6698a7f369DD729390D817A7BfeB765fB105",
@@ -125,8 +125,8 @@
             "chainId": 70,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0xa787254704339474A827bd1ee4772c455e3aE7F2/logo.png",
-            "name": "Binance Coin",
-            "symbol": "BNB"
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
         },
         {
             "address": "0xD16bAbe52980554520F6Da505dF4d1b124c815a7",
@@ -402,8 +402,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }

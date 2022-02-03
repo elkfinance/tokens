@@ -246,7 +246,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD/logo.png",
             "name": "Heco-Peg ETH Token",
-            "symbol": "ETH"
+            "symbol": "HETH"
         },
         {
             "address": "0x12fAC6B5Fa0bc6250058D99d3a1727628651c12E",
@@ -335,14 +335,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x9e004545c59D359F6B7BFB06a26390b087717b42/logo.png",
             "name": "LINK",
             "symbol": "LINK"
-        },
-        {
-            "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.png",
-            "name": "HT",
-            "symbol": "HT"
         },
         {
             "address": "0x8AD1caE277B17Ca0Ad0393100E6EBd545B9367Cb",
@@ -1485,8 +1477,8 @@
             "chainId": 128,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3/logo.png",
-            "name": "BNB",
-            "symbol": "BNB"
+            "name": "Wrapped BNB",
+            "symbol": "WBNB"
         },
         {
             "address": "0x7f8AB1593f84B0C450385a3f70e921cB796401Ba",
@@ -1642,8 +1634,8 @@
         }
     ],
     "version": {
-        "major": 9,
-        "minor": 1,
+        "major": 10,
+        "minor": 0,
         "patch": 0
     }
 }
