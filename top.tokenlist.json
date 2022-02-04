@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-02-01T06:24:45+00:00",
+    "timestamp": "2022-02-04T01:09:55+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -744,6 +744,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png",
+            "name": "Crodex Token",
+            "symbol": "CRX"
+        },
+        {
             "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
             "chainId": 25,
             "decimals": 18,
@@ -774,6 +782,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
             "name": "DAI",
             "symbol": "DAI"
+        },
+        {
+            "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xbdd4e5660839a088573191A9889A262c0Efc0983/logo.png",
+            "name": "Photonswap",
+            "symbol": "PHOTON"
         },
         {
             "address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
@@ -2521,7 +2537,7 @@
         }
     ],
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 0,
         "patch": 0
     }
