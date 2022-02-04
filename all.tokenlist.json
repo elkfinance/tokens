@@ -4,8 +4,8 @@
         "defi"
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-    "name": "Elk Top Tokens",
-    "timestamp": "2022-02-01T06:24:44+00:00",
+    "name": "Elk All Tokens",
+    "timestamp": "2022-02-04T01:09:55+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -38,6 +38,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978/logo.png",
             "name": "Curve DAO Token",
             "symbol": "CRV"
+        },
+        {
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         },
         {
             "address": "0xdeBa25AF35e4097146d7629055E0EC3C71706324",
@@ -584,6 +592,14 @@
             "symbol": "CREAM"
         },
         {
+            "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png",
+            "name": "Binance Pegged DAI",
+            "symbol": "DAI"
+        },
+        {
             "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
             "chainId": 56,
             "decimals": 18,
@@ -728,6 +744,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png",
+            "name": "Crodex Token",
+            "symbol": "CRX"
+        },
+        {
             "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
             "chainId": 25,
             "decimals": 18,
@@ -750,6 +774,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png",
             "name": "USDT",
             "symbol": "USDT"
+        },
+        {
+            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xbdd4e5660839a088573191A9889A262c0Efc0983/logo.png",
+            "name": "Photonswap",
+            "symbol": "PHOTON"
         },
         {
             "address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
@@ -846,6 +886,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
             "name": "CurveDAOToken",
             "symbol": "CRV"
+        },
+        {
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "name": "DaiStablecoin",
+            "symbol": "DAI"
         },
         {
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -958,6 +1006,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png",
             "name": "Curve DAO",
             "symbol": "CRV"
+        },
+        {
+            "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         },
         {
             "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
@@ -1128,6 +1184,14 @@
             "symbol": "WBNB"
         },
         {
+            "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png",
+            "name": "Dai Stablecoin on Fuse",
+            "symbol": "DAI"
+        },
+        {
             "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
             "chainId": 122,
             "decimals": 18,
@@ -1230,6 +1294,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x352cd428EFd6F31B5cae636928b7B84149cF369F/logo.png",
             "name": "Curve DAO Token",
             "symbol": "CRV"
+        },
+        {
+            "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xEf977d2f931C1978Db5F6747666fa1eACB0d0339/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         },
         {
             "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
@@ -1456,6 +1528,14 @@
             "symbol": "USDC"
         },
         {
+            "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        },
+        {
             "address": "0x8c517631a7cD20FC365aA9A4025955FcDAA11f57",
             "chainId": 128,
             "decimals": 18,
@@ -1640,6 +1720,14 @@
             "symbol": "USDC"
         },
         {
+            "address": "0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b",
+            "chainId": 4689,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        },
+        {
             "address": "0x32085B8ea854529178bD0F4E92D3fd2475A3A159",
             "chainId": 4689,
             "decimals": 18,
@@ -1734,6 +1822,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6/logo.png",
             "name": "Celsius",
             "symbol": "CEL"
+        },
+        {
+            "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         },
         {
             "address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
@@ -1936,6 +2032,14 @@
             "symbol": "USDC"
         },
         {
+            "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+            "chainId": 1285,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+        },
+        {
             "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
             "chainId": 1285,
             "decimals": 18,
@@ -2030,6 +2134,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x5B67676a984807a212b1c59eBFc9B3568a474F0a/logo.png",
             "name": "Wrapped Matic",
             "symbol": "WMATIC"
+        },
+        {
+            "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+            "chainId": 80001,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         },
         {
             "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
@@ -2222,6 +2334,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd/logo.png",
             "name": "Curve DAO Token on xDai",
             "symbol": "CRV"
+        },
+        {
+            "address": "0x44fA8E6f47987339850636F88629646662444217",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x44fA8E6f47987339850636F88629646662444217/logo.png",
+            "name": "Dai Stablecoin on xDai",
+            "symbol": "DAI"
         },
         {
             "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
@@ -2425,7 +2545,7 @@
         }
     ],
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 0,
         "patch": 0
     }
