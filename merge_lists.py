@@ -23,6 +23,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Merge Elk.Finance tokenlists')
     parser.add_argument('--symbols', '-s')
     parser.add_argument('--output_list', '-o', required=True)
+    parser.add_argument('--list_title', '-t', required=True)
     parser.add_argument('--version')
 
     args = parser.parse_args()
@@ -34,7 +35,7 @@ if __name__ == '__main__':
         whitelist = None
 
     all_tokenlist = {}
-    all_tokenlist['name'] = f'Elk Top Tokens'
+    all_tokenlist['name'] = f'Elk {args.list_title.title()} Tokens'
     all_tokenlist['logoURI'] = 'https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png'
     all_tokenlist['timestamp'] = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S+00:00')
     all_tokenlist['keywords'] = ['elk', 'defi']
