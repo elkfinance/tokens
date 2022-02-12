@@ -744,6 +744,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
+            "name": "Wrapped CRO",
+            "symbol": "WCRO"
+        },
+        {
             "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
             "chainId": 25,
             "decimals": 18,
