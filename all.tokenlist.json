@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-02-04T01:09:55+00:00",
+    "timestamp": "2022-02-16T04:03:33+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -752,6 +752,14 @@
             "symbol": "CRX"
         },
         {
+            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
+            "name": "Wrapped CRO",
+            "symbol": "WCRO"
+        },
+        {
             "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
             "chainId": 25,
             "decimals": 18,
@@ -806,6 +814,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
             "name": "AutoFarm",
             "symbol": "AUTO"
+        },
+        {
+            "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
+            "chainId": 25,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC/logo.png",
+            "name": "CroBank",
+            "symbol": "BANK"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -1256,10 +1272,10 @@
             "symbol": "DELTA"
         },
         {
-            "address": "0xa3f551C320C785e0AbC3ae017E6C22417f422581",
+            "address": "0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xa3f551C320C785e0AbC3ae017E6C22417f422581/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134/logo.png",
             "name": "TigerGod",
             "symbol": "tGod"
         },
@@ -2542,10 +2558,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0xD3226B12e6188133b19Ac0419f34B0ed5B10f069",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
+            "name": "EsportsRef",
+            "symbol": "ESR"
         }
     ],
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     }

@@ -30,7 +30,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
             "name": "Wrapped CRO",
-            "symbol": "wCRO"
+            "symbol": "WCRO"
         },
         {
             "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
@@ -127,10 +127,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
             "name": "AutoFarm",
             "symbol": "AUTO"
+        },
+        {
+            "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
+            "chainId": 25,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC/logo.png",
+            "name": "CroBank",
+            "symbol": "BANK"
         }
     ],
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     }
