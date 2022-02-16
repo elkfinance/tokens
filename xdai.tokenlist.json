@@ -1559,10 +1559,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
             "name": "QiDAO",
             "symbol": "QiDAO"
+        },
+        {
+            "address": "0xD3226B12e6188133b19Ac0419f34B0ed5B10f069",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
+            "name": "EsportsRef",
+            "symbol": "ESR"
         }
     ],
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     }

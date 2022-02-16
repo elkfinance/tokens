@@ -153,10 +153,10 @@
             "symbol": "DELTA"
         },
         {
-            "address": "0xa3f551C320C785e0AbC3ae017E6C22417f422581",
+            "address": "0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xa3f551C320C785e0AbC3ae017E6C22417f422581/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134/logo.png",
             "name": "TigerGod",
             "symbol": "tGod"
         },
@@ -170,7 +170,7 @@
         }
     ],
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     }
