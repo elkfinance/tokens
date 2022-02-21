@@ -3343,11 +3343,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
             "name": "Defrost Finance H2O",
             "symbol": "H2O"
+        },
+        {
+            "address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
+            "name": "Teddy Cash",
+            "symbol": "TEDDY"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
