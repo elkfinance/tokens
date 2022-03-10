@@ -3351,11 +3351,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
             "name": "Teddy Cash",
             "symbol": "TEDDY"
+        },
+        {
+            "address": "0xf7262d90250453DFba6AaFa4D842555d45C901b1",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf7262d90250453DFba6AaFa4D842555d45C901b1/logo.png",
+            "name": "Culture Coin",
+            "symbol": "CC"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     }
 }

@@ -1231,11 +1231,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
             "name": "QiDAO",
             "symbol": "QiDAO"
+        },
+        {
+            "address": "0x26d326B1fc702260baeB62334d7c1Da6f1a2C386",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x26d326B1fc702260baeB62334d7c1Da6f1a2C386/logo.png",
+            "name": "Gtps.Finance",
+            "symbol": "GTPS"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     }
 }

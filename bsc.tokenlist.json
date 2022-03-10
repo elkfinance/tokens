@@ -1863,11 +1863,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0xBdf7d9c4Dd10dAD74b46BFeeB58B2Ce5Ff055581",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xBdf7d9c4Dd10dAD74b46BFeeB58B2Ce5Ff055581/logo.png",
+            "name": "Gtps.Finance",
+            "symbol": "GTPS"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     }
 }
