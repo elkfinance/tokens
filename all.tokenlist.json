@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-03-03T22:30:37+00:00",
+    "timestamp": "2022-03-10T18:41:32+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -520,6 +520,14 @@
             "symbol": "TEDDY"
         },
         {
+            "address": "0xf7262d90250453DFba6AaFa4D842555d45C901b1",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf7262d90250453DFba6AaFa4D842555d45C901b1/logo.png",
+            "name": "Culture Coin",
+            "symbol": "CC"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 56,
             "decimals": 18,
@@ -750,6 +758,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0xBdf7d9c4Dd10dAD74b46BFeeB58B2Ce5Ff055581",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xBdf7d9c4Dd10dAD74b46BFeeB58B2Ce5Ff055581/logo.png",
+            "name": "Gtps.Finance",
+            "symbol": "GTPS"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -1680,6 +1696,14 @@
             "symbol": "USDC"
         },
         {
+            "address": "0x9427A2a738AffBc5880F0646b5251069c022e525",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0x9427A2a738AffBc5880F0646b5251069c022e525/logo.png",
+            "name": "Gtps.Finance",
+            "symbol": "GTPS"
+        },
+        {
             "address": "0xe1cE1c0fa22EC693bAca6F5076bcdC4D0183DE1C",
             "chainId": 4689,
             "decimals": 18,
@@ -2046,6 +2070,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x26d326B1fc702260baeB62334d7c1Da6f1a2C386",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x26d326B1fc702260baeB62334d7c1Da6f1a2C386/logo.png",
+            "name": "Gtps.Finance",
+            "symbol": "GTPS"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -2602,7 +2634,7 @@
     ],
     "version": {
         "major": 12,
-        "minor": 7,
+        "minor": 9,
         "patch": 0
     }
 }
