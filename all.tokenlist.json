@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-03-10T18:41:32+00:00",
+    "timestamp": "2022-03-18T01:19:50+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -766,6 +766,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xBdf7d9c4Dd10dAD74b46BFeeB58B2Ce5Ff055581/logo.png",
             "name": "Gtps.Finance",
             "symbol": "GTPS"
+        },
+        {
+            "address": "0x030708208dC29B1688b212081F31cDB59097A67D",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x030708208dC29B1688b212081F31cDB59097A67D/logo.png",
+            "name": "Koban",
+            "symbol": "KBN"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -2634,7 +2642,7 @@
     ],
     "version": {
         "major": 12,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     }
 }
