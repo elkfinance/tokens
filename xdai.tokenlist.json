@@ -1567,11 +1567,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
             "name": "EsportsRef",
             "symbol": "ESR"
+        },
+        {
+            "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
+            "name": "Giveth from Mainnet",
+            "symbol": "GIV"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 9,
+        "minor": 11,
         "patch": 0
     }
 }
