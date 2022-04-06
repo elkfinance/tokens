@@ -3359,11 +3359,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf7262d90250453DFba6AaFa4D842555d45C901b1/logo.png",
             "name": "Culture Coin",
             "symbol": "CC"
+        },
+        {
+            "address": "0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A/logo.png",
+            "name": "RADI",
+            "symbol": "RADI"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     }
 }
