@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-04-02T13:15:01+00:00",
+    "timestamp": "2022-04-06T17:20:58+00:00",
     "tokens": [
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -518,6 +518,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
             "name": "Teddy Cash",
             "symbol": "TEDDY"
+        },
+        {
+            "address": "0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A/logo.png",
+            "name": "RADI",
+            "symbol": "RADI"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -2586,7 +2594,7 @@
     ],
     "version": {
         "major": 12,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     }
 }
