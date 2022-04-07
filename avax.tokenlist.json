@@ -3351,11 +3351,27 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
             "name": "Teddy Cash",
             "symbol": "TEDDY"
+        },
+        {
+            "address": "0xf7262d90250453DFba6AaFa4D842555d45C901b1",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf7262d90250453DFba6AaFa4D842555d45C901b1/logo.png",
+            "name": "Culture Coin",
+            "symbol": "CC"
+        },
+        {
+            "address": "0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A/logo.png",
+            "name": "RADI",
+            "symbol": "RADI"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 4,
+        "minor": 13,
         "patch": 0
     }
 }

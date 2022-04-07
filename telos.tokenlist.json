@@ -111,11 +111,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/logo.png",
             "name": "Wrapped BTC",
             "symbol": "WBTC"
+        },
+        {
+            "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df/logo.png",
+            "name": "Charm",
+            "symbol": "CHARM"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 4,
+        "minor": 13,
         "patch": 0
     }
 }

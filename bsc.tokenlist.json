@@ -1863,11 +1863,27 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0xBdf7d9c4Dd10dAD74b46BFeeB58B2Ce5Ff055581",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xBdf7d9c4Dd10dAD74b46BFeeB58B2Ce5Ff055581/logo.png",
+            "name": "Gtps.Finance",
+            "symbol": "GTPS"
+        },
+        {
+            "address": "0x030708208dC29B1688b212081F31cDB59097A67D",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x030708208dC29B1688b212081F31cDB59097A67D/logo.png",
+            "name": "Koban",
+            "symbol": "KBN"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 4,
+        "minor": 13,
         "patch": 0
     }
 }

@@ -399,11 +399,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0x61B27ADebc9b7c7ffCF8bDFd2cec3339fd582e77/logo.png",
             "name": "Punk World Token",
             "symbol": "DP"
+        },
+        {
+            "address": "0x9427A2a738AffBc5880F0646b5251069c022e525",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0x9427A2a738AffBc5880F0646b5251069c022e525/logo.png",
+            "name": "Gtps.Finance",
+            "symbol": "GTPS"
         }
     ],
     "version": {
         "major": 12,
-        "minor": 4,
+        "minor": 13,
         "patch": 0
     }
 }
