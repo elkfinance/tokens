@@ -9,10 +9,10 @@
     "timestamp": "2021-10-17T15:04:17+00:00",
     "tokens": [
         {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -258,8 +258,8 @@
         }
     ],
     "version": {
-        "major": 12,
-        "minor": 13,
+        "major": 13,
+        "minor": 0,
         "patch": 0
     }
 }
