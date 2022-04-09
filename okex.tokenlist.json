@@ -9,12 +9,20 @@
     "timestamp": "2021-10-17T15:03:32+00:00",
     "tokens": [
         {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 66,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/okex/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 66,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/okex/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
+            "name": "Old Elk",
+            "symbol": "oELK"
         },
         {
             "address": "0x8eAC9d49F71A9393eD38a619038e880c86d5745c",
@@ -226,8 +234,8 @@
         }
     ],
     "version": {
-        "major": 12,
-        "minor": 13,
+        "major": 13,
+        "minor": 0,
         "patch": 0
     }
 }
