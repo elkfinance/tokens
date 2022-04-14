@@ -3375,11 +3375,27 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A/logo.png",
             "name": "RADI",
             "symbol": "RADI"
+        },
+        {
+            "address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
+            "name": "Kassandra",
+            "symbol": "KACY"
+        },
+        {
+            "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png",
+            "name": "LOST",
+            "symbol": "LOST"
         }
     ],
     "version": {
         "major": 13,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
