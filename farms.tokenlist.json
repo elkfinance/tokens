@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-04-14T15:44:55+00:00",
+    "timestamp": "2022-04-15T21:04:21+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -632,6 +632,14 @@
             "symbol": "DAI"
         },
         {
+            "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x924828a9Fb17d47D0eb64b57271D10706699Ff11/logo.png",
+            "name": "Spice",
+            "symbol": "SFI"
+        },
+        {
             "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
             "chainId": 250,
             "decimals": 18,
@@ -1134,6 +1142,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48/logo.png",
             "name": "USDT",
             "symbol": "USDT"
+        },
+        {
+            "address": "0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
+            "name": "Saffron",
+            "symbol": "SFI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1673,8 +1689,8 @@
         }
     ],
     "version": {
-        "major": 13,
-        "minor": 3,
+        "major": 14,
+        "minor": 0,
         "patch": 0
     }
 }
