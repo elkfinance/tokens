@@ -3391,11 +3391,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png",
             "name": "LOST",
             "symbol": "LOST"
+        },
+        {
+            "address": "0x3EeFb18003D033661f84e48360eBeCD181A84709",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
+            "name": "Islander",
+            "symbol": "ISA"
         }
     ],
     "version": {
         "major": 14,
-        "minor": 0,
+        "minor": 2,
         "patch": 0
     }
 }
