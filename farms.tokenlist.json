@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-04-20T22:26:37+00:00",
+    "timestamp": "2022-04-20T22:32:20+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -358,6 +358,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
             "name": "Islander",
             "symbol": "ISA"
+        },
+        {
+            "address": "0x695Fa794d59106cEbd40ab5f5cA19F458c723829",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x695Fa794d59106cEbd40ab5f5cA19F458c723829/logo.png",
+            "name": "Haku Swap",
+            "symbol": "HAKU"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1706,7 +1714,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }
