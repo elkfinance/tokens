@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-04-19T03:14:47+00:00",
+    "timestamp": "2022-04-20T22:26:37+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -214,6 +214,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
             "name": "AVME",
             "symbol": "AVME"
+        },
+        {
+            "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
+            "name": "LydiaFinance Token",
+            "symbol": "LYD"
         },
         {
             "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
@@ -1698,7 +1706,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
