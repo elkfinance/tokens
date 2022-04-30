@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-04-27T15:49:40+00:00",
+    "timestamp": "2022-04-30T02:48:13+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -16,12 +16,28 @@
             "symbol": "ELK"
         },
         {
+            "address": "0x7cb16cb78ea464aD35c8a50ABF95dff3c9e09d5d",
+            "chainId": 42161,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x7cb16cb78ea464aD35c8a50ABF95dff3c9e09d5d/logo.png",
+            "name": "0xBitcoin Token",
+            "symbol": "0xBTC"
+        },
+        {
             "address": "0x03b95f1C84Af0607afd5dD87ca1FDE7572aa827F",
             "chainId": 42161,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x03b95f1C84Af0607afd5dD87ca1FDE7572aa827F/logo.png",
             "name": "Agave",
             "symbol": "AGVE"
+        },
+        {
+            "address": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1/logo.png",
+            "name": "BarnBridge Governance Token",
+            "symbol": "BOND"
         },
         {
             "address": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
@@ -56,6 +72,22 @@
             "symbol": "DEFI5"
         },
         {
+            "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689/logo.png",
+            "name": "dForce",
+            "symbol": "DF"
+        },
+        {
+            "address": "0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65/logo.png",
+            "name": "dHedge DAO Token",
+            "symbol": "DHT"
+        },
+        {
             "address": "0xC3Ae0333F0F34aa734D5493276223d95B8F9Cb37",
             "chainId": 42161,
             "decimals": 18,
@@ -72,12 +104,44 @@
             "symbol": "GNO"
         },
         {
+            "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE/logo.png",
+            "name": "LoopringCoin V2",
+            "symbol": "LRC"
+        },
+        {
             "address": "0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879",
             "chainId": 42161,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879/logo.png",
             "name": "Maker",
             "symbol": "MKR"
+        },
+        {
+            "address": "0xaeF5bbcbFa438519a5ea80B4c7181B4E78d419f2",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xaeF5bbcbFa438519a5ea80B4c7181B4E78d419f2/logo.png",
+            "name": "Rai Reflex Index",
+            "symbol": "RAI"
+        },
+        {
+            "address": "0xef888bcA6AB6B1d26dbeC977C455388ecd794794",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xef888bcA6AB6B1d26dbeC977C455388ecd794794/logo.png",
+            "name": "Rari Governance Token",
+            "symbol": "RGT"
+        },
+        {
+            "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0/logo.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
         },
         {
             "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
@@ -94,6 +158,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
+        },
+        {
+            "address": "0xcd14C3A2ba27819B352aae73414A26e2b366dC50",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xcd14C3A2ba27819B352aae73414A26e2b366dC50/logo.png",
+            "name": "dForce USD",
+            "symbol": "USX"
         },
         {
             "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
@@ -118,6 +190,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x82e3A8F066a6989666b031d916c43672085b1582/logo.png",
             "name": "yearn.finance",
             "symbol": "YFI"
+        },
+        {
+            "address": "0xA970AF1a584579B618be4d69aD6F73459D112F95",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xA970AF1a584579B618be4d69aD6F73459D112F95/logo.png",
+            "name": "Synth sUSD",
+            "symbol": "sUSD"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -272,6 +352,14 @@
             "symbol": "AAVE.e"
         },
         {
+            "address": "0x59Cd8bb3E49930F313eD744585E4067bc45cF85d",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x59Cd8bb3E49930F313eD744585E4067bc45cF85d/logo.png",
+            "name": "BarnBridge Governance Token",
+            "symbol": "BOND"
+        },
+        {
             "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
             "chainId": 43114,
             "decimals": 18,
@@ -288,12 +376,28 @@
             "symbol": "CREAM"
         },
         {
+            "address": "0x3E8a3b1db5401938F6F34E4e6f2560354C182c46",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3E8a3b1db5401938F6F34E4e6f2560354C182c46/logo.png",
+            "name": "CryptoFranc",
+            "symbol": "XCHF"
+        },
+        {
             "address": "0x332877d7b83D98eFC3e22C203c54E6e62F7f35e9",
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x332877d7b83D98eFC3e22C203c54E6e62F7f35e9/logo.png",
             "name": "Decentraland MANA",
             "symbol": "MANA"
+        },
+        {
+            "address": "0xeE33c5804b759cCf3A9de88c9E772374147dCdEE",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xeE33c5804b759cCf3A9de88c9E772374147dCdEE/logo.png",
+            "name": "dHedge DAO Token",
+            "symbol": "DHT"
         },
         {
             "address": "0x7e7034845b581B959Ad90a6D7424382DDd70C196",
@@ -320,6 +424,14 @@
             "symbol": "GOF"
         },
         {
+            "address": "0x628A9639cc78F46604A625452C0242c7B487BA3c",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x628A9639cc78F46604A625452C0242c7B487BA3c/logo.png",
+            "name": "LoopringCoin V2",
+            "symbol": "LRC"
+        },
+        {
             "address": "0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53",
             "chainId": 43114,
             "decimals": 18,
@@ -336,12 +448,36 @@
             "symbol": "PAR"
         },
         {
+            "address": "0x88Af8D172e64326A71C1a7756CB4F6125D98F2A5",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x88Af8D172e64326A71C1a7756CB4F6125D98F2A5/logo.png",
+            "name": "Perpetual",
+            "symbol": "PERP"
+        },
+        {
+            "address": "0x337e4Ff263BC2E8dFb9a1a8a1AF883f0AdF953f0",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x337e4Ff263BC2E8dFb9a1a8a1AF883f0AdF953f0/logo.png",
+            "name": "Rari Governance Token",
+            "symbol": "RGT"
+        },
+        {
             "address": "0x90557E63339cAed393ee15Cb6236Bb746DeD11D3",
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x90557E63339cAed393ee15Cb6236Bb746DeD11D3/logo.png",
             "name": "Reef.finance",
             "symbol": "REEF"
+        },
+        {
+            "address": "0xAdcE0b08127EFd11d4A6CDAA82feDe77b0Fa57F9",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAdcE0b08127EFd11d4A6CDAA82feDe77b0Fa57F9/logo.png",
+            "name": "SPANK",
+            "symbol": "SPANK"
         },
         {
             "address": "0x540641C9B0fcb979496A8c03C711033239C841d5",
@@ -366,6 +502,30 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
             "name": "SushiToken",
             "symbol": "SUSHI.e"
+        },
+        {
+            "address": "0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
+            "name": "Synthetix Network Token",
+            "symbol": "SNX"
+        },
+        {
+            "address": "0xC84d7bfF2555955b44BDF6A307180810412D751B",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png",
+            "name": "UMA Voting Token v1",
+            "symbol": "UMA"
+        },
+        {
+            "address": "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
         },
         {
             "address": "0x99519AcB025a0e0d44c3875A4BbF03af65933627",
@@ -688,6 +848,14 @@
             "symbol": "WETH"
         },
         {
+            "address": "0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3/logo.png",
+            "name": "Mask Network",
+            "symbol": "MASK"
+        },
+        {
             "address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
             "chainId": 56,
             "decimals": 18,
@@ -704,6 +872,14 @@
             "symbol": "TRX"
         },
         {
+            "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1/logo.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
+        },
+        {
             "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
             "chainId": 56,
             "decimals": 18,
@@ -718,6 +894,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x55d398326f99059fF775485246999027B3197955/logo.png",
             "name": "Binance Pegged USDT",
             "symbol": "USDT"
+        },
+        {
+            "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x23396cF899Ca06c4472205fC903bDB4de249D6fC/logo.png",
+            "name": "UST Token",
+            "symbol": "UST"
         },
         {
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1032,6 +1216,14 @@
             "symbol": "LINK"
         },
         {
+            "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
+            "name": "Loopring",
+            "symbol": "LRC"
+        },
+        {
             "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
             "chainId": 1,
             "decimals": 18,
@@ -1046,6 +1238,30 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png",
             "name": "Maker",
             "symbol": "MKR"
+        },
+        {
+            "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
+            "name": "Synthetix",
+            "symbol": "SNX"
+        },
+        {
+            "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
+            "name": "UMAVotingTokenv1",
+            "symbol": "UMA"
+        },
+        {
+            "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
         },
         {
             "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
@@ -1158,6 +1374,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x924828a9Fb17d47D0eb64b57271D10706699Ff11/logo.png",
             "name": "Spice",
             "symbol": "SFI"
+        },
+        {
+            "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc/logo.png",
+            "name": "Synthetix Network Token",
+            "symbol": "SNX"
         },
         {
             "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
@@ -1480,12 +1704,28 @@
             "symbol": "MATIC"
         },
         {
+            "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x7b9c523d59AeFd362247Bd5601A89722e3774dD2/logo.png",
+            "name": "Synthetix Network Token",
+            "symbol": "SNX"
+        },
+        {
             "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
             "chainId": 1666600000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A/logo.png",
             "name": "SushiToken",
             "symbol": "SUSHI"
+        },
+        {
+            "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x90D81749da8867962c760414C1C25ec926E889b6/logo.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
         },
         {
             "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
@@ -1536,6 +1776,14 @@
             "symbol": "LINK"
         },
         {
+            "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x224e64ec1BDce3870a6a6c777eDd450454068FEC/logo.png",
+            "name": "Wrapped UST Token",
+            "symbol": "UST"
+        },
+        {
             "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
             "chainId": 1666600000,
             "decimals": 18,
@@ -1582,6 +1830,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a/logo.png",
             "name": "Heco-Peg USDTHECO Token",
             "symbol": "USDT"
+        },
+        {
+            "address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x22C54cE8321A4015740eE1109D9cBc25815C46E6/logo.png",
+            "name": "UNI",
+            "symbol": "UNI"
         },
         {
             "address": "0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35",
@@ -1662,6 +1918,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x202b4936fE1a82A4965220860aE46d7d3939Bb25/logo.png",
             "name": "AAVE",
             "symbol": "AAVE"
+        },
+        {
+            "address": "0x777850281719d5a96C29812ab72f822E0e09F3Da",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x777850281719d5a96C29812ab72f822E0e09F3Da/logo.png",
+            "name": "SNX",
+            "symbol": "SNX"
         },
         {
             "address": "0x52Ee54dd7a68e9cf131b0a57fd6015C74d7140E2",
@@ -1880,6 +2144,14 @@
             "symbol": "WBTC"
         },
         {
+            "address": "0xedEeFAca6a1581FE2349cdFc3083D4EfA8188e55",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0xedEeFAca6a1581FE2349cdFc3083D4EfA8188e55/logo.png",
+            "name": "UNISWAP",
+            "symbol": "UNI"
+        },
+        {
             "address": "0x4752456e00def6025c77b55A88A2F8A1701F92F9",
             "chainId": 4689,
             "decimals": 18,
@@ -2016,6 +2288,14 @@
             "symbol": "lELK"
         },
         {
+            "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+            "chainId": 137,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/logo.png",
+            "name": "0xBitcoin Token",
+            "symbol": "0xBTC"
+        },
+        {
             "address": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
             "chainId": 137,
             "decimals": 18,
@@ -2110,6 +2390,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.png",
             "name": "Quickswap",
             "symbol": "QUICK"
+        },
+        {
+            "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
         },
         {
             "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
@@ -2489,6 +2777,350 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+            "name": "Synthetix",
+            "symbol": "SNX"
+        },
+        {
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+            "name": "Dai stable coin",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+            "chainId": 10,
+            "decimals": 8,
+            "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC"
+        },
+        {
+            "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+            "chainId": 10,
+            "decimals": 8,
+            "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
+            "name": "0xBitcoin",
+            "symbol": "0xBTC"
+        },
+        {
+            "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+            "name": "Chainlink",
+            "symbol": "LINK"
+        },
+        {
+            "address": "0x65559aA14915a70190438eF90104769e5E890A00",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/ENS.png",
+            "name": "Ethereum Name Service",
+            "symbol": "ENS"
+        },
+        {
+            "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/sUSD.svg",
+            "name": "Synthetix USD",
+            "symbol": "sUSD"
+        },
+        {
+            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://ethereum-optimism.github.io/logos/USDC.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/sETH.svg",
+            "name": "Synthetic Ether",
+            "symbol": "sETH"
+        },
+        {
+            "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/sBTC.svg",
+            "name": "Synthetic Bitcoin",
+            "symbol": "sBTC"
+        },
+        {
+            "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/sLINK.svg",
+            "name": "Synthetic Chainlink",
+            "symbol": "sLINK"
+        },
+        {
+            "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/UNI.png",
+            "name": "Uniswap",
+            "symbol": "UNI"
+        },
+        {
+            "address": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/LUSD.svg",
+            "name": "LUSD Stablecoin",
+            "symbol": "LUSD"
+        },
+        {
+            "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/RGT.png",
+            "name": "Rari Governance Token",
+            "symbol": "RGT"
+        },
+        {
+            "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/RAI.svg",
+            "name": "Rai Reflex Index",
+            "symbol": "RAI"
+        },
+        {
+            "address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/rETH.png",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH"
+        },
+        {
+            "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/PAPER.svg",
+            "name": "Paper",
+            "symbol": "PAPER"
+        },
+        {
+            "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/sarcophagus.png",
+            "name": "Sarcophagus",
+            "symbol": "SARCO"
+        },
+        {
+            "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
+            "name": "BitANT",
+            "symbol": "BitANT"
+        },
+        {
+            "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
+            "name": "BitBTC",
+            "symbol": "BitBTC"
+        },
+        {
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/LYRA.png",
+            "name": "Lyra",
+            "symbol": "LYRA"
+        },
+        {
+            "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/UMA.png",
+            "name": "UMA Voting Token v1",
+            "symbol": "UMA"
+        },
+        {
+            "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
+            "name": "Perpetual",
+            "symbol": "PERP"
+        },
+        {
+            "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/DF.svg",
+            "name": "dForce",
+            "symbol": "DF"
+        },
+        {
+            "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/USX.svg",
+            "name": "dForce USD",
+            "symbol": "USX"
+        },
+        {
+            "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+            "name": "BarnBridge Governance Token",
+            "symbol": "BOND"
+        },
+        {
+            "address": "0x4200000000000000000000000000000000000006",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/WETH.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
+            "name": "Erica Social Token",
+            "symbol": "EST"
+        },
+        {
+            "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
+            "chainId": 10,
+            "decimals": 0,
+            "logoURI": "https://ethereum-optimism.github.io/logos/dcn.svg",
+            "name": "Dentacoin",
+            "symbol": "DCN"
+        },
+        {
+            "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
+            "name": "Kromatika",
+            "symbol": "KROM"
+        },
+        {
+            "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/DHT.svg",
+            "name": "dHEDGE DAO Token",
+            "symbol": "DHT"
+        },
+        {
+            "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/LIZ.png",
+            "name": "Theranos Coin",
+            "symbol": "LIZ"
+        },
+        {
+            "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/MASK.svg",
+            "name": "Mask Network",
+            "symbol": "MASK"
+        },
+        {
+            "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/CRV.png",
+            "name": "Curve DAO Token",
+            "symbol": "CRV"
+        },
+        {
+            "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+            "name": "SPANK",
+            "symbol": "SPANK"
+        },
+        {
+            "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/LRC.png",
+            "name": "LoopringCoin V2",
+            "symbol": "LRC"
+        },
+        {
+            "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/THALES.png",
+            "name": "Optimistic Thales Token",
+            "symbol": "THALES"
+        },
+        {
+            "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://ethereum-optimism.github.io/logos/UST.png",
+            "name": "UST (Wormhole)",
+            "symbol": "UST"
+        },
+        {
+            "address": "0xE4F27b04cC7729901876B44f4EAA5102EC150265",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/XCHF.png",
+            "name": "CryptoFranc",
+            "symbol": "XCHF"
+        },
+        {
+            "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
+            "name": "Aave Token",
+            "symbol": "AAVE"
+        },
+        {
+            "address": "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
+            "name": "Equalizer",
+            "symbol": "EQZ"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -2608,6 +3240,14 @@
             "symbol": "AGVE"
         },
         {
+            "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382/logo.png",
+            "name": "BarnBridge",
+            "symbol": "BOND"
+        },
+        {
             "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
             "chainId": 100,
             "decimals": 18,
@@ -2688,6 +3328,14 @@
             "symbol": "HNY"
         },
         {
+            "address": "0x2bE73bFeEC620aa9B67535A4D3827bB1e29436D1",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x2bE73bFeEC620aa9B67535A4D3827bB1e29436D1/logo.png",
+            "name": "LoopringCoin V2 on xDai",
+            "symbol": "LRC"
+        },
+        {
             "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
             "chainId": 100,
             "decimals": 18,
@@ -2712,12 +3360,28 @@
             "symbol": "MKR"
         },
         {
+            "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x7ecF26cd9A36990b8ea477853663092333f59979/logo.png",
+            "name": "Perpetual on xDai",
+            "symbol": "PERP"
+        },
+        {
             "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
             "chainId": 100,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe/logo.png",
             "name": "Rare Coin v2",
             "symbol": "RAREV2"
+        },
+        {
+            "address": "0x3A00E08544d589E19a8e7D97D0294331341cdBF6",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3A00E08544d589E19a8e7D97D0294331341cdBF6/logo.png",
+            "name": "Synthetix Network Token on xDai",
+            "symbol": "SNX"
         },
         {
             "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
@@ -2736,6 +3400,14 @@
             "symbol": "SURF"
         },
         {
+            "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393/logo.png",
+            "name": "Synthetix USD on xDai",
+            "symbol": "sUSD"
+        },
+        {
             "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
             "chainId": 100,
             "decimals": 18,
@@ -2750,6 +3422,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x0116e28B43A358162B96f70B4De14C98A4465f25/logo.png",
             "name": "UniCrypt on xDai",
             "symbol": "UNCX"
+        },
+        {
+            "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74/logo.png",
+            "name": "Uniswap on xDai",
+            "symbol": "UNI"
         },
         {
             "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
@@ -2874,7 +3554,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     }
 }
