@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-04-27T15:49:42+00:00",
+    "timestamp": "2022-04-30T02:48:14+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1481,6 +1481,46 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+            "name": "Dai stable coin",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://ethereum-optimism.github.io/logos/USDC.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://ethereum-optimism.github.io/logos/CRV.png",
+            "name": "Curve DAO Token",
+            "symbol": "CRV"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -1730,7 +1770,7 @@
     ],
     "version": {
         "major": 14,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     }
 }
