@@ -255,10 +255,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304/logo.png",
             "name": "MMToken",
             "symbol": "MM"
+        },
+        {
+            "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png",
+            "name": "Spice",
+            "symbol": "SFI"
         }
     ],
     "version": {
-        "major": 16,
+        "major": 17,
         "minor": 0,
         "patch": 0
     }
