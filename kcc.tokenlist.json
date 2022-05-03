@@ -101,12 +101,12 @@
             "chainId": 321,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
-            "name": "Saffron",
+            "name": "Spice",
             "symbol": "SFI"
         }
     ],
     "version": {
-        "major": 16,
+        "major": 17,
         "minor": 0,
         "patch": 0
     }

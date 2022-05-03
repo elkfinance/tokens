@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-05-03T19:54:03+00:00",
+    "timestamp": "2022-05-03T20:56:42+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -376,6 +376,14 @@
             "symbol": "HAKU"
         },
         {
+            "address": "0xd13eB71515DC48a8a367D12F844e5737bab415dF",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd13eB71515DC48a8a367D12F844e5737bab415dF/logo.png",
+            "name": "Spice",
+            "symbol": "SFI"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 56,
             "decimals": 18,
@@ -654,6 +662,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
             "name": "DaiStablecoin",
             "symbol": "DAI"
+        },
+        {
+            "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png",
+            "name": "Spice",
+            "symbol": "SFI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1236,7 +1252,7 @@
             "chainId": 321,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
-            "name": "Saffron",
+            "name": "Spice",
             "symbol": "SFI"
         },
         {
@@ -1873,7 +1889,7 @@
         }
     ],
     "version": {
-        "major": 16,
+        "major": 17,
         "minor": 0,
         "patch": 0
     }
