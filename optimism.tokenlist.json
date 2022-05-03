@@ -310,14 +310,6 @@
             "symbol": "BOND"
         },
         {
-            "address": "0x4200000000000000000000000000000000000006",
-            "chainId": 10,
-            "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/logos/WETH.png",
-            "name": "Wrapped Ether",
-            "symbol": "WETH"
-        },
-        {
             "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
             "chainId": 10,
             "decimals": 18,
@@ -474,7 +466,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }
