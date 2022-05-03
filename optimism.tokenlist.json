@@ -17,6 +17,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0x4200000000000000000000000000000000000006",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
+        },
+        {
             "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
             "chainId": 10,
             "decimals": 18,
@@ -466,7 +474,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 0,
+        "minor": 3,
         "patch": 0
     }
 }
