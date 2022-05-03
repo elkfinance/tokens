@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-04-30T02:48:14+00:00",
+    "timestamp": "2022-05-03T18:18:01+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -62,6 +62,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
+        },
+        {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -408,6 +416,14 @@
             "symbol": "DAI"
         },
         {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+            "name": "Binance Pegged ETH",
+            "symbol": "WETH"
+        },
+        {
             "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
             "chainId": 56,
             "decimals": 18,
@@ -494,6 +510,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
             "name": "Wrapped CRO",
             "symbol": "WCRO"
+        },
+        {
+            "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "WETH"
         },
         {
             "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
@@ -584,6 +608,14 @@
             "symbol": "USDC"
         },
         {
+            "address": "0x802c3e839E4fDb10aF583E3E759239ec7703501e",
+            "chainId": 20,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/elastos/0x802c3e839E4fDb10aF583E3E759239ec7703501e/logo.png",
+            "name": "ETH on Elastos",
+            "symbol": "WETH"
+        },
+        {
             "address": "0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4",
             "chainId": 20,
             "decimals": 18,
@@ -598,6 +630,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "WETH"
         },
         {
             "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
@@ -630,6 +670,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Old Elk",
             "symbol": "oELK"
+        },
+        {
+            "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
         },
         {
             "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
@@ -798,6 +846,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
             "name": "Tether USD on Fuse",
             "symbol": "USDT"
+        },
+        {
+            "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
+            "name": "Wrapped Ether on Fuse",
+            "symbol": "WETH"
         },
         {
             "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
@@ -1016,6 +1072,14 @@
             "symbol": "WHOO"
         },
         {
+            "address": "0xA1588dC914e236bB5AE4208Ce3081246f7A00193",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hoo/0xA1588dC914e236bB5AE4208Ce3081246f7A00193/logo.png",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
+        },
+        {
             "address": "0xa787254704339474A827bd1ee4772c455e3aE7F2",
             "chainId": 70,
             "decimals": 18,
@@ -1208,6 +1272,14 @@
             "symbol": "DAI"
         },
         {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
             "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
             "chainId": 137,
             "decimals": 6,
@@ -1334,6 +1406,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/logo.png",
             "name": "Binance-Peg BUSD Token",
             "symbol": "BUSD"
+        },
+        {
+            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+            "chainId": 1285,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
         },
         {
             "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
@@ -1488,6 +1568,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0x4200000000000000000000000000000000000006",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
+        },
+        {
             "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
             "chainId": 10,
             "decimals": 18,
@@ -1558,6 +1646,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png",
             "name": "USDT",
             "symbol": "USDT"
+        },
+        {
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "WETH"
         },
         {
             "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
@@ -1712,6 +1808,14 @@
             "symbol": "WBNB"
         },
         {
+            "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png",
+            "name": "Wrapped Ether on xDai",
+            "symbol": "WETH"
+        },
+        {
             "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
             "chainId": 100,
             "decimals": 18,
@@ -1770,7 +1874,7 @@
     ],
     "version": {
         "major": 15,
-        "minor": 0,
+        "minor": 3,
         "patch": 0
     }
 }
