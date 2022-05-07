@@ -42,7 +42,7 @@
             "extensions": {
                 "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
             },
-            "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
             "name": "Dai stable coin",
             "symbol": "DAI"
         },
@@ -53,7 +53,7 @@
             "extensions": {
                 "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
             },
-            "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
         },
@@ -64,7 +64,7 @@
             "extensions": {
                 "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
             },
-            "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png",
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC"
         },
@@ -116,7 +116,7 @@
             "extensions": {
                 "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
             },
-            "logoURI": "https://ethereum-optimism.github.io/logos/USDC.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
             "name": "USD Coin",
             "symbol": "USDC"
         },
@@ -382,7 +382,7 @@
             "extensions": {
                 "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
             },
-            "logoURI": "https://ethereum-optimism.github.io/logos/CRV.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
             "name": "Curve DAO Token",
             "symbol": "CRV"
         },
@@ -465,7 +465,7 @@
         }
     ],
     "version": {
-        "major": 17,
+        "major": 18,
         "minor": 0,
         "patch": 0
     }
