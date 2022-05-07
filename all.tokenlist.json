@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-05-07T20:22:09+00:00",
+    "timestamp": "2022-05-07T22:52:55+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1212,7 +1212,7 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-            "name": "DaiStablecoin",
+            "name": "Dai Stablecoin",
             "symbol": "DAI"
         },
         {
@@ -1286,6 +1286,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png",
             "name": "Spice",
             "symbol": "SFI"
+        },
+        {
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3570,7 +3586,7 @@
     ],
     "version": {
         "major": 18,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
