@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-05-07T22:52:55+00:00",
+    "timestamp": "2022-05-11T22:34:29+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1678,6 +1678,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134/logo.png",
             "name": "TigerGod",
             "symbol": "tGod"
+        },
+        {
+            "address": "0x42E44f16D2183d7eD27C501b04F29084eF4C2D24",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x42E44f16D2183d7eD27C501b04F29084eF4C2D24/logo.png",
+            "name": "In Seth We Trust",
+            "symbol": "ISWT"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3586,7 +3594,7 @@
     ],
     "version": {
         "major": 18,
-        "minor": 1,
+        "minor": 3,
         "patch": 0
     }
 }
