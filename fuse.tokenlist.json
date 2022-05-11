@@ -175,11 +175,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x427C995a0623157a3c1c6b8b86410B5B3A26061B/logo.png",
             "name": "GrimaceCoin",
             "symbol": "GRIM"
+        },
+        {
+            "address": "0x42E44f16D2183d7eD27C501b04F29084eF4C2D24",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x42E44f16D2183d7eD27C501b04F29084eF4C2D24/logo.png",
+            "name": "In Seth We Trust",
+            "symbol": "ISWT"
         }
     ],
     "version": {
         "major": 18,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
