@@ -2242,7 +2242,7 @@
         {
             "address": "0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b",
             "chainId": 4689,
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b/logo.png",
             "name": "DAI",
             "symbol": "DAI"
@@ -3593,8 +3593,8 @@
         }
     ],
     "version": {
-        "major": 18,
-        "minor": 3,
+        "major": 19,
+        "minor": 0,
         "patch": 0
     }
 }
