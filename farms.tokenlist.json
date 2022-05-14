@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-05-14T04:23:05+00:00",
+    "timestamp": "2022-05-14T09:14:41+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -382,6 +382,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd13eB71515DC48a8a367D12F844e5737bab415dF/logo.png",
             "name": "Spice",
             "symbol": "SFI"
+        },
+        {
+            "address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
+            "name": "Kalao",
+            "symbol": "KLO"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1906,7 +1914,7 @@
     ],
     "version": {
         "major": 19,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
