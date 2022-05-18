@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-05-14T09:14:41+00:00",
+    "timestamp": "2022-05-18T01:21:22+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -392,6 +392,14 @@
             "symbol": "KLO"
         },
         {
+            "address": "0x02Bfd11499847003De5f0F5AA081C43854d48815",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x02Bfd11499847003De5f0F5AA081C43854d48815/logo.png",
+            "name": "Radio Token",
+            "symbol": "RADIO"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 56,
             "decimals": 18,
@@ -494,6 +502,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x030708208dC29B1688b212081F31cDB59097A67D/logo.png",
             "name": "Koban",
             "symbol": "KBN"
+        },
+        {
+            "address": "0x30807D3b851A31d62415B8bb7Af7dCa59390434a",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x30807D3b851A31d62415B8bb7Af7dCa59390434a/logo.png",
+            "name": "Radio Token",
+            "symbol": "RADIO"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -694,6 +710,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
             "name": "USD Coin",
             "symbol": "USDC"
+        },
+        {
+            "address": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636/logo.png",
+            "name": "Radio Token",
+            "symbol": "RADIO"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1320,6 +1344,14 @@
             "symbol": "WETH"
         },
         {
+            "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.png",
+            "name": "Quickswap",
+            "symbol": "QUICK"
+        },
+        {
             "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
             "chainId": 137,
             "decimals": 6,
@@ -1398,6 +1430,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
             "name": "miMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x613a489785C95afEB3b404CC41565cCff107B6E0",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x613a489785C95afEB3b404CC41565cCff107B6E0/logo.png",
+            "name": "Radio Token",
+            "symbol": "RADIO"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1914,7 +1954,7 @@
     ],
     "version": {
         "major": 19,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }

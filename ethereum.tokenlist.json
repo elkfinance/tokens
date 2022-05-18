@@ -279,11 +279,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
             "name": "USD Coin",
             "symbol": "USDC"
+        },
+        {
+            "address": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636/logo.png",
+            "name": "Radio Token",
+            "symbol": "RADIO"
         }
     ],
     "version": {
         "major": 19,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }

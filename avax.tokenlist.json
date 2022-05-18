@@ -3423,11 +3423,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
             "name": "Kalao",
             "symbol": "KLO"
+        },
+        {
+            "address": "0x02Bfd11499847003De5f0F5AA081C43854d48815",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x02Bfd11499847003De5f0F5AA081C43854d48815/logo.png",
+            "name": "Radio Token",
+            "symbol": "RADIO"
         }
     ],
     "version": {
         "major": 19,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
