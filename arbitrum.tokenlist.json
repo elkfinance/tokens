@@ -1123,10 +1123,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xA970AF1a584579B618be4d69aD6F73459D112F95/logo.png",
             "name": "Synth sUSD",
             "symbol": "sUSD"
+        },
+        {
+            "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
         }
     ],
     "version": {
-        "major": 20,
+        "major": 21,
         "minor": 0,
         "patch": 0
     }

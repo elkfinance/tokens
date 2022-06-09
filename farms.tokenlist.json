@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-05-26T19:14:23+00:00",
+    "timestamp": "2022-06-09T00:59:56+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -70,6 +70,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
             "name": "Wrapped Ether",
             "symbol": "WETH"
+        },
+        {
+            "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -174,6 +182,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
             "name": "Binance USD",
             "symbol": "BUSD"
+        },
+        {
+            "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6b289CCeAA8639e3831095D75A3e43520faBf552/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
         },
         {
             "address": "0x7e7034845b581B959Ad90a6D7424382DDd70C196",
@@ -512,6 +528,14 @@
             "symbol": "RADIO"
         },
         {
+            "address": "0x8dA443F84fEA710266C8eB6bC34B71702d033EF2",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8dA443F84fEA710266C8eB6bC34B71702d033EF2/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 25,
             "decimals": 18,
@@ -718,6 +742,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636/logo.png",
             "name": "Radio Token",
             "symbol": "RADIO"
+        },
+        {
+            "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1376,6 +1408,14 @@
             "symbol": "WMATIC"
         },
         {
+            "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
+        },
+        {
             "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
             "chainId": 137,
             "decimals": 18,
@@ -1953,7 +1993,7 @@
         }
     ],
     "version": {
-        "major": 20,
+        "major": 21,
         "minor": 0,
         "patch": 0
     }

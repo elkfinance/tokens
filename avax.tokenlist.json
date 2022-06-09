@@ -609,10 +609,10 @@
             "symbol": "CAP"
         },
         {
-            "address": "0x71C677beD0DF55AF6d6b19114Dab10E1dE45d9F7",
+            "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x71C677beD0DF55AF6d6b19114Dab10E1dE45d9F7/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6b289CCeAA8639e3831095D75A3e43520faBf552/logo.png",
             "name": "Cartesi Token",
             "symbol": "CTSI"
         },
@@ -3434,7 +3434,7 @@
         }
     ],
     "version": {
-        "major": 20,
+        "major": 21,
         "minor": 0,
         "patch": 0
     }

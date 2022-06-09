@@ -1887,10 +1887,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x30807D3b851A31d62415B8bb7Af7dCa59390434a/logo.png",
             "name": "Radio Token",
             "symbol": "RADIO"
+        },
+        {
+            "address": "0x8dA443F84fEA710266C8eB6bC34B71702d033EF2",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8dA443F84fEA710266C8eB6bC34B71702d033EF2/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
         }
     ],
     "version": {
-        "major": 20,
+        "major": 21,
         "minor": 0,
         "patch": 0
     }
