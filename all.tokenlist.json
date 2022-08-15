@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-07-19T20:32:55+00:00",
+    "timestamp": "2022-08-15T21:52:59+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1070,6 +1070,14 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0x8dA443F84fEA710266C8eB6bC34B71702d033EF2/logo.png",
             "name": "Cartesi Token",
             "symbol": "CTSI"
+        },
+        {
+            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
+            "name": "Xion Global Token",
+            "symbol": "XGT"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3624,6 +3632,14 @@
             "symbol": "XCOMB"
         },
         {
+            "address": "0xf1738912ae7439475712520797583ac784ea9033",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xf1738912ae7439475712520797583ac784ea9033/logo.png",
+            "name": "XionGlobal Token",
+            "symbol": "XGT"
+        },
+        {
             "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
             "chainId": 100,
             "decimals": 18,
@@ -3690,7 +3706,7 @@
     ],
     "version": {
         "major": 21,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }

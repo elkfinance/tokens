@@ -1895,11 +1895,19 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0x8dA443F84fEA710266C8eB6bC34B71702d033EF2/logo.png",
             "name": "Cartesi Token",
             "symbol": "CTSI"
+        },
+        {
+            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
+            "name": "Xion Global Token",
+            "symbol": "XGT"
         }
     ],
     "version": {
         "major": 21,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
