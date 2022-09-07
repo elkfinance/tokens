@@ -1279,11 +1279,19 @@
             "logoURI": "https://elk.finance/tokens/logos/matic/0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9/logo.png",
             "name": "Shack Token",
             "symbol": "SHACK"
+        },
+        {
+            "address": "0x65ba64899c2c7DbFDb5130e42E2CC56de281c78b",
+            "chainId": 137,
+            "decimals": 9,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x65ba64899c2c7DbFDb5130e42E2CC56de281c78b/logo.png",
+            "name": "Dexioprotocol",
+            "symbol": "DEXI"
         }
     ],
     "version": {
         "major": 21,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }

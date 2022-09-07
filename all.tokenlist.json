@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-08-15T21:52:59+00:00",
+    "timestamp": "2022-09-07T23:57:53+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1078,6 +1078,22 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
             "name": "Xion Global Token",
             "symbol": "XGT"
+        },
+        {
+            "address": "0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653",
+            "chainId": 56,
+            "decimals": 9,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653/logo.png",
+            "name": "SamuraiLegends",
+            "symbol": "SMG"
+        },
+        {
+            "address": "0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD",
+            "chainId": 56,
+            "decimals": 9,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD/logo.png",
+            "name": "KOKU",
+            "symbol": "KOKU"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2704,6 +2720,14 @@
             "symbol": "SHACK"
         },
         {
+            "address": "0x65ba64899c2c7DbFDb5130e42E2CC56de281c78b",
+            "chainId": 137,
+            "decimals": 9,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x65ba64899c2c7DbFDb5130e42E2CC56de281c78b/logo.png",
+            "name": "Dexioprotocol",
+            "symbol": "DEXI"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1285,
             "decimals": 18,
@@ -3706,7 +3730,7 @@
     ],
     "version": {
         "major": 21,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
