@@ -1903,11 +1903,27 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
             "name": "Xion Global Token",
             "symbol": "XGT"
+        },
+        {
+            "address": "0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653",
+            "chainId": 56,
+            "decimals": 9,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653/logo.png",
+            "name": "SamuraiLegends",
+            "symbol": "SMG"
+        },
+        {
+            "address": "0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD",
+            "chainId": 56,
+            "decimals": 9,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD/logo.png",
+            "name": "KOKU",
+            "symbol": "KOKU"
         }
     ],
     "version": {
         "major": 21,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
