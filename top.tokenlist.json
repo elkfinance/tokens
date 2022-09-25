@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-09-07T23:57:54+00:00",
+    "timestamp": "2022-09-25T00:49:44+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2009,6 +2009,70 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "chainId": 2222,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
+            "name": "USDC on Kava",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "chainId": 2222,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+            "name": "USDT on Kava",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
+            "name": "ETH on Kava",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+            "chainId": 2222,
+            "decimals": 8,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
+            "name": "BTC on Kava",
+            "symbol": "WBTC"
+        },
+        {
+            "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
+            "name": "BUSD on Kava",
+            "symbol": "BUSD"
+        },
+        {
+            "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
+            "name": "BNB on Kava",
+            "symbol": "BNB"
+        },
+        {
+            "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png",
+            "name": "Wrapped Kava",
+            "symbol": "wKAVA"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 321,
             "decimals": 18,
             "logoURI": "https://elk.finance/tokens/logos/kcc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -3033,8 +3097,8 @@
         }
     ],
     "version": {
-        "major": 21,
-        "minor": 3,
+        "major": 22,
+        "minor": 0,
         "patch": 0
     }
 }
