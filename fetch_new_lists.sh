@@ -23,4 +23,4 @@ python update_list.py -o moonriver.tokenlist.json -c moonriver --logos
 python update_list.py -o telos.tokenlist.json -c telos --logos
 python update_list.py -o cronos.tokenlist.json -c cronos --logos
 python update_list.py -o ethereum.tokenlist.json -c ethereum -u https://www.gemini.com/uniswap/manifest.json --logos
-
+python update_list.py -o kava.tokenlist.json -c kava --logos
