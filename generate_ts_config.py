@@ -52,6 +52,7 @@ CHAIN_IDS = {
     'ELAETH': 20,
     'TELOS': 40,
     'CRONOS': 25,
+    'KAVA': 2222,
     'MOONRIVER': 1285,
     'BINANCE_TESTNET': 97,
     'BINANCE': 56,
