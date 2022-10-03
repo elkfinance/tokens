@@ -5,591 +5,79 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-10-01T15:41:10+00:00",
+    "timestamp": "2022-10-03T07:00:08+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 25,
+            "chainId": 42161,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
         {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 25,
+            "address": "0x03b95f1C84Af0607afd5dD87ca1FDE7572aa827F",
+            "chainId": 42161,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png",
-            "name": "Crodex Token",
-            "symbol": "CRX"
-        },
-        {
-            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
-            "name": "Wrapped CRO",
-            "symbol": "WCRO"
-        },
-        {
-            "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png",
-            "name": "Wrapped ETH",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
-            "chainId": 25,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59/logo.png",
-            "name": "USDC",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
-            "chainId": 25,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png",
-            "name": "USDT",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
-            "name": "DAI",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xbdd4e5660839a088573191A9889A262c0Efc0983/logo.png",
-            "name": "Photonswap",
-            "symbol": "PHOTON"
-        },
-        {
-            "address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb/logo.png",
-            "name": "miMatic",
-            "symbol": "MAI"
-        },
-        {
-            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
-            "chainId": 25,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
-            "name": "AutoFarm",
-            "symbol": "AUTO"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 10,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0x4200000000000000000000000000000000000006",
-            "chainId": 10,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
-            "name": "Wrapped Ethereum",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-            "chainId": 10,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
-            "name": "Dai stable coin",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-            "chainId": 10,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
-            "name": "Tether USD",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-            "chainId": 10,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
-            "name": "USD Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
-            "chainId": 10,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
-            "name": "Curve DAO Token",
-            "symbol": "CRV"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 321,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kcc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 321,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kcc/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
-            "chainId": 321,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kcc/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png",
-            "name": "WKCS",
-            "symbol": "WKCS"
-        },
-        {
-            "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
-            "chainId": 321,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kcc/0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430/logo.png",
-            "name": "USDC",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
-            "chainId": 321,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kcc/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48/logo.png",
-            "name": "USDT",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00",
-            "chainId": 321,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
-            "name": "Spice",
-            "symbol": "SFI"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x03b95f1C84Af0607afd5dD87ca1FDE7572aa827F/logo.png",
             "name": "Agave",
             "symbol": "AGVE"
         },
         {
-            "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
-            "chainId": 100,
+            "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+            "chainId": 42161,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xdd96B45877d0E8361a4DDb732da741e97f3191Ff/logo.png",
-            "name": "BUSD Token from BSC",
-            "symbol": "BUSD"
-        },
-        {
-            "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xdbcadE285846131a5e7384685EADDBDFD9625557/logo.png",
-            "name": "COLD TRUTH CASH",
-            "symbol": "COLD"
-        },
-        {
-            "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd/logo.png",
-            "name": "Curve DAO Token on xDai",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978/logo.png",
+            "name": "Curve DAO Token",
             "symbol": "CRV"
         },
         {
-            "address": "0x44fA8E6f47987339850636F88629646662444217",
-            "chainId": 100,
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "chainId": 42161,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x44fA8E6f47987339850636F88629646662444217/logo.png",
-            "name": "Dai Stablecoin on xDai",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+            "name": "Dai Stablecoin",
             "symbol": "DAI"
         },
         {
-            "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
-            "chainId": 100,
+            "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
+            "chainId": 42161,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo.png",
-            "name": "Gnosis on xDai",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1/logo.png",
+            "name": "Gnosis Token",
             "symbol": "GNO"
         },
         {
-            "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
-            "name": "Honey",
-            "symbol": "HNY"
-        },
-        {
-            "address": "0x7122d7661c4564b7C6Cd4878B06766489a6028A2",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x7122d7661c4564b7C6Cd4878B06766489a6028A2/logo.png",
-            "name": "Matic Token on xDai",
-            "symbol": "WMATIC"
-        },
-        {
-            "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe/logo.png",
-            "name": "Rare Coin v2",
-            "symbol": "RAREV2"
-        },
-        {
-            "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
-            "name": "Symmetric",
-            "symbol": "SYMM"
-        },
-        {
-            "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-            "chainId": 100,
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "chainId": 42161,
             "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83/logo.png",
-            "name": "USDC on xDai",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png",
+            "name": "USD Coin Arb1",
             "symbol": "USDC"
         },
         {
-            "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
-            "chainId": 100,
+            "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "chainId": 42161,
             "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x4ECaBa5870353805a9F068101A40E0f32ed605C6/logo.png",
-            "name": "Tether on xDai",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png",
+            "name": "Tether USD",
             "symbol": "USDT"
         },
         {
-            "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
-            "chainId": 100,
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "chainId": 42161,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04/logo.png",
-            "name": "Wrapped BNB from BSC",
-            "symbol": "WBNB"
-        },
-        {
-            "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png",
-            "name": "Wrapped Ether on xDai",
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
+            "name": "Wrapped Ether",
             "symbol": "WETH"
         },
         {
-            "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
-            "chainId": 100,
+            "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+            "chainId": 42161,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
-            "name": "Wrapped XDAI",
-            "symbol": "WXDAI"
-        },
-        {
-            "address": "0xf1738912ae7439475712520797583ac784ea9033",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xf1738912ae7439475712520797583ac784ea9033/logo.png",
-            "name": "XionGlobal Token",
-            "symbol": "XGT"
-        },
-        {
-            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
-            "name": "Xion Global Token",
-            "symbol": "XGTV2"
-        },
-        {
-            "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
-            "name": "FOX",
-            "symbol": "FOX"
-        },
-        {
-            "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
-            "name": "Bright",
-            "symbol": "BRIGHT"
-        },
-        {
-            "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
-            "name": "xDai Punks",
-            "symbol": "PUNK"
-        },
-        {
-            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
-            "name": "miMatic",
-            "symbol": "MAI"
-        },
-        {
-            "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
-            "name": "Giveth from Mainnet",
-            "symbol": "GIV"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png",
-            "name": "Wrapped HT",
-            "symbol": "WHT"
-        },
-        {
-            "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a/logo.png",
-            "name": "Heco-Peg USDTHECO Token",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xE36FFD17B2661EB57144cEaEf942D95295E637F0",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0xE36FFD17B2661EB57144cEaEf942D95295E637F0/logo.png",
-            "name": "Heco FilDA Token",
-            "symbol": "FILDA"
-        },
-        {
-            "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
-            "chainId": 128,
-            "decimals": 8,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047/logo.png",
-            "name": "Heco-Peg HUSD Token",
-            "symbol": "HUSD"
-        },
-        {
-            "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
-            "chainId": 128,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png",
-            "name": "USDC",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a/logo.png",
-            "name": "DAI",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3",
-            "chainId": 128,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/heco/0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3/logo.png",
-            "name": "Wrapped BNB",
-            "symbol": "WBNB"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 70,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hoo/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 70,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hoo/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87",
-            "chainId": 70,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hoo/0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87/logo.png",
-            "name": "Wrapped HOO",
-            "symbol": "WHOO"
-        },
-        {
-            "address": "0xA1588dC914e236bB5AE4208Ce3081246f7A00193",
-            "chainId": 70,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hoo/0xA1588dC914e236bB5AE4208Ce3081246f7A00193/logo.png",
-            "name": "Wrapped Ethereum",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0xa787254704339474A827bd1ee4772c455e3aE7F2",
-            "chainId": 70,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hoo/0xa787254704339474A827bd1ee4772c455e3aE7F2/logo.png",
-            "name": "Wrapped Binance Coin",
-            "symbol": "WBNB"
-        },
-        {
-            "address": "0xD16bAbe52980554520F6Da505dF4d1b124c815a7",
-            "chainId": 70,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/hoo/0xD16bAbe52980554520F6Da505dF4d1b124c815a7/logo.png",
-            "name": "Tether",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0x92a0bD4584c147D1B0e8F9185dB0BDa10B05Ed7e",
-            "chainId": 70,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/hoo/0x92a0bD4584c147D1B0e8F9185dB0BDa10B05Ed7e/logo.png",
-            "name": "USD Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png",
-            "name": "BNB on Fuse",
-            "symbol": "WBNB"
-        },
-        {
-            "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png",
-            "name": "Dai Stablecoin on Fuse",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
-            "name": "Fuse Dollar",
-            "symbol": "FUSD"
-        },
-        {
-            "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
-            "chainId": 122,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
-            "name": "USD Coin on Fuse",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
-            "chainId": 122,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
-            "name": "Tether USD on Fuse",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
-            "name": "Wrapped Ether on Fuse",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
-            "name": "Wrapped Fuse",
-            "symbol": "WFUSE"
-        },
-        {
-            "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78/logo.png",
-            "name": "SushiToken",
-            "symbol": "SUSHI"
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -929,318 +417,6 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 2222,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
-            "chainId": 2222,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
-            "name": "USDC on Kava",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-            "chainId": 2222,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
-            "name": "USDT on Kava",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-            "chainId": 2222,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
-            "name": "ETH on Kava",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
-            "chainId": 2222,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
-            "name": "BUSD on Kava",
-            "symbol": "BUSD"
-        },
-        {
-            "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
-            "chainId": 2222,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png",
-            "name": "Wrapped Kava",
-            "symbol": "wKAVA"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png",
-            "name": "Wrapped Ether",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-            "chainId": 250,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png",
-            "name": "USD Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png",
-            "name": "Curve DAO",
-            "symbol": "CRV"
-        },
-        {
-            "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0x924828a9Fb17d47D0eb64b57271D10706699Ff11/logo.png",
-            "name": "Spice",
-            "symbol": "SFI"
-        },
-        {
-            "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
-            "name": "Wrapped FTM",
-            "symbol": "WFTM"
-        },
-        {
-            "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0xAd84341756Bf337f5a0164515b1f6F993D194E1f/logo.png",
-            "name": "Fantom USD",
-            "symbol": "FUSD"
-        },
-        {
-            "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
-            "name": "Wrapped Binance Coin",
-            "symbol": "WBNB"
-        },
-        {
-            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
-            "chainId": 250,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
-            "name": "QiDAO",
-            "symbol": "MAI"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x98878B06940aE243284CA214f92Bb71a2b032B8A/logo.png",
-            "name": "Wrapped MOVR",
-            "symbol": "WMOVR"
-        },
-        {
-            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-            "chainId": 1285,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
-            "name": "USDC Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/logo.png",
-            "name": "Binance-Peg BUSD Token",
-            "symbol": "BUSD"
-        },
-        {
-            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
-            "name": "Wrapped Ethereum",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
-            "name": "Wrapped Binance Coin",
-            "symbol": "WBNB"
-        },
-        {
-            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-            "chainId": 1285,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
-            "name": "Tether USD",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x14a0243C333A5b238143068dC3A7323Ba4C30ECB/logo.png",
-            "name": "Wrapped Avalanche",
-            "symbol": "WAVAX"
-        },
-        {
-            "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x682F81e57EAa716504090C3ECBa8595fB54561D8/logo.png",
-            "name": "WMatic",
-            "symbol": "WMATIC"
-        },
-        {
-            "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xaD12daB5959f30b9fF3c2d6709f53C335dC39908/logo.png",
-            "name": "Wrapped Fantom Token",
-            "symbol": "WFTM"
-        },
-        {
-            "address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C/logo.png",
-            "name": "MmiMatic",
-            "symbol": "MAI"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-            "name": "Wrapped ETH",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
-            "name": "CurveDAOToken",
-            "symbol": "CRV"
-        },
-        {
-            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png",
-            "name": "Spice",
-            "symbol": "SFI"
-        },
-        {
-            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-            "name": "Tether USD",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "chainId": 1,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-            "name": "USD Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636/logo.png",
-            "name": "Radio Token",
-            "symbol": "RADIO"
-        },
-        {
-            "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png",
-            "name": "Cartesi Token",
-            "symbol": "CTSI"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://elk.finance/tokens/logos/bsc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -1385,6 +561,94 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png",
+            "name": "Crodex Token",
+            "symbol": "CRX"
+        },
+        {
+            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
+            "name": "Wrapped CRO",
+            "symbol": "WCRO"
+        },
+        {
+            "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+            "chainId": 25,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+            "chainId": 25,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png",
+            "name": "USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0xbdd4e5660839a088573191A9889A262c0Efc0983/logo.png",
+            "name": "Photonswap",
+            "symbol": "PHOTON"
+        },
+        {
+            "address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
+            "name": "AutoFarm",
+            "symbol": "AUTO"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 20,
             "decimals": 18,
             "logoURI": "https://elk.finance/tokens/logos/elastos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -1441,83 +705,707 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 40,
+            "chainId": 1,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+            "name": "CurveDAOToken",
+            "symbol": "CRV"
+        },
+        {
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png",
+            "name": "Spice",
+            "symbol": "SFI"
+        },
+        {
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636/logo.png",
+            "name": "Radio Token",
+            "symbol": "RADIO"
+        },
+        {
+            "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png",
+            "name": "Cartesi Token",
+            "symbol": "CTSI"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 40,
+            "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Old Elk",
             "symbol": "oELK"
         },
         {
-            "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
-            "chainId": 40,
+            "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+            "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
-            "name": "Wrapped Telos",
-            "symbol": "WTLOS"
-        },
-        {
-            "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
-            "chainId": 40,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
-            "name": "USDC",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-            "chainId": 40,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png",
-            "name": "USDT",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
-            "chainId": 40,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
-            "name": "Wrapped ETH",
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png",
+            "name": "Wrapped Ether",
             "symbol": "WETH"
         },
         {
-            "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
-            "chainId": 40,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
-            "name": "Wrapped MATIC",
-            "symbol": "WMATIC"
+            "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+            "chainId": 250,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
         },
         {
-            "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
-            "chainId": 40,
+            "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+            "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png",
-            "name": "Wrapped AVAX",
-            "symbol": "WAVAX"
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png",
+            "name": "Curve DAO",
+            "symbol": "CRV"
         },
         {
-            "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
-            "chainId": 40,
+            "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+            "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0x924828a9Fb17d47D0eb64b57271D10706699Ff11/logo.png",
+            "name": "Spice",
+            "symbol": "SFI"
+        },
+        {
+            "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
             "name": "Wrapped FTM",
             "symbol": "WFTM"
         },
         {
-            "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
-            "chainId": 40,
+            "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+            "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/telos/0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df/logo.png",
-            "name": "Charm",
-            "symbol": "CHARM"
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0xAd84341756Bf337f5a0164515b1f6F993D194E1f/logo.png",
+            "name": "Fantom USD",
+            "symbol": "FUSD"
+        },
+        {
+            "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
+        },
+        {
+            "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
+            "name": "QiDAO",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 4002,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftmtest/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 4002,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftmtest/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
+            "chainId": 4002,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ftmtest/0xf1277d1Ed8AD466beddF92ef448A132661956621/logo.png",
+            "name": "Wrapped FTM",
+            "symbol": "WFTM"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuji/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuji/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png",
+            "name": "BNB on Fuse",
+            "symbol": "WBNB"
+        },
+        {
+            "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png",
+            "name": "Dai Stablecoin on Fuse",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
+            "name": "Fuse Dollar",
+            "symbol": "FUSD"
+        },
+        {
+            "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
+            "chainId": 122,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
+            "name": "USD Coin on Fuse",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
+            "chainId": 122,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
+            "name": "Tether USD on Fuse",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
+            "name": "Wrapped Ether on Fuse",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
+            "name": "Wrapped Fuse",
+            "symbol": "WFUSE"
+        },
+        {
+            "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78/logo.png",
+            "name": "SushiToken",
+            "symbol": "SUSHI"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0x352cd428EFd6F31B5cae636928b7B84149cF369F",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0x352cd428EFd6F31B5cae636928b7B84149cF369F/logo.png",
+            "name": "Curve DAO Token",
+            "symbol": "CRV"
+        },
+        {
+            "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0xEf977d2f931C1978Db5F6747666fa1eACB0d0339/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A/logo.png",
+            "name": "SushiToken",
+            "symbol": "SUSHI"
+        },
+        {
+            "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
+            "chainId": 1666600000,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0x985458E523dB3d53125813eD68c274899e9DfAb4/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
+            "chainId": 1666600000,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0xE176EBE47d621b984a73036B9DA5d834411ef734/logo.png",
+            "name": "Binance USD",
+            "symbol": "BUSD"
+        },
+        {
+            "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a/logo.png",
+            "name": "Wrapped ONE",
+            "symbol": "WONE"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 1666600000,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/harmony/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png",
+            "name": "Wrapped HT",
+            "symbol": "WHT"
+        },
+        {
+            "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a/logo.png",
+            "name": "Heco-Peg USDTHECO Token",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xE36FFD17B2661EB57144cEaEf942D95295E637F0",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0xE36FFD17B2661EB57144cEaEf942D95295E637F0/logo.png",
+            "name": "Heco FilDA Token",
+            "symbol": "FILDA"
+        },
+        {
+            "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
+            "chainId": 128,
+            "decimals": 8,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047/logo.png",
+            "name": "Heco-Peg HUSD Token",
+            "symbol": "HUSD"
+        },
+        {
+            "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+            "chainId": 128,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3/logo.png",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 256,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hecotest/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 256,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hecotest/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836",
+            "chainId": 256,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hecotest/0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836/logo.png",
+            "name": "Wrapped HT",
+            "symbol": "WHT"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hoo/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hoo/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hoo/0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87/logo.png",
+            "name": "Wrapped HOO",
+            "symbol": "WHOO"
+        },
+        {
+            "address": "0xA1588dC914e236bB5AE4208Ce3081246f7A00193",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hoo/0xA1588dC914e236bB5AE4208Ce3081246f7A00193/logo.png",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xa787254704339474A827bd1ee4772c455e3aE7F2",
+            "chainId": 70,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/hoo/0xa787254704339474A827bd1ee4772c455e3aE7F2/logo.png",
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
+        },
+        {
+            "address": "0xD16bAbe52980554520F6Da505dF4d1b124c815a7",
+            "chainId": 70,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/hoo/0xD16bAbe52980554520F6Da505dF4d1b124c815a7/logo.png",
+            "name": "Tether",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x92a0bD4584c147D1B0e8F9185dB0BDa10B05Ed7e",
+            "chainId": 70,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/hoo/0x92a0bD4584c147D1B0e8F9185dB0BDa10B05Ed7e/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xe1cE1c0fa22EC693bAca6F5076bcdC4D0183DE1C",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0xacEE9B11CD4B3f57e58880277aC72c8c41ABe4e4",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0xacEE9B11CD4B3f57e58880277aC72c8c41ABe4e4/logo.png",
+            "name": "Binance USD",
+            "symbol": "BUSD"
+        },
+        {
+            "address": "0x4752456e00def6025c77b55A88A2F8A1701F92F9",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0x4752456e00def6025c77b55A88A2F8A1701F92F9/logo.png",
+            "name": "Metanyx",
+            "symbol": "METX"
+        },
+        {
+            "address": "0xA00744882684C3e4747faEFD68D283eA44099D03",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0xA00744882684C3e4747faEFD68D283eA44099D03/logo.png",
+            "name": "Wrapped IoTeX",
+            "symbol": "WIOTX"
+        },
+        {
+            "address": "0x97e6c48867FDC391A8DFe9d169EcD005d1d90283",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0x97e6c48867FDC391A8DFe9d169EcD005d1d90283/logo.png",
+            "name": "Wrapped Binance Coin",
+            "symbol": "WBNB"
+        },
+        {
+            "address": "0x8e66c0d6B70C0B23d39f4B21A1eAC52BBA8eD89a",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0x8e66c0d6B70C0B23d39f4B21A1eAC52BBA8eD89a/logo.png",
+            "name": "Wrapped MATIC",
+            "symbol": "WMATIC"
+        },
+        {
+            "address": "0x6fbCdc1169B5130C59E72E51Ed68A84841C98cd1",
+            "chainId": 4689,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0x6fbCdc1169B5130C59E72E51Ed68A84841C98cd1/logo.png",
+            "name": "Tether USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x3B2bf2b523f54C4E454F08Aa286D03115aFF326c",
+            "chainId": 4689,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0x3B2bf2b523f54C4E454F08Aa286D03115aFF326c/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x32085B8ea854529178bD0F4E92D3fd2475A3A159",
+            "chainId": 4689,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/iotex/0x32085B8ea854529178bD0F4E92D3fd2475A3A159/logo.png",
+            "name": "FilDA",
+            "symbol": "FILDA"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "chainId": 2222,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
+            "name": "USDC on Kava",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "chainId": 2222,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+            "name": "USDT on Kava",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
+            "name": "ETH on Kava",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
+            "name": "BUSD on Kava",
+            "symbol": "BUSD"
+        },
+        {
+            "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png",
+            "name": "Wrapped Kava",
+            "symbol": "wKAVA"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kcc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kcc/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kcc/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png",
+            "name": "WKCS",
+            "symbol": "WKCS"
+        },
+        {
+            "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kcc/0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kcc/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48/logo.png",
+            "name": "USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
+            "name": "Spice",
+            "symbol": "SFI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1673,290 +1561,106 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 4002,
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftmtest/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
         {
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 4002,
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftmtest/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Old Elk",
             "symbol": "oELK"
         },
         {
-            "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
-            "chainId": 4002,
+            "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ftmtest/0xf1277d1Ed8AD466beddF92ef448A132661956621/logo.png",
-            "name": "Wrapped FTM",
-            "symbol": "WFTM"
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x98878B06940aE243284CA214f92Bb71a2b032B8A/logo.png",
+            "name": "Wrapped MOVR",
+            "symbol": "WMOVR"
         },
         {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 4689,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "chainId": 1285,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
+            "name": "USDC Coin",
+            "symbol": "USDC"
         },
         {
-            "address": "0xe1cE1c0fa22EC693bAca6F5076bcdC4D0183DE1C",
-            "chainId": 4689,
+            "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         },
         {
-            "address": "0xacEE9B11CD4B3f57e58880277aC72c8c41ABe4e4",
-            "chainId": 4689,
+            "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0xacEE9B11CD4B3f57e58880277aC72c8c41ABe4e4/logo.png",
-            "name": "Binance USD",
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/logo.png",
+            "name": "Binance-Peg BUSD Token",
             "symbol": "BUSD"
         },
         {
-            "address": "0x4752456e00def6025c77b55A88A2F8A1701F92F9",
-            "chainId": 4689,
+            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0x4752456e00def6025c77b55A88A2F8A1701F92F9/logo.png",
-            "name": "Metanyx",
-            "symbol": "METX"
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
         },
         {
-            "address": "0xA00744882684C3e4747faEFD68D283eA44099D03",
-            "chainId": 4689,
+            "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0xA00744882684C3e4747faEFD68D283eA44099D03/logo.png",
-            "name": "Wrapped IoTeX",
-            "symbol": "WIOTX"
-        },
-        {
-            "address": "0x97e6c48867FDC391A8DFe9d169EcD005d1d90283",
-            "chainId": 4689,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0x97e6c48867FDC391A8DFe9d169EcD005d1d90283/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
             "name": "Wrapped Binance Coin",
             "symbol": "WBNB"
         },
         {
-            "address": "0x8e66c0d6B70C0B23d39f4B21A1eAC52BBA8eD89a",
-            "chainId": 4689,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0x8e66c0d6B70C0B23d39f4B21A1eAC52BBA8eD89a/logo.png",
-            "name": "Wrapped MATIC",
-            "symbol": "WMATIC"
-        },
-        {
-            "address": "0x6fbCdc1169B5130C59E72E51Ed68A84841C98cd1",
-            "chainId": 4689,
+            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+            "chainId": 1285,
             "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0x6fbCdc1169B5130C59E72E51Ed68A84841C98cd1/logo.png",
-            "name": "Tether USDT",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0x3B2bf2b523f54C4E454F08Aa286D03115aFF326c",
-            "chainId": 4689,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0x3B2bf2b523f54C4E454F08Aa286D03115aFF326c/logo.png",
-            "name": "USD Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b",
-            "chainId": 4689,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0x1CbAd85Aa66Ff3C12dc84C5881886EEB29C1bb9b/logo.png",
-            "name": "DAI",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x32085B8ea854529178bD0F4E92D3fd2475A3A159",
-            "chainId": 4689,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/iotex/0x32085B8ea854529178bD0F4E92D3fd2475A3A159/logo.png",
-            "name": "FilDA",
-            "symbol": "FILDA"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 42161,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0x03b95f1C84Af0607afd5dD87ca1FDE7572aa827F",
-            "chainId": 42161,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x03b95f1C84Af0607afd5dD87ca1FDE7572aa827F/logo.png",
-            "name": "Agave",
-            "symbol": "AGVE"
-        },
-        {
-            "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
-            "chainId": 42161,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978/logo.png",
-            "name": "Curve DAO Token",
-            "symbol": "CRV"
-        },
-        {
-            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-            "chainId": 42161,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
-            "chainId": 42161,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1/logo.png",
-            "name": "Gnosis Token",
-            "symbol": "GNO"
-        },
-        {
-            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "chainId": 42161,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png",
-            "name": "USD Coin Arb1",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-            "chainId": 42161,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
         },
         {
-            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-            "chainId": 42161,
+            "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
-            "name": "Wrapped Ether",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
-            "chainId": 42161,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
-            "name": "Cartesi Token",
-            "symbol": "CTSI"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 43113,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuji/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 43113,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuji/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
-            "chainId": 43113,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
-            "name": "Wrapped AVAX",
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x14a0243C333A5b238143068dC3A7323Ba4C30ECB/logo.png",
+            "name": "Wrapped Avalanche",
             "symbol": "WAVAX"
         },
         {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 1666600000,
+            "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0x682F81e57EAa716504090C3ECBa8595fB54561D8/logo.png",
+            "name": "WMatic",
+            "symbol": "WMATIC"
         },
         {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 1666600000,
+            "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xaD12daB5959f30b9fF3c2d6709f53C335dC39908/logo.png",
+            "name": "Wrapped Fantom Token",
+            "symbol": "WFTM"
         },
         {
-            "address": "0x352cd428EFd6F31B5cae636928b7B84149cF369F",
-            "chainId": 1666600000,
+            "address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C",
+            "chainId": 1285,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0x352cd428EFd6F31B5cae636928b7B84149cF369F/logo.png",
-            "name": "Curve DAO Token",
-            "symbol": "CRV"
-        },
-        {
-            "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
-            "chainId": 1666600000,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0xEf977d2f931C1978Db5F6747666fa1eACB0d0339/logo.png",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
-            "chainId": 1666600000,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A/logo.png",
-            "name": "SushiToken",
-            "symbol": "SUSHI"
-        },
-        {
-            "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
-            "chainId": 1666600000,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0x985458E523dB3d53125813eD68c274899e9DfAb4/logo.png",
-            "name": "USD Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
-            "chainId": 1666600000,
-            "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f/logo.png",
-            "name": "Tether USD",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
-            "chainId": 1666600000,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0xE176EBE47d621b984a73036B9DA5d834411ef734/logo.png",
-            "name": "Binance USD",
-            "symbol": "BUSD"
-        },
-        {
-            "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
-            "chainId": 1666600000,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a/logo.png",
-            "name": "Wrapped ONE",
-            "symbol": "WONE"
-        },
-        {
-            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-            "chainId": 1666600000,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/harmony/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
-            "name": "miMatic",
+            "logoURI": "https://elk.finance/tokens/logos/moonriver/0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C/logo.png",
+            "name": "MmiMatic",
             "symbol": "MAI"
         },
         {
@@ -1998,30 +1702,6 @@
             "logoURI": "https://elk.finance/tokens/logos/mumbai/0x3813e82e6f7098b9583FC0F33a962D02018B6803/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
-        },
-        {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 256,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hecotest/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-            "name": "Elk",
-            "symbol": "ELK"
-        },
-        {
-            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "chainId": 256,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hecotest/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-            "name": "Old Elk",
-            "symbol": "oELK"
-        },
-        {
-            "address": "0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836",
-            "chainId": 256,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/hecotest/0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836/logo.png",
-            "name": "Wrapped HT",
-            "symbol": "WHT"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2078,11 +1758,331 @@
             "logoURI": "https://elk.finance/tokens/logos/okex/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
             "name": "BUSD",
             "symbol": "BUSD"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x4200000000000000000000000000000000000006",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+            "name": "Dai stable coin",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
+            "name": "Curve DAO Token",
+            "symbol": "CRV"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
+            "name": "Wrapped Telos",
+            "symbol": "WTLOS"
+        },
+        {
+            "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+            "chainId": 40,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+            "chainId": 40,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png",
+            "name": "USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
+            "name": "Wrapped ETH",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
+            "name": "Wrapped MATIC",
+            "symbol": "WMATIC"
+        },
+        {
+            "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX"
+        },
+        {
+            "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png",
+            "name": "Wrapped FTM",
+            "symbol": "WFTM"
+        },
+        {
+            "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df/logo.png",
+            "name": "Charm",
+            "symbol": "CHARM"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "name": "Old Elk",
+            "symbol": "oELK"
+        },
+        {
+            "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/logo.png",
+            "name": "Agave",
+            "symbol": "AGVE"
+        },
+        {
+            "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xdd96B45877d0E8361a4DDb732da741e97f3191Ff/logo.png",
+            "name": "BUSD Token from BSC",
+            "symbol": "BUSD"
+        },
+        {
+            "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xdbcadE285846131a5e7384685EADDBDFD9625557/logo.png",
+            "name": "COLD TRUTH CASH",
+            "symbol": "COLD"
+        },
+        {
+            "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd/logo.png",
+            "name": "Curve DAO Token on xDai",
+            "symbol": "CRV"
+        },
+        {
+            "address": "0x44fA8E6f47987339850636F88629646662444217",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x44fA8E6f47987339850636F88629646662444217/logo.png",
+            "name": "Dai Stablecoin on xDai",
+            "symbol": "DAI"
+        },
+        {
+            "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo.png",
+            "name": "Gnosis on xDai",
+            "symbol": "GNO"
+        },
+        {
+            "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
+            "name": "Honey",
+            "symbol": "HNY"
+        },
+        {
+            "address": "0x7122d7661c4564b7C6Cd4878B06766489a6028A2",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x7122d7661c4564b7C6Cd4878B06766489a6028A2/logo.png",
+            "name": "Matic Token on xDai",
+            "symbol": "WMATIC"
+        },
+        {
+            "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe/logo.png",
+            "name": "Rare Coin v2",
+            "symbol": "RAREV2"
+        },
+        {
+            "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
+            "name": "Symmetric",
+            "symbol": "SYMM"
+        },
+        {
+            "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+            "chainId": 100,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83/logo.png",
+            "name": "USDC on xDai",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+            "chainId": 100,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x4ECaBa5870353805a9F068101A40E0f32ed605C6/logo.png",
+            "name": "Tether on xDai",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04/logo.png",
+            "name": "Wrapped BNB from BSC",
+            "symbol": "WBNB"
+        },
+        {
+            "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png",
+            "name": "Wrapped Ether on xDai",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
+            "name": "Wrapped XDAI",
+            "symbol": "WXDAI"
+        },
+        {
+            "address": "0xf1738912ae7439475712520797583ac784ea9033",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xf1738912ae7439475712520797583ac784ea9033/logo.png",
+            "name": "XionGlobal Token",
+            "symbol": "XGT"
+        },
+        {
+            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
+            "name": "Xion Global Token",
+            "symbol": "XGTV2"
+        },
+        {
+            "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
+            "name": "FOX",
+            "symbol": "FOX"
+        },
+        {
+            "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
+            "name": "Bright",
+            "symbol": "BRIGHT"
+        },
+        {
+            "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
+            "name": "xDai Punks",
+            "symbol": "PUNK"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "miMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
+            "name": "Giveth from Mainnet",
+            "symbol": "GIV"
         }
     ],
     "version": {
         "major": 22,
-        "minor": 2,
+        "minor": 4,
         "patch": 0
     }
 }
