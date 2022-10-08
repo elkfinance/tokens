@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-10-03T07:00:08+00:00",
+    "timestamp": "2022-10-08T20:50:46+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1120,6 +1120,14 @@
             "symbol": "HUSD"
         },
         {
+            "address": "0xd44c3Ba075D73c812E272c03D42FDB6448Ae10cd",
+            "chainId": 128,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/heco/0xd44c3Ba075D73c812E272c03D42FDB6448Ae10cd/logo.png",
+            "name": "LION",
+            "symbol": "LION"
+        },
+        {
             "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
             "chainId": 128,
             "decimals": 6,
@@ -1358,6 +1366,30 @@
             "logoURI": "https://elk.finance/tokens/logos/kava/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png",
             "name": "Wrapped Kava",
             "symbol": "wKAVA"
+        },
+        {
+            "address": "0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65/logo.png",
+            "name": "Bear",
+            "symbol": "BEAR"
+        },
+        {
+            "address": "0x471F79616569343e8e84a66F342B7B433b958154",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x471F79616569343e8e84a66F342B7B433b958154/logo.png",
+            "name": "Tiger",
+            "symbol": "TIGER"
+        },
+        {
+            "address": "0x990e157fC8a492c28F5B50022F000183131b9026",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x990e157fC8a492c28F5B50022F000183131b9026/logo.png",
+            "name": "Lion",
+            "symbol": "LION"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2008,14 +2040,6 @@
             "symbol": "WBNB"
         },
         {
-            "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png",
-            "name": "Wrapped Ether on xDai",
-            "symbol": "WETH"
-        },
-        {
             "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
             "chainId": 100,
             "decimals": 18,
@@ -2082,7 +2106,7 @@
     ],
     "version": {
         "major": 22,
-        "minor": 4,
-        "patch": 1
+        "minor": 5,
+        "patch": 0
     }
 }
