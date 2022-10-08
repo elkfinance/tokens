@@ -79,11 +79,35 @@
             "logoURI": "https://elk.finance/tokens/logos/kava/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png",
             "name": "Wrapped Kava",
             "symbol": "wKAVA"
+        },
+        {
+            "address": "0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65/logo.png",
+            "name": "Bear",
+            "symbol": "BEAR"
+        },
+        {
+            "address": "0x471F79616569343e8e84a66F342B7B433b958154",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x471F79616569343e8e84a66F342B7B433b958154/logo.png",
+            "name": "Tiger",
+            "symbol": "TIGER"
+        },
+        {
+            "address": "0x990e157fC8a492c28F5B50022F000183131b9026",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x990e157fC8a492c28F5B50022F000183131b9026/logo.png",
+            "name": "Lion",
+            "symbol": "LION"
         }
     ],
     "version": {
         "major": 22,
-        "minor": 4,
-        "patch": 1
+        "minor": 5,
+        "patch": 0
     }
 }
