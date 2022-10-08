@@ -1398,7 +1398,7 @@
             "decimals": 18,
             "logoURI": "https://elk.finance/tokens/logos/xdai/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1/logo.png",
             "name": "Wrapped Ether on xDai",
-            "symbol": "WETH"
+            "symbol": "ETH"
         },
         {
             "address": "0x01e92E3791f8c1D6599B2F80A4bFF9b43949aC7C",
