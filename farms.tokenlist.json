@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-10-08T20:50:46+00:00",
+    "timestamp": "2022-11-09T00:32:45+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -558,6 +558,30 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD/logo.png",
             "name": "KOKU",
             "symbol": "KOKU"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A/logo.png",
+            "name": "Wrapped BTT",
+            "symbol": "wBTT"
+        },
+        {
+            "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1/logo.png",
+            "name": "Decentralized USD_TRON",
+            "symbol": "USDD_t"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2105,8 +2129,8 @@
         }
     ],
     "version": {
-        "major": 22,
-        "minor": 5,
-        "patch": 1
+        "major": 23,
+        "minor": 0,
+        "patch": 0
     }
 }

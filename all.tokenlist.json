@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-10-08T20:50:45+00:00",
+    "timestamp": "2022-11-09T00:32:44+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1094,6 +1094,174 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD/logo.png",
             "name": "KOKU",
             "symbol": "KOKU"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A/logo.png",
+            "name": "Wrapped BTT",
+            "symbol": "wBTT"
+        },
+        {
+            "address": "0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E/logo.png",
+            "name": "BitTorrent_BSC",
+            "symbol": "BTT_b"
+        },
+        {
+            "address": "0x65676055E58b02E61272Cedec6E5C6D56BADfb86",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x65676055E58b02E61272Cedec6E5C6D56BADfb86/logo.png",
+            "name": "BitTorrent_Ethereum",
+            "symbol": "BTT_e"
+        },
+        {
+            "address": "0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d/logo.png",
+            "name": "Tether USD_BNB",
+            "symbol": "USDT_b"
+        },
+        {
+            "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+            "chainId": 199,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xdB28719F7f938507dBfe4f0eAe55668903D34a15/logo.png",
+            "name": "Tether USD_TRON",
+            "symbol": "USDT_t"
+        },
+        {
+            "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+            "chainId": 199,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662/logo.png",
+            "name": "TRON on BTTC",
+            "symbol": "TRX"
+        },
+        {
+            "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x185a4091027E2dB459a2433F85f894dC3013aeB5/logo.png",
+            "name": "BNB on BTTC",
+            "symbol": "BNB"
+        },
+        {
+            "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006/logo.png",
+            "name": "Ether on BTTC",
+            "symbol": "wETH"
+        },
+        {
+            "address": "0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50/logo.png",
+            "name": "Ether BNB",
+            "symbol": "ETH_b"
+        },
+        {
+            "address": "0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF/logo.png",
+            "name": "USDC Coin_BSC",
+            "symbol": "USDC_b"
+        },
+        {
+            "address": "0x935faA2FCec6Ab81265B301a30467Bbc804b43d3",
+            "chainId": 199,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x935faA2FCec6Ab81265B301a30467Bbc804b43d3/logo.png",
+            "name": "USDC Coin_TRON",
+            "symbol": "USDC_t"
+        },
+        {
+            "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+            "chainId": 199,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xAE17940943BA9440540940DB0F1877f101D39e8b/logo.png",
+            "name": "USDC Coin_Ethereum",
+            "symbol": "USDC_e"
+        },
+        {
+            "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1/logo.png",
+            "name": "Decentralized USD_TRON",
+            "symbol": "USDD_t"
+        },
+        {
+            "address": "0x74e7ceF747DB9C8752874321ba8B26119EF70c9e",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x74e7ceF747DB9C8752874321ba8B26119EF70c9e/logo.png",
+            "name": "Decentralized USD_BSC",
+            "symbol": "USDD_b"
+        },
+        {
+            "address": "0xb602f26Bf29B83e4E1595244000E0111A9d39f62",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xb602f26Bf29B83e4E1595244000E0111A9d39f62/logo.png",
+            "name": "Decentralized USD_Ethereum",
+            "symbol": "USDD_e"
+        },
+        {
+            "address": "0x17501034Df227D8565A8c11F41df2418F5d403B6",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x17501034Df227D8565A8c11F41df2418F5d403B6/logo.png",
+            "name": "JUST_TRON",
+            "symbol": "JST_t"
+        },
+        {
+            "address": "0x76AcCFB75B8Bb7c6c295f04d19c1D184D274c853",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x76AcCFB75B8Bb7c6c295f04d19c1D184D274c853/logo.png",
+            "name": "SUN_TRON",
+            "symbol": "SUN_t"
+        },
+        {
+            "address": "0xde47772Ac041A4Ccf3c865632131D1093e51C02d",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xde47772Ac041A4Ccf3c865632131D1093e51C02d/logo.png",
+            "name": "BUSD BNB",
+            "symbol": "BUSD_b"
+        },
+        {
+            "address": "0x1A7019909B10cdD2D8B0034293AD729f1C1F604e",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x1A7019909B10cdD2D8B0034293AD729f1C1F604e/logo.png",
+            "name": "BTC Token_BNB",
+            "symbol": "BTC_b"
+        },
+        {
+            "address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
+            "chainId": 199,
+            "decimals": 8,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF/logo.png",
+            "name": "Wrapped BTC_Ethereum",
+            "symbol": "WBTC_e"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2408,6 +2576,14 @@
             "symbol": "BUSD"
         },
         {
+            "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
+            "name": "BNB on Kava",
+            "symbol": "BNB"
+        },
+        {
             "address": "0x0F428D528b4f00c82A8Ad032580d605Cf5F122ee",
             "chainId": 2222,
             "decimals": 18,
@@ -3456,6 +3632,14 @@
             "symbol": "WFTM"
         },
         {
+            "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png",
+            "name": "Wrapped Binance Coin",
+            "symbol": "BNB"
+        },
+        {
             "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
             "chainId": 40,
             "decimals": 18,
@@ -3817,8 +4001,8 @@
         }
     ],
     "version": {
-        "major": 22,
-        "minor": 5,
-        "patch": 1
+        "major": 23,
+        "minor": 0,
+        "patch": 0
     }
 }
