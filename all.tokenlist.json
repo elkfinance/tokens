@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2022-11-09T00:32:44+00:00",
+    "timestamp": "2022-11-24T20:12:00+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -630,6 +630,14 @@
             "logoURI": "https://elk.finance/tokens/logos/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
             "name": "Wrapped Ether",
             "symbol": "WETH.e"
+        },
+        {
+            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+            "name": "Old AEB Bridge Ether",
+            "symbol": "oETH"
         },
         {
             "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
@@ -4002,7 +4010,7 @@
     ],
     "version": {
         "major": 23,
-        "minor": 0,
+        "minor": 2,
         "patch": 0
     }
 }

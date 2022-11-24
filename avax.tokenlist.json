@@ -3129,6 +3129,14 @@
             "symbol": "WETH.e"
         },
         {
+            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+            "name": "Old AEB Bridge Ether",
+            "symbol": "oETH"
+        },
+        {
             "address": "0x78c42324016cd91D1827924711563fb66E33A83A",
             "chainId": 43114,
             "decimals": 18,
@@ -3435,7 +3443,7 @@
     ],
     "version": {
         "major": 23,
-        "minor": 0,
+        "minor": 2,
         "patch": 0
     }
 }

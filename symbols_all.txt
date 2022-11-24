@@ -42,6 +42,7 @@ VSO
 JOE
 DAI.e
 ETH.e
+oETH
 USDT.e
 USDC.e
 LINK.e
