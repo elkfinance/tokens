@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-11-09T00:32:44+00:00",
+    "timestamp": "2022-11-24T20:12:00+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3170,7 +3170,7 @@
     ],
     "version": {
         "major": 23,
-        "minor": 0,
+        "minor": 2,
         "patch": 0
     }
 }
