@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-11-24T20:12:00+00:00",
+    "timestamp": "2022-11-28T20:44:48+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1022,6 +1022,14 @@
             "logoURI": "https://elk.finance/tokens/logos/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
             "name": "AutoFarm",
             "symbol": "AUTO"
+        },
+        {
+            "address": "0x00fe915a5209e74D5a88334cC2daA4541AEC8278",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/cronos/0x00fe915a5209e74D5a88334cC2daA4541AEC8278/logo.png",
+            "name": "Goal",
+            "symbol": "GOAL"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3170,7 +3178,7 @@
     ],
     "version": {
         "major": 23,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
