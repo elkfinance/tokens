@@ -103,11 +103,19 @@
             "logoURI": "https://elk.finance/tokens/logos/kava/0x990e157fC8a492c28F5B50022F000183131b9026/logo.png",
             "name": "Lion",
             "symbol": "LION"
+        },
+        {
+            "address": "0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098/logo.png",
+            "name": "Kperp Exchange",
+            "symbol": "KPE"
         }
     ],
     "version": {
         "major": 23,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }

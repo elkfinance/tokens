@@ -235,3 +235,4 @@ BUSD_b
 BTC_b
 WBTC_e
 GOAL
+KPE

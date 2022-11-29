@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-11-28T20:44:48+00:00",
+    "timestamp": "2022-11-29T17:53:31+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2160,6 +2160,14 @@
             "symbol": "LION"
         },
         {
+            "address": "0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098/logo.png",
+            "name": "Kperp Exchange",
+            "symbol": "KPE"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 321,
             "decimals": 18,
@@ -3178,7 +3186,7 @@
     ],
     "version": {
         "major": 23,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }
