@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-11-28T20:44:48+00:00",
+    "timestamp": "2022-11-29T17:53:32+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -574,6 +574,14 @@
             "logoURI": "https://elk.finance/tokens/logos/bttc/0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A/logo.png",
             "name": "Wrapped BTT",
             "symbol": "wBTT"
+        },
+        {
+            "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0x185a4091027E2dB459a2433F85f894dC3013aeB5/logo.png",
+            "name": "BNB on BTTC",
+            "symbol": "BNB"
         },
         {
             "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
@@ -1392,6 +1400,14 @@
             "symbol": "BUSD"
         },
         {
+            "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
+            "name": "BNB on Kava",
+            "symbol": "BNB"
+        },
+        {
             "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
             "chainId": 2222,
             "decimals": 18,
@@ -1422,6 +1438,14 @@
             "logoURI": "https://elk.finance/tokens/logos/kava/0x990e157fC8a492c28F5B50022F000183131b9026/logo.png",
             "name": "Lion",
             "symbol": "LION"
+        },
+        {
+            "address": "0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098",
+            "chainId": 2222,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/kava/0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098/logo.png",
+            "name": "Kperp Exchange",
+            "symbol": "KPE"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1944,6 +1968,14 @@
             "symbol": "WFTM"
         },
         {
+            "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+            "chainId": 40,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/telos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png",
+            "name": "Wrapped Binance Coin",
+            "symbol": "BNB"
+        },
+        {
             "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
             "chainId": 40,
             "decimals": 18,
@@ -2138,7 +2170,7 @@
     ],
     "version": {
         "major": 23,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     }
 }
