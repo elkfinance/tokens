@@ -236,3 +236,4 @@ BTC_b
 WBTC_e
 GOAL
 KPE
+XGTv3

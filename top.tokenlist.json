@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-11-29T17:53:31+00:00",
+    "timestamp": "2022-12-05T18:58:16+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2672,6 +2672,14 @@
             "symbol": "USDT"
         },
         {
+            "address": "0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221",
+            "chainId": 80001,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/mumbai/0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221/logo.png",
+            "name": "Xion Global Token v3",
+            "symbol": "XGTv3"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 66,
             "decimals": 18,
@@ -3186,7 +3194,7 @@
     ],
     "version": {
         "major": 23,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     }
 }

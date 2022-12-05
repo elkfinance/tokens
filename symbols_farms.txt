@@ -99,3 +99,4 @@ USDD_t
 GOAL
 KPE
 BNB
+XGTv3
