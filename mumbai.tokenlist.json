@@ -63,11 +63,19 @@
             "logoURI": "https://elk.finance/tokens/logos/mumbai/0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323/logo.png",
             "name": "Ether",
             "symbol": "ETH"
+        },
+        {
+            "address": "0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221",
+            "chainId": 80001,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/mumbai/0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221/logo.png",
+            "name": "Xion Global Token v3",
+            "symbol": "XGTv3"
         }
     ],
     "version": {
         "major": 23,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     }
 }
