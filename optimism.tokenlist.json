@@ -462,10 +462,34 @@
             "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
             "name": "Equalizer",
             "symbol": "EQZ"
+        },
+        {
+            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
+            "name": "MAI Stablecoin",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
+            "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0xa00E3A3511aAC35cA78530c85007AFCd31753819/logo.png",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC"
         }
     ],
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     }

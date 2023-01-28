@@ -501,6 +501,14 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://elk.finance/tokens/logos/avax/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
+            "name": "Old Binance USD",
+            "symbol": "oldBUSD"
+        },
+        {
+            "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png",
             "name": "Binance USD",
             "symbol": "BUSD"
         },
@@ -3439,10 +3447,18 @@
             "logoURI": "https://elk.finance/tokens/logos/avax/0x02Bfd11499847003De5f0F5AA081C43854d48815/logo.png",
             "name": "Radio Token",
             "symbol": "RADIO"
+        },
+        {
+            "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
         }
     ],
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     }

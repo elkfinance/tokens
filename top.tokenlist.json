@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2022-12-27T17:07:01+00:00",
+    "timestamp": "2023-01-28T04:44:54+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -126,6 +126,38 @@
             "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
             "name": "Cartesi Token",
             "symbol": "CTSI"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "MiMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
+            "address": "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB/logo.png",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC"
+        },
+        {
+            "address": "0xd85E038593d7A098614721EaE955EC2022B9B91B",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xd85E038593d7A098614721EaE955EC2022B9B91B/logo.png",
+            "name": "Gains Network DAI",
+            "symbol": "gDAI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -280,10 +312,10 @@
             "symbol": "AAVE.e"
         },
         {
-            "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
+            "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/avax/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/avax/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png",
             "name": "Binance USD",
             "symbol": "BUSD"
         },
@@ -334,6 +366,14 @@
             "logoURI": "https://elk.finance/tokens/logos/avax/0x44D24Df9732DA8b230c819b0bf22b6C6377B42c4/logo.png",
             "name": "Golff.finance",
             "symbol": "GOF"
+        },
+        {
+            "address": "0xb7f7C9347f55d6d6265e152c636cD29aB17Dc9F6",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xb7f7C9347f55d6d6265e152c636cD29aB17Dc9F6/logo.png",
+            "name": "Kyber Network Crystal",
+            "symbol": "KNC"
         },
         {
             "address": "0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53",
@@ -616,6 +656,14 @@
             "symbol": "RADIO"
         },
         {
+            "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 56,
             "decimals": 18,
@@ -888,6 +936,30 @@
             "symbol": "KOKU"
         },
         {
+            "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
+            "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/logo.png",
+            "name": "Matic on BNB",
+            "symbol": "MATIC"
+        },
+        {
+            "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png",
+            "name": "Binance-Peg Avalanche Token",
+            "symbol": "AVAX"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 199,
             "decimals": 18,
@@ -934,6 +1006,14 @@
             "logoURI": "https://elk.finance/tokens/logos/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1/logo.png",
             "name": "Decentralized USD_TRON",
             "symbol": "USDD_t"
+        },
+        {
+            "address": "0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100/logo.png",
+            "name": "Wrapped DAI_Ethereum",
+            "symbol": "DAI_e"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1128,6 +1208,14 @@
             "symbol": "DAI"
         },
         {
+            "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
+            "name": "Kyber Network Crystal v1",
+            "symbol": "KNC"
+        },
+        {
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "chainId": 1,
             "decimals": 18,
@@ -1198,6 +1286,62 @@
             "logoURI": "https://elk.finance/tokens/logos/ethereum/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png",
             "name": "Cartesi Token",
             "symbol": "CTSI"
+        },
+        {
+            "address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6/logo.png",
+            "name": "MAI Stablecoin",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
+            "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png",
+            "name": "Lido DAO Token",
+            "symbol": "LDO"
+        },
+        {
+            "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0/logo.png",
+            "name": "Wrapped Liquid Staked Ether 2.0",
+            "symbol": "WstETH"
+        },
+        {
+            "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo.png",
+            "name": "Staked Ether",
+            "symbol": "stETH"
+        },
+        {
+            "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202/logo.png",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC"
+        },
+        {
+            "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/ethereum/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
+            "name": "Matic on Ethereum",
+            "symbol": "MATIC"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1502,6 +1646,14 @@
             "logoURI": "https://elk.finance/tokens/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
             "name": "Fuse Dollar",
             "symbol": "FUSD"
+        },
+        {
+            "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuse/0x43B17749B246fd2a96DE25d9e4184E27E09765b0/logo.png",
+            "name": "Kyber Network Crystal on Fuse",
+            "symbol": "KNC"
         },
         {
             "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
@@ -2512,6 +2664,30 @@
             "symbol": "DEXI"
         },
         {
+            "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
+            "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C/logo.png",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC"
+        },
+        {
+            "address": "0x91993f2101cc758D0dEB7279d41e880F7dEFe827",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x91993f2101cc758D0dEB7279d41e880F7dEFe827/logo.png",
+            "name": "Gains Network DAI",
+            "symbol": "gDAI"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1285,
             "decimals": 18,
@@ -2808,6 +2984,30 @@
             "symbol": "AAVE"
         },
         {
+            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
+            "name": "MAI Stablecoin",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
+            "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0xa00E3A3511aAC35cA78530c85007AFCd31753819/logo.png",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
@@ -3016,6 +3216,14 @@
             "symbol": "HNY"
         },
         {
+            "address": "0x1534fB3E82849314360C267FE20Df3901A2ED3f9",
+            "chainId": 100,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/xdai/0x1534fB3E82849314360C267FE20Df3901A2ED3f9/logo.png",
+            "name": "Kyber Network Crystal on xDai",
+            "symbol": "KNC"
+        },
+        {
             "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
             "chainId": 100,
             "decimals": 18,
@@ -3193,7 +3401,7 @@
         }
     ],
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     }

@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2022-12-27T17:07:01+00:00",
+    "timestamp": "2023-01-28T04:44:55+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -80,10 +80,10 @@
             "symbol": "WAVAX"
         },
         {
-            "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
+            "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
             "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/avax/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/avax/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png",
             "name": "Binance USD",
             "symbol": "BUSD"
         },
@@ -190,6 +190,14 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
             "name": "Xion Global Token",
             "symbol": "XGTV2"
+        },
+        {
+            "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bsc/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png",
+            "name": "Binance-Peg Avalanche Token",
+            "symbol": "AVAX"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1441,7 +1449,7 @@
         }
     ],
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     }
