@@ -175,10 +175,18 @@
             "logoURI": "https://elk.finance/tokens/logos/bttc/0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF/logo.png",
             "name": "Wrapped BTC_Ethereum",
             "symbol": "WBTC_e"
+        },
+        {
+            "address": "0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100/logo.png",
+            "name": "Wrapped DAI_Ethereum",
+            "symbol": "DAI_e"
         }
     ],
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     }

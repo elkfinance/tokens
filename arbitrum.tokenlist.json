@@ -1131,10 +1131,42 @@
             "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
             "name": "Cartesi Token",
             "symbol": "CTSI"
+        },
+        {
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+            "name": "MiMatic",
+            "symbol": "MAI"
+        },
+        {
+            "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7/logo.png",
+            "name": "Angle Protocol",
+            "symbol": "agEUR"
+        },
+        {
+            "address": "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB/logo.png",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC"
+        },
+        {
+            "address": "0xd85E038593d7A098614721EaE955EC2022B9B91B",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xd85E038593d7A098614721EaE955EC2022B9B91B/logo.png",
+            "name": "Gains Network DAI",
+            "symbol": "gDAI"
         }
     ],
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     }
