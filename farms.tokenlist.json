@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-01-28T04:44:55+00:00",
+    "timestamp": "2023-02-10T08:15:08+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -110,6 +110,14 @@
             "logoURI": "https://elk.finance/tokens/logos/avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
             "name": "USD Coin",
             "symbol": "USDC.e"
+        },
+        {
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
         },
         {
             "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
@@ -1449,8 +1457,8 @@
         }
     ],
     "version": {
-        "major": 25,
-        "minor": 1,
+        "major": 26,
+        "minor": 0,
         "patch": 0
     }
 }
