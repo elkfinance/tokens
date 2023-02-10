@@ -3185,6 +3185,14 @@
             "symbol": "USDC.e"
         },
         {
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
             "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
             "chainId": 43114,
             "decimals": 9,
@@ -3458,8 +3466,8 @@
         }
     ],
     "version": {
-        "major": 25,
-        "minor": 1,
+        "major": 26,
+        "minor": 0,
         "patch": 0
     }
 }

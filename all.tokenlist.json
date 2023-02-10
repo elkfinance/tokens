@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-01-28T04:44:53+00:00",
+    "timestamp": "2023-02-10T08:15:07+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -696,6 +696,14 @@
             "symbol": "USDC.e"
         },
         {
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
+        },
+        {
             "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
             "chainId": 43114,
             "decimals": 18,
@@ -1152,14 +1160,6 @@
             "symbol": "KOKU"
         },
         {
-            "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/bsc/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89/logo.png",
-            "name": "Angle Protocol",
-            "symbol": "agEUR"
-        },
-        {
             "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
             "chainId": 56,
             "decimals": 18,
@@ -1558,14 +1558,6 @@
             "logoURI": "https://elk.finance/tokens/logos/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
             "name": "Dai Stablecoin",
             "symbol": "DAI"
-        },
-        {
-            "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
-            "chainId": 1,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/ethereum/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
-            "name": "Kyber Network Crystal v1",
-            "symbol": "KNC"
         },
         {
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -4241,8 +4233,8 @@
         }
     ],
     "version": {
-        "major": 25,
-        "minor": 1,
+        "major": 26,
+        "minor": 0,
         "patch": 0
     }
 }

@@ -1921,14 +1921,6 @@
             "symbol": "KOKU"
         },
         {
-            "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/bsc/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89/logo.png",
-            "name": "Angle Protocol",
-            "symbol": "agEUR"
-        },
-        {
             "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
             "chainId": 56,
             "decimals": 18,
@@ -1946,8 +1938,8 @@
         }
     ],
     "version": {
-        "major": 25,
-        "minor": 1,
+        "major": 26,
+        "minor": 0,
         "patch": 0
     }
 }
