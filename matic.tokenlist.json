@@ -1311,11 +1311,19 @@
             "logoURI": "https://elk.finance/tokens/logos/matic/0x91993f2101cc758D0dEB7279d41e880F7dEFe827/logo.png",
             "name": "Gains Network DAI",
             "symbol": "gDAI"
+        },
+        {
+            "address": "0xC15B6939E9941B3E6a9bE9Be172B4456878B7a62",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0xC15B6939E9941B3E6a9bE9Be172B4456878B7a62/logo.png",
+            "name": "Lost Hope Society Token",
+            "symbol": "HOPE"
         }
     ],
     "version": {
         "major": 26,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
