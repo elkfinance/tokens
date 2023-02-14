@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-02-10T08:15:07+00:00",
+    "timestamp": "2023-02-14T22:01:30+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3192,6 +3192,14 @@
             "symbol": "gDAI"
         },
         {
+            "address": "0xC15B6939E9941B3E6a9bE9Be172B4456878B7a62",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0xC15B6939E9941B3E6a9bE9Be172B4456878B7a62/logo.png",
+            "name": "Lost Hope Society Token",
+            "symbol": "HOPE"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1285,
             "decimals": 18,
@@ -4234,7 +4242,7 @@
     ],
     "version": {
         "major": 26,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
