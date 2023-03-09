@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-02-14T22:01:30+00:00",
+    "timestamp": "2023-03-09T17:40:54+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3200,6 +3200,14 @@
             "symbol": "HOPE"
         },
         {
+            "address": "0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x9EB8A789Ed1Bd38D281962b523349d5D17A37d47/logo.png",
+            "name": "Xion Global Token v3",
+            "symbol": "XGTv3"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1285,
             "decimals": 18,
@@ -4242,7 +4250,7 @@
     ],
     "version": {
         "major": 26,
-        "minor": 1,
-        "patch": 0
+        "minor": 2,
+        "patch": 1
     }
 }
