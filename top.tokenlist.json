@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2023-02-14T22:01:31+00:00",
+    "timestamp": "2023-03-09T17:40:55+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -918,14 +918,6 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0x8dA443F84fEA710266C8eB6bC34B71702d033EF2/logo.png",
             "name": "Cartesi Token",
             "symbol": "CTSI"
-        },
-        {
-            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/bsc/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
-            "name": "Xion Global Token",
-            "symbol": "XGTV2"
         },
         {
             "address": "0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653",
@@ -2688,6 +2680,14 @@
             "symbol": "HOPE"
         },
         {
+            "address": "0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x9EB8A789Ed1Bd38D281962b523349d5D17A37d47/logo.png",
+            "name": "Xion Global Token v3",
+            "symbol": "XGTv3"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1285,
             "decimals": 18,
@@ -3344,14 +3344,6 @@
             "symbol": "XGT"
         },
         {
-            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
-            "name": "Xion Global Token",
-            "symbol": "XGTV2"
-        },
-        {
             "address": "0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd",
             "chainId": 100,
             "decimals": 18,
@@ -3402,7 +3394,7 @@
     ],
     "version": {
         "major": 26,
-        "minor": 1,
-        "patch": 0
+        "minor": 2,
+        "patch": 1
     }
 }

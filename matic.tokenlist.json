@@ -1319,11 +1319,19 @@
             "logoURI": "https://elk.finance/tokens/logos/matic/0xC15B6939E9941B3E6a9bE9Be172B4456878B7a62/logo.png",
             "name": "Lost Hope Society Token",
             "symbol": "HOPE"
+        },
+        {
+            "address": "0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x9EB8A789Ed1Bd38D281962b523349d5D17A37d47/logo.png",
+            "name": "Xion Global Token v3",
+            "symbol": "XGTv3"
         }
     ],
     "version": {
         "major": 26,
-        "minor": 1,
-        "patch": 0
+        "minor": 2,
+        "patch": 1
     }
 }

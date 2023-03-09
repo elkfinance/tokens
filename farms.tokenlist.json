@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-02-14T22:01:32+00:00",
+    "timestamp": "2023-03-09T17:40:56+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -190,14 +190,6 @@
             "logoURI": "https://elk.finance/tokens/logos/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
             "name": "WBNB Token",
             "symbol": "WBNB"
-        },
-        {
-            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/bsc/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
-            "name": "Xion Global Token",
-            "symbol": "XGTV2"
         },
         {
             "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
@@ -1056,6 +1048,14 @@
             "symbol": "HOPE"
         },
         {
+            "address": "0x7a9e5D43c70e9531c85b342A2Ae2dd4933D71221",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/matic/0x9EB8A789Ed1Bd38D281962b523349d5D17A37d47/logo.png",
+            "name": "Xion Global Token v3",
+            "symbol": "XGTv3"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1285,
             "decimals": 18,
@@ -1454,19 +1454,11 @@
             "logoURI": "https://elk.finance/tokens/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
             "name": "Wrapped XDAI",
             "symbol": "WXDAI"
-        },
-        {
-            "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
-            "chainId": 100,
-            "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
-            "name": "Xion Global Token",
-            "symbol": "XGTV2"
         }
     ],
     "version": {
         "major": 26,
-        "minor": 1,
-        "patch": 0
+        "minor": 2,
+        "patch": 1
     }
 }
