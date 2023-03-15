@@ -246,3 +246,4 @@ WstETH
 stETH
 DAI_e
 HOPE
+CREW
