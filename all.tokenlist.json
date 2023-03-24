@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-03-15T22:32:21+00:00",
+    "timestamp": "2023-03-24T00:54:28+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -238,6 +238,14 @@
             "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xd85E038593d7A098614721EaE955EC2022B9B91B/logo.png",
             "name": "Gains Network DAI",
             "symbol": "gDAI"
+        },
+        {
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
+            "name": "Arbitrum Token",
+            "symbol": "ARB"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -846,6 +854,14 @@
             "logoURI": "https://elk.finance/tokens/logos/avax/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo.png",
             "name": "Angle Protocol",
             "symbol": "agEUR"
+        },
+        {
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4258,7 +4274,7 @@
     ],
     "version": {
         "major": 27,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }

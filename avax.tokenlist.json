@@ -3463,11 +3463,19 @@
             "logoURI": "https://elk.finance/tokens/logos/avax/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo.png",
             "name": "Angle Protocol",
             "symbol": "agEUR"
+        },
+        {
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
         }
     ],
     "version": {
         "major": 27,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
