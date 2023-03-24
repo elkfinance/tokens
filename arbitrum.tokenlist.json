@@ -1163,11 +1163,19 @@
             "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xd85E038593d7A098614721EaE955EC2022B9B91B/logo.png",
             "name": "Gains Network DAI",
             "symbol": "gDAI"
+        },
+        {
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
+            "name": "Arbitrum Token",
+            "symbol": "ARB"
         }
     ],
     "version": {
         "major": 27,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }

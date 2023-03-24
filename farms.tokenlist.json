@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-03-15T22:32:23+00:00",
+    "timestamp": "2023-03-24T00:54:29+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -54,6 +54,14 @@
             "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
             "name": "Wrapped Ether",
             "symbol": "WETH"
+        },
+        {
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
+            "name": "Arbitrum Token",
+            "symbol": "ARB"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -126,6 +134,14 @@
             "logoURI": "https://elk.finance/tokens/logos/avax/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
             "name": "Dragon Crypto Aurum",
             "symbol": "DCAU"
+        },
+        {
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "chainId": 43114,
+            "decimals": 6,
+            "logoURI": "https://elk.finance/tokens/logos/avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1466,7 +1482,7 @@
     ],
     "version": {
         "major": 27,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
