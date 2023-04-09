@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-03-24T00:54:29+00:00",
+    "timestamp": "2023-04-09T01:26:15+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1320,6 +1320,14 @@
             "symbol": "USDC"
         },
         {
+            "address": "0x4200000000000000000000000000000000000042",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x4200000000000000000000000000000000000042/logo.png",
+            "name": "Optimism",
+            "symbol": "OP"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
@@ -1482,7 +1490,7 @@
     ],
     "version": {
         "major": 28,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

@@ -486,11 +486,19 @@
             "logoURI": "https://elk.finance/tokens/logos/optimism/0xa00E3A3511aAC35cA78530c85007AFCd31753819/logo.png",
             "name": "Kyber Network Crystal v2",
             "symbol": "KNC"
+        },
+        {
+            "address": "0x4200000000000000000000000000000000000042",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/optimism/0x4200000000000000000000000000000000000042/logo.png",
+            "name": "Optimism",
+            "symbol": "OP"
         }
     ],
     "version": {
         "major": 28,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
