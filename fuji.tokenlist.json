@@ -39,11 +39,19 @@
             "logoURI": "https://elk.finance/tokens/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
             "name": "Wrapped AVAX",
             "symbol": "WAVAX"
+        },
+        {
+            "address": "0x307b4826Ce27ab596F9EC8f93CeF48b871b927E8",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/fuji/0x307b4826Ce27ab596F9EC8f93CeF48b871b927E8/logo.png",
+            "name": "BTT",
+            "symbol": "BTT"
         }
     ],
     "version": {
         "major": 28,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
