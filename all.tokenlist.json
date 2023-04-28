@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-04-14T20:50:58+00:00",
+    "timestamp": "2023-04-28T18:24:23+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1195,7 +1195,7 @@
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 199,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -1366,6 +1366,14 @@
             "logoURI": "https://elk.finance/tokens/logos/bttc/0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100/logo.png",
             "name": "Wrapped DAI_Ethereum",
             "symbol": "DAI_e"
+        },
+        {
+            "address": "0x107742EB846b86CEaAF7528D5C85cddcad3e409A",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc_testnet/0x107742EB846b86CEaAF7528D5C85cddcad3e409A/logo.png",
+            "name": "Wrapped BTT",
+            "symbol": "wBTT"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4281,8 +4289,8 @@
         }
     ],
     "version": {
-        "major": 28,
-        "minor": 2,
+        "major": 29,
+        "minor": 0,
         "patch": 0
     }
 }
