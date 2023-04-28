@@ -12,7 +12,7 @@
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 199,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://elk.finance/tokens/logos/bttc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -186,8 +186,8 @@
         }
     ],
     "version": {
-        "major": 28,
-        "minor": 2,
+        "major": 29,
+        "minor": 0,
         "patch": 0
     }
 }

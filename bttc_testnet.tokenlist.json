@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "bttc"
+    ],
+    "logoURI": "https://elk.finance/tokens/logos/bttc_testnet/0x0000000000000000000000000000000000001010/logo.png",
+    "name": "Elk BTTC Testnet Tokens",
+    "timestamp": "2022-09-23T15:43:53+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc_testnet/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x107742EB846b86CEaAF7528D5C85cddcad3e409A",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc_testnet/0x107742EB846b86CEaAF7528D5C85cddcad3e409A/logo.png",
+            "name": "Wrapped BTT",
+            "symbol": "wBTT"
+        }
+    ],
+    "version": {
+        "major": 29,
+        "minor": 0,
+        "patch": 0
+    }
+}
