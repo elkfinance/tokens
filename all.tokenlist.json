@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-04-28T18:24:23+00:00",
+    "timestamp": "2023-04-29T00:58:47+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1368,8 +1368,16 @@
             "symbol": "DAI_e"
         },
         {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 1029,
+            "decimals": 18,
+            "logoURI": "https://elk.finance/tokens/logos/bttc_testnet/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
             "address": "0x107742EB846b86CEaAF7528D5C85cddcad3e409A",
-            "chainId": 199,
+            "chainId": 1029,
             "decimals": 18,
             "logoURI": "https://elk.finance/tokens/logos/bttc_testnet/0x107742EB846b86CEaAF7528D5C85cddcad3e409A/logo.png",
             "name": "Wrapped BTT",
@@ -4289,7 +4297,7 @@
         }
     ],
     "version": {
-        "major": 29,
+        "major": 30,
         "minor": 0,
         "patch": 0
     }
