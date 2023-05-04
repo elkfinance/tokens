@@ -4,7 +4,7 @@
         "defi",
         "fuse"
     ],
-    "logoURI": "https://elk.finance/tokens/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
     "name": "Elk FUSE Tokens",
     "timestamp": "2021-10-04T21:11:20+00:00",
     "tokens": [
@@ -12,7 +12,7 @@
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -20,7 +20,7 @@
             "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
             "name": "Old Elk",
             "symbol": "oELK"
         },
@@ -28,7 +28,7 @@
             "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png",
             "name": "BNB on Fuse",
             "symbol": "WBNB"
         },
@@ -36,7 +36,7 @@
             "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png",
             "name": "Dai Stablecoin on Fuse",
             "symbol": "DAI"
         },
@@ -44,7 +44,7 @@
             "address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x2f60a843302F1Be3FA87429CA9d684f9091b003c/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x2f60a843302F1Be3FA87429CA9d684f9091b003c/logo.png",
             "name": "DEXTools on Fuse",
             "symbol": "DEXT"
         },
@@ -52,7 +52,7 @@
             "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
             "name": "Fuse Dollar",
             "symbol": "FUSD"
         },
@@ -60,7 +60,7 @@
             "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
             "chainId": 122,
             "decimals": 2,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png",
             "name": "GoodDollar",
             "symbol": "G$"
         },
@@ -68,7 +68,7 @@
             "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x025a4c577198D116Ea499193E6D735FDb2e6E841/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x025a4c577198D116Ea499193E6D735FDb2e6E841/logo.png",
             "name": "Graph Token on Fuse",
             "symbol": "GRT"
         },
@@ -76,7 +76,7 @@
             "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x43B17749B246fd2a96DE25d9e4184E27E09765b0/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x43B17749B246fd2a96DE25d9e4184E27E09765b0/logo.png",
             "name": "Kyber Network Crystal on Fuse",
             "symbol": "KNC"
         },
@@ -84,7 +84,7 @@
             "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x0972F26e8943679b043de23df2fD3852177A7c48/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0972F26e8943679b043de23df2fD3852177A7c48/logo.png",
             "name": "ChainLink Token on Fuse",
             "symbol": "WLINK"
         },
@@ -92,7 +92,7 @@
             "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x7F59aE3a787C0d1D640F99883d0e48c22188C54f/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x7F59aE3a787C0d1D640F99883d0e48c22188C54f/logo.png",
             "name": "MANTRA DAO on Fuse",
             "symbol": "OM"
         },
@@ -100,7 +100,7 @@
             "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
             "chainId": 122,
             "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
             "name": "USD Coin on Fuse",
             "symbol": "USDC"
         },
@@ -108,7 +108,7 @@
             "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
             "chainId": 122,
             "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
             "name": "Tether USD on Fuse",
             "symbol": "USDT"
         },
@@ -116,7 +116,7 @@
             "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
             "chainId": 122,
             "decimals": 8,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png",
             "name": "Wrapped BTC on Fuse",
             "symbol": "WBTC"
         },
@@ -124,7 +124,7 @@
             "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
             "name": "Wrapped Ether on Fuse",
             "symbol": "WETH"
         },
@@ -132,7 +132,7 @@
             "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
             "name": "Wrapped Fuse",
             "symbol": "WFUSE"
         },
@@ -140,7 +140,7 @@
             "address": "0xebB82851b8e1348Cc774442735B710b4Cd105210",
             "chainId": 122,
             "decimals": 9,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xebB82851b8e1348Cc774442735B710b4Cd105210/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xebB82851b8e1348Cc774442735B710b4Cd105210/logo.png",
             "name": "Fuse Doge",
             "symbol": "fDoge"
         },
@@ -148,7 +148,7 @@
             "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78/logo.png",
             "name": "SushiToken",
             "symbol": "SUSHI"
         },
@@ -156,7 +156,7 @@
             "address": "0x7ec73806F81B4044D64416468C4b05688f38E365",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x7ec73806F81B4044D64416468C4b05688f38E365/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x7ec73806F81B4044D64416468C4b05688f38E365/logo.png",
             "name": "DeltaFuse",
             "symbol": "DELTA"
         },
@@ -164,7 +164,7 @@
             "address": "0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134/logo.png",
             "name": "TigerGod",
             "symbol": "tGod"
         },
@@ -172,7 +172,7 @@
             "address": "0x427C995a0623157a3c1c6b8b86410B5B3A26061B",
             "chainId": 122,
             "decimals": 9,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x427C995a0623157a3c1c6b8b86410B5B3A26061B/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x427C995a0623157a3c1c6b8b86410B5B3A26061B/logo.png",
             "name": "GrimaceCoin",
             "symbol": "GRIM"
         },
@@ -180,13 +180,13 @@
             "address": "0x42E44f16D2183d7eD27C501b04F29084eF4C2D24",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/fuse/0x42E44f16D2183d7eD27C501b04F29084eF4C2D24/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x42E44f16D2183d7eD27C501b04F29084eF4C2D24/logo.png",
             "name": "In Seth We Trust",
             "symbol": "ISWT"
         }
     ],
     "version": {
-        "major": 30,
+        "major": 31,
         "minor": 0,
         "patch": 0
     }

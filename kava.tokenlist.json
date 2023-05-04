@@ -4,7 +4,7 @@
         "defi",
         "kava"
     ],
-    "logoURI": "https://elk.finance/tokens/logos/kava/0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4/logo.png",
     "name": "Elk KAVA Tokens",
     "timestamp": "2022-09-23T15:43:53+00:00",
     "tokens": [
@@ -12,7 +12,7 @@
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -20,7 +20,7 @@
             "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
             "chainId": 2222,
             "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
             "name": "USDC on Kava",
             "symbol": "USDC"
         },
@@ -28,7 +28,7 @@
             "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
             "chainId": 2222,
             "decimals": 6,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
             "name": "USDT on Kava",
             "symbol": "USDT"
         },
@@ -36,7 +36,7 @@
             "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
             "name": "ETH on Kava",
             "symbol": "WETH"
         },
@@ -44,7 +44,7 @@
             "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
             "chainId": 2222,
             "decimals": 8,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
             "name": "BTC on Kava",
             "symbol": "WBTC"
         },
@@ -52,7 +52,7 @@
             "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
             "name": "BUSD on Kava",
             "symbol": "BUSD"
         },
@@ -60,7 +60,7 @@
             "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
             "name": "BNB on Kava",
             "symbol": "BNB"
         },
@@ -68,7 +68,7 @@
             "address": "0x0F428D528b4f00c82A8Ad032580d605Cf5F122ee",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x0F428D528b4f00c82A8Ad032580d605Cf5F122ee/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x0F428D528b4f00c82A8Ad032580d605Cf5F122ee/logo.png",
             "name": "SurfSwap Token",
             "symbol": "TIDE"
         },
@@ -76,7 +76,7 @@
             "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png",
             "name": "Wrapped Kava",
             "symbol": "wKAVA"
         },
@@ -84,7 +84,7 @@
             "address": "0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65/logo.png",
             "name": "Bear",
             "symbol": "BEAR"
         },
@@ -92,7 +92,7 @@
             "address": "0x471F79616569343e8e84a66F342B7B433b958154",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x471F79616569343e8e84a66F342B7B433b958154/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x471F79616569343e8e84a66F342B7B433b958154/logo.png",
             "name": "Tiger",
             "symbol": "TIGER"
         },
@@ -100,7 +100,7 @@
             "address": "0x990e157fC8a492c28F5B50022F000183131b9026",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x990e157fC8a492c28F5B50022F000183131b9026/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x990e157fC8a492c28F5B50022F000183131b9026/logo.png",
             "name": "Lion",
             "symbol": "LION"
         },
@@ -108,13 +108,13 @@
             "address": "0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098",
             "chainId": 2222,
             "decimals": 18,
-            "logoURI": "https://elk.finance/tokens/logos/kava/0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098/logo.png",
             "name": "Kperp Exchange",
             "symbol": "KPE"
         }
     ],
     "version": {
-        "major": 30,
+        "major": 31,
         "minor": 0,
         "patch": 0
     }
