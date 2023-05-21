@@ -3,7 +3,7 @@
         "elk",
         "defi"
     ],
-    "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
     "timestamp": "2023-05-04T06:39:55+00:00",
     "tokens": [
@@ -1507,6 +1507,6 @@
     "version": {
         "major": 31,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     }
 }
