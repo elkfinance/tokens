@@ -17,6 +17,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0x0000000000000000000000000000000000001010",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bttc/0x0000000000000000000000000000000000001010/logo.png",
+            "name": "BTT",
+            "symbol": "BTT"
+        },
+        {
             "address": "0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A",
             "chainId": 199,
             "decimals": 18,
@@ -188,6 +196,6 @@
     "version": {
         "major": 31,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
