@@ -3,9 +3,9 @@
         "elk",
         "defi"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-05-04T06:39:55+00:00",
+    "timestamp": "2023-06-05T21:08:58+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -160,6 +160,14 @@
             "symbol": "oELK"
         },
         {
+            "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8595F9dA7b868b1822194fAEd312235E43007b49/logo.png",
+            "name": "Bittorrent",
+            "symbol": "BTT"
+        },
+        {
             "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
             "chainId": 56,
             "decimals": 18,
@@ -222,6 +230,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bttc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0x0000000000000000000000000000000000001010",
+            "chainId": 199,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bttc/0x0000000000000000000000000000000000001010/logo.png",
+            "name": "BTT",
+            "symbol": "BTT"
         },
         {
             "address": "0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A",
@@ -518,6 +534,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
             "name": "Wrapped AVAX",
             "symbol": "WAVAX"
+        },
+        {
+            "address": "0x307b4826Ce27ab596F9EC8f93CeF48b871b927E8",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuji/0x307b4826Ce27ab596F9EC8f93CeF48b871b927E8/logo.png",
+            "name": "BTT",
+            "symbol": "BTT"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1507,6 +1531,6 @@
     "version": {
         "major": 31,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
