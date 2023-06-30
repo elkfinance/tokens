@@ -26,3 +26,11 @@ python update_list.py -o ethereum.tokenlist.json -c ethereum -u https://www.gemi
 python update_list.py -o kava.tokenlist.json -c kava --logos
 python update_list.py -o bttc.tokenlist.json -c bttc --logos
 python update_list.py -o bttc_testnet.tokenlist.json -c bttc_testnet --logos
+python update_list.py -o arthera_testnet.tokenlist.json -c arthera_testnet --logos
+python update_list.py -o astar.tokenlist.json -c astar --logos
+python update_list.py -o bitgert.tokenlist.json -c bitgert --logos
+python update_list.py -o metis.tokenlist.json -c metis --logos
+python update_list.py -o neon_devnet.tokenlist.json -c neon_devnet --logos
+python update_list.py -o pulse.tokenlist.json -c pulse --logos
+python update_list.py -o q.tokenlist.json -c q --logos
+python update_list.py -o wan.tokenlist.json -c wan --logos

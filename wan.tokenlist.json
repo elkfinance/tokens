@@ -1,0 +1,81 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "wan"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Wan Chain Tokens",
+    "timestamp": "2023-06-23T15:03:32+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 888,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xdabD997aE5E4799BE47d6E69D9431615CBa28f48",
+            "chainId": 888,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0xdabD997aE5E4799BE47d6E69D9431615CBa28f48/logo.png",
+            "name": "Wrapped WAN",
+            "symbol": "WWAN"
+        },
+        {
+            "address": "0x52A9CEA01c4CBDd669883e41758B8eB8e8E2B34b",
+            "chainId": 888,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0x52A9CEA01c4CBDd669883e41758B8eB8e8E2B34b/logo.png",
+            "name": "Wan USDC",
+            "symbol": "wanUSDC"
+        },
+        {
+            "address": "0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD",
+            "chainId": 888,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD/logo.png",
+            "name": "Wan USDT",
+            "symbol": "wanUSDT"
+        },
+        {
+            "address": "0x50c439B6d602297252505a6799d84eA5928bCFb6",
+            "chainId": 888,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0x50c439B6d602297252505a6799d84eA5928bCFb6/logo.png",
+            "name": "Wan Wrapped BTC",
+            "symbol": "wanBTC"
+        },
+        {
+            "address": "0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A",
+            "chainId": 888,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A/logo.png",
+            "name": "Wan Wrapped Ether",
+            "symbol": "wanETH"
+        },
+        {
+            "address": "0xB333721251961337F67bbBCAED514f9F284CE8E8",
+            "chainId": 888,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0xB333721251961337F67bbBCAED514f9F284CE8E8/logo.png",
+            "name": "Wan Wrapped AVAX",
+            "symbol": "wanAVAX"
+        },
+        {
+            "address": "0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
+            "chainId": 888,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/wan/0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F/logo.png",
+            "name": "Zoo Token",
+            "symbol": "ZOO"
+        }
+    ],
+    "version": {
+        "major": 32,
+        "minor": 0,
+        "patch": 0
+    }
+}

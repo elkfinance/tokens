@@ -1,10 +1,10 @@
 {
     "keywords": [
-        "scaling",
-        "layer2",
-        "infrastructure"
+        "elk",
+        "defi",
+        "optimism"
     ],
-    "logoURI": "https://ethereum-optimism.github.io/logos/optimism.svg",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000042/logo.png",
     "name": "Optimism",
     "timestamp": "2021-03-22T10:01:21.042+00:00",
     "tokens": [
@@ -497,8 +497,8 @@
         }
     ],
     "version": {
-        "major": 31,
+        "major": 32,
         "minor": 0,
-        "patch": 2
+        "patch": 0
     }
 }

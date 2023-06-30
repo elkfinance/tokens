@@ -1,0 +1,57 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "bitgert"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0x000000000000000000000000000000000000dEaD/logo.png",
+    "name": "Elk Bitgert Tokens",
+    "timestamp": "2023-06-23T15:03:32+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710/logo.png",
+            "name": "Wrapped BRISE",
+            "symbol": "WBRISE"
+        },
+        {
+            "address": "0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06/logo.png",
+            "name": "Bitgert USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7/logo.png",
+            "name": "Bitgert USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xB999Ea90607a826A3E6E6646B404c3C7d11fa39D",
+            "chainId": 32520,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0xB999Ea90607a826A3E6E6646B404c3C7d11fa39D/logo.png",
+            "name": "IceCream Token",
+            "symbol": "ICE"
+        }
+    ],
+    "version": {
+        "major": 32,
+        "minor": 0,
+        "patch": 0
+    }
+}

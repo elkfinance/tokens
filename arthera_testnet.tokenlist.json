@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "arthera_testnet"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Arthera Testnet Tokens",
+    "timestamp": "2023-06-23T15:03:32+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 10243,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xC7A183Ad373301d68f7E0Ee824c8c727C7D5B21d",
+            "chainId": 10243,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0xC7A183Ad373301d68f7E0Ee824c8c727C7D5B21d/logo.png",
+            "name": "Snake Temp Wrapped AA",
+            "symbol": "WAA"
+        }
+    ],
+    "version": {
+        "major": 32,
+        "minor": 0,
+        "patch": 0
+    }
+}
