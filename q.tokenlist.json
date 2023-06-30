@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "q"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Q Tokens",
+    "timestamp": "2023-06-23T15:03:32+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xd07178e3eCbC78De110Df84fe1A979D5f349784a/logo.png",
+            "name": "Wrapped Q Token",
+            "symbol": "WQ"
+        }
+    ],
+    "version": {
+        "major": 32,
+        "minor": 0,
+        "patch": 0
+    }
+}

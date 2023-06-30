@@ -1,0 +1,81 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "neon_devnet"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Neon Devnet Tokens",
+    "timestamp": "2023-06-23T15:03:32+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 245022926,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x11adC2d986E334137b9ad0a0F290771F31e9517F",
+            "chainId": 245022926,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0x11adC2d986E334137b9ad0a0F290771F31e9517F/logo.png",
+            "name": "Wrapped NEON",
+            "symbol": "WNEON"
+        },
+        {
+            "address": "0x07A274154D79C23d5cd7ba78a243645E419CDd46",
+            "chainId": 245022926,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0x07A274154D79C23d5cd7ba78a243645E419CDd46/logo.png",
+            "name": "Wormhole Wrapped BTC",
+            "symbol": "wWBTC"
+        },
+        {
+            "address": "0x90306D9492eB658e47A64Ef834e76c81A0242598",
+            "chainId": 245022926,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0x90306D9492eB658e47A64Ef834e76c81A0242598/logo.png",
+            "name": "Sollet Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xAb94bD2221cAc77FEbDB0B979Eb8839Ed7dDB981",
+            "chainId": 245022926,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0xAb94bD2221cAc77FEbDB0B979Eb8839Ed7dDB981/logo.png",
+            "name": "Wrapped AAVE",
+            "symbol": "WAAVE"
+        },
+        {
+            "address": "0xC659B2633Ed725e5346396a609d8f31794d6ac50",
+            "chainId": 245022926,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0xC659B2633Ed725e5346396a609d8f31794d6ac50/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xAA24A5A5E273EFAa64a960B28de6E27B87FfDFfc",
+            "chainId": 245022926,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0xAA24A5A5E273EFAa64a960B28de6E27B87FfDFfc/logo.png",
+            "name": "USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x4954cd6230C19e63B7c7b131760Ef0C0c424321C",
+            "chainId": 245022926,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0x4954cd6230C19e63B7c7b131760Ef0C0c424321C/logo.png",
+            "name": "DAI",
+            "symbol": "DAI"
+        }
+    ],
+    "version": {
+        "major": 32,
+        "minor": 0,
+        "patch": 0
+    }
+}

@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
     all_tokenlist = {}
     all_tokenlist['name'] = f'Elk {args.list_title.title()} Tokens'
-    all_tokenlist['logoURI'] = 'https://elk.finance/tokens/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png'
+    all_tokenlist['logoURI'] = 'https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png'
     all_tokenlist['timestamp'] = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S+00:00')
     all_tokenlist['keywords'] = ['elk', 'defi']
     all_tokenlist['tokens'] = []

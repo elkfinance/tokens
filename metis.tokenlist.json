@@ -1,0 +1,65 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "metis"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/metis/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png",
+    "name": "Elk Metis Tokens",
+    "timestamp": "2023-06-23T15:03:32+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 1088,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/metis/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481",
+            "chainId": 1088,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/metis/0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481/logo.png",
+            "name": "Wrapped METIS",
+            "symbol": "WMETIS"
+        },
+        {
+            "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+            "chainId": 1088,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/metis/0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC/logo.png",
+            "name": "USDT Token",
+            "symbol": "m.USDT"
+        },
+        {
+            "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+            "chainId": 1088,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/metis/0xEA32A96608495e54156Ae48931A7c20f0dcc1a21/logo.png",
+            "name": "USDC Token",
+            "symbol": "m.USDC"
+        },
+        {
+            "address": "0x420000000000000000000000000000000000000A",
+            "chainId": 1088,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/metis/0x420000000000000000000000000000000000000A/logo.png",
+            "name": "Wrapped Ether on Metis",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
+            "chainId": 1088,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/metis/0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0/logo.png",
+            "name": "DAI Token",
+            "symbol": "m.DAI"
+        }
+    ],
+    "version": {
+        "major": 32,
+        "minor": 0,
+        "patch": 0
+    }
+}
