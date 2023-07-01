@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png",
     "name": "Elk KCC Tokens",
-    "timestamp": "2021-10-17T14:57:21+00:00",
+    "timestamp": "2023-07-01T13:41:42+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -106,7 +106,7 @@
         }
     ],
     "version": {
-        "major": 32,
+        "major": 33,
         "minor": 0,
         "patch": 0
     }

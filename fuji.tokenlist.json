@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
     "name": "Elk FUJI Tokens",
-    "timestamp": "2021-09-11T00:00:00+00:00",
+    "timestamp": "2023-07-01T13:41:42+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -50,7 +50,7 @@
         }
     ],
     "version": {
-        "major": 32,
+        "major": 33,
         "minor": 0,
         "patch": 0
     }

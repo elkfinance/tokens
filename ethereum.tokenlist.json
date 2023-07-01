@@ -6,7 +6,7 @@
     ],
     "logoURI": null,
     "name": "Elk ETHEREUM Tokens",
-    "timestamp": "2021-10-17T15:04:17+00:00",
+    "timestamp": "2023-07-01T13:41:42+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -346,7 +346,7 @@
         }
     ],
     "version": {
-        "major": 32,
+        "major": 33,
         "minor": 0,
         "patch": 0
     }

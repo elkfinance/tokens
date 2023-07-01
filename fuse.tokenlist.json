@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
     "name": "Elk FUSE Tokens",
-    "timestamp": "2021-10-04T21:11:20+00:00",
+    "timestamp": "2023-07-01T13:41:42+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -186,7 +186,7 @@
         }
     ],
     "version": {
-        "major": 32,
+        "major": 33,
         "minor": 0,
         "patch": 0
     }
