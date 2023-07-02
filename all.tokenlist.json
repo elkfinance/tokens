@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-07-01T13:41:42+00:00",
+    "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2190,14 +2190,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bttc/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
-        },
-        {
-            "address": "0x0000000000000000000000000000000000001010",
-            "chainId": 199,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bttc/0x0000000000000000000000000000000000001010/logo.png",
-            "name": "BTT",
-            "symbol": "BTT"
         },
         {
             "address": "0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A",
@@ -4625,6 +4617,14 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 0,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/CHAINNAME/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 245022926,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon_devnet/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -4689,7 +4689,7 @@
         }
     ],
     "version": {
-        "major": 33,
+        "major": 34,
         "minor": 0,
         "patch": 0
     }

@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/hecotest/0x7aF326B6351C8A9b8fb8CD205CBe11d4Ac5FA836/logo.png",
     "name": "Elk HECOTEST Tokens",
-    "timestamp": "2023-07-01T13:41:42+00:00",
+    "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -34,7 +34,7 @@
         }
     ],
     "version": {
-        "major": 33,
+        "major": 34,
         "minor": 0,
         "patch": 0
     }

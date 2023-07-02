@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4/logo.png",
     "name": "Elk KAVA Tokens",
-    "timestamp": "2023-07-01T13:41:42+00:00",
+    "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -114,7 +114,7 @@
         }
     ],
     "version": {
-        "major": 33,
+        "major": 34,
         "minor": 0,
         "patch": 0
     }

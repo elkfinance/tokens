@@ -6,7 +6,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x98878B06940aE243284CA214f92Bb71a2b032B8A/logo.png",
     "name": "Elk MOONRIVER Tokens",
-    "timestamp": "2023-07-01T13:41:42+00:00",
+    "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -202,7 +202,7 @@
         }
     ],
     "version": {
-        "major": 33,
+        "major": 34,
         "minor": 0,
         "patch": 0
     }
