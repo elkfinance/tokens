@@ -269,3 +269,4 @@ wanUSDT
 wanBTC
 wanETH
 wanAVAX
+WSOL

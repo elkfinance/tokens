@@ -203,3 +203,4 @@ wanUSDC
 wanUSDT
 wanBTC
 wanETH
+WSOL
