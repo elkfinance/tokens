@@ -1,0 +1,41 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "linea"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Linea Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 59144,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+            "chainId": 59144,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f/logo.png",
+            "name": "Linea Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+            "chainId": 59144,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x7d43AABC515C356145049227CeE54B608342c0ad/logo.png",
+            "name": "Linea Wrapped Binance USD",
+            "symbol": "BUSD"
+        }
+    ],
+    "version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "velas"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Velas Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126/logo.png",
+            "name": "Wrapped VLX",
+            "symbol": "WVLX"
+        },
+        {
+            "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0x85219708c49aa701871Ad330A94EA0f41dFf24Ca/logo.png",
+            "name": "Velas Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0x2B8e9cD44C9e09D936149549a8d207c918ecB5C4",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0x2B8e9cD44C9e09D936149549a8d207c918ecB5C4/logo.png",
+            "name": "Velas BNB",
+            "symbol": "WBNB"
+        },
+        {
+            "address": "0x6ab0B8C1a35F9F4Ce107cCBd05049CB1Dbd99Ec5",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0x6ab0B8C1a35F9F4Ce107cCBd05049CB1Dbd99Ec5/logo.png",
+            "name": "Velas MATIC",
+            "symbol": "WMATIC"
+        }
+    ],
+    "version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+    }
+}

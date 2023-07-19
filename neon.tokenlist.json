@@ -1,0 +1,73 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "neon"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Neon Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 245022934,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
+            "chainId": 245022934,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0x202C35e517Fa803B537565c40F0a6965D7204609/logo.png",
+            "name": "Wrapped NEON",
+            "symbol": "WNEON"
+        },
+        {
+            "address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
+            "chainId": 245022934,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a/logo.png",
+            "name": "Wrapped Solana",
+            "symbol": "WSOL"
+        },
+        {
+            "address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
+            "chainId": 245022934,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0xEA6B04272f9f62F997F666F07D3a974134f7FFb9/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
+            "chainId": 245022934,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a/logo.png",
+            "name": "USDT",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x54EcEC9D995A6CbFF3838F6a8F38099E518805d7",
+            "chainId": 245022934,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0x54EcEC9D995A6CbFF3838F6a8F38099E518805d7/logo.png",
+            "name": "Sollet Wrapped BTC",
+            "symbol": "WBTC"
+        },
+        {
+            "address": "0xcFFd84d468220c11be64dc9dF64eaFE02AF60e8A",
+            "chainId": 245022934,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0xcFFd84d468220c11be64dc9dF64eaFE02AF60e8A/logo.png",
+            "name": "Sollet Wrapped Ether",
+            "symbol": "WETH"
+        }
+    ],
+    "version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+    }
+}

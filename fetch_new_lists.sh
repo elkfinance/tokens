@@ -31,6 +31,9 @@ python update_list.py -o astar.tokenlist.json -c astar --logos
 python update_list.py -o bitgert.tokenlist.json -c bitgert --logos
 python update_list.py -o metis.tokenlist.json -c metis --logos
 python update_list.py -o neon_devnet.tokenlist.json -c neon_devnet --logos
-python update_list.py -o pulse.tokenlist.json -c pulse --logos
+python update_list.py -o neon.tokenlist.json -c neon --logos
 python update_list.py -o q.tokenlist.json -c q --logos
 python update_list.py -o wan.tokenlist.json -c wan --logos
+python update_list.py -o neon.tokenlist.json -c neon --logos
+python update_list.py -o base.tokenlist.json -c base --logos
+python update_list.py -o velas.tokenlist.json -c velas --logos
