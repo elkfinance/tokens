@@ -23,11 +23,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xd07178e3eCbC78De110Df84fe1A979D5f349784a/logo.png",
             "name": "Wrapped Q Token",
             "symbol": "WQ"
+        },
+        {
+            "address": "0xE31DD093A2A0aDc80053bF2b929E56aBFE1B1632",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xE31DD093A2A0aDc80053bF2b929E56aBFE1B1632/logo.png",
+            "name": "Q USD",
+            "symbol": "QUSD"
         }
     ],
     "version": {
         "major": 35,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
