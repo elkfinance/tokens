@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2023-08-05T20:11:10+00:00",
+    "timestamp": "2023-08-05T21:08:35+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -197,7 +197,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720/logo.png",
             "name": "Wrapped Astar",
-            "symbol": "WASTAR"
+            "symbol": "WASTR"
         },
         {
             "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
@@ -3907,6 +3907,6 @@
     "version": {
         "major": 35,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     }
 }
