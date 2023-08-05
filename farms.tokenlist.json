@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-07-19T01:00:47+00:00",
+    "timestamp": "2023-08-05T20:11:10+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -318,6 +318,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
             "name": "Binance Pegged ETH",
             "symbol": "WETH"
+        },
+        {
+            "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E/logo.png",
+            "name": "QUSD Stablecoin",
+            "symbol": "QUSD"
         },
         {
             "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
@@ -1648,6 +1656,14 @@
             "symbol": "WQ"
         },
         {
+            "address": "0xE31DD093A2A0aDc80053bF2b929E56aBFE1B1632",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xE31DD093A2A0aDc80053bF2b929E56aBFE1B1632/logo.png",
+            "name": "Q USD",
+            "symbol": "QUSD"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
@@ -1742,6 +1758,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126/logo.png",
+            "name": "Wrapped VLX",
+            "symbol": "WVLX"
         },
         {
             "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
@@ -1866,7 +1890,7 @@
     ],
     "version": {
         "major": 35,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
