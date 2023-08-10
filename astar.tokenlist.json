@@ -29,53 +29,53 @@
             "chainId": 592,
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98/logo.png",
-            "name": "MintSwap Bridged USDC",
-            "symbol": "USDC"
+            "name": "Celer Bridged USDC",
+            "symbol": "ceUSDC"
         },
         {
             "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
             "chainId": 592,
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x3795C36e7D12A8c252A20C5a7B455f7c57b60283/logo.png",
-            "name": "MintSwap Bridged USDT",
-            "symbol": "USDT"
+            "name": "Celer Bridged USDT",
+            "symbol": "ceUSDT"
         },
         {
             "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
             "chainId": 592,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb/logo.png",
-            "name": "MintSwap Bridged DAI",
-            "symbol": "DAI"
+            "name": "Celer Bridged DAI",
+            "symbol": "ceDAI"
         },
         {
             "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
             "chainId": 592,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E/logo.png",
-            "name": "MintSwap Bridged BUSD",
-            "symbol": "BUSD"
+            "name": "Celer Bridged BUSD",
+            "symbol": "ceBUSD"
         },
         {
             "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
             "chainId": 592,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52/logo.png",
-            "name": "MintSwap Bridged BNB",
-            "symbol": "BNB"
+            "name": "Celer Bridged BNB",
+            "symbol": "ceBNB"
         },
         {
             "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
             "chainId": 592,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c/logo.png",
-            "name": "MintSwap Bridged WETH",
-            "symbol": "WETH"
+            "name": "Celer Bridged WETH",
+            "symbol": "ceWETH"
         }
     ],
     "version": {
-        "major": 35,
-        "minor": 1,
-        "patch": 1
+        "major": 36,
+        "minor": 0,
+        "patch": 0
     }
 }

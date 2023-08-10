@@ -23,11 +23,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
             "name": "Base Wrapped Ether",
             "symbol": "WETH"
+        },
+        {
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "chainId": 8453,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
+            "name": "USDC on Base",
+            "symbol": "USDC"
         }
     ],
     "version": {
-        "major": 35,
-        "minor": 1,
-        "patch": 1
+        "major": 36,
+        "minor": 0,
+        "patch": 0
     }
 }
