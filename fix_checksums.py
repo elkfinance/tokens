@@ -17,7 +17,7 @@ from web3 import Web3
 if __name__ == '__main__':
     for d in os.listdir('logos'):
         for f in os.listdir('logos/' + d):
-            cksum = Web3.toChecksumAddress(f)
+            cksum = Web3.to_checksum_address(f)
             if f != cksum:
                 original = 'logos/' + d + '/' + f
                 correct = 'logos/' + d + '/' + cksum

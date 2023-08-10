@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2023-08-05T21:08:35+00:00",
+    "timestamp": "2023-08-10T06:53:21+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -198,54 +198,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720/logo.png",
             "name": "Wrapped Astar",
             "symbol": "WASTR"
-        },
-        {
-            "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
-            "chainId": 592,
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98/logo.png",
-            "name": "MintSwap Bridged USDC",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
-            "chainId": 592,
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x3795C36e7D12A8c252A20C5a7B455f7c57b60283/logo.png",
-            "name": "MintSwap Bridged USDT",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
-            "chainId": 592,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb/logo.png",
-            "name": "MintSwap Bridged DAI",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
-            "chainId": 592,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E/logo.png",
-            "name": "MintSwap Bridged BUSD",
-            "symbol": "BUSD"
-        },
-        {
-            "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
-            "chainId": 592,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52/logo.png",
-            "name": "MintSwap Bridged BNB",
-            "symbol": "BNB"
-        },
-        {
-            "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
-            "chainId": 592,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/astar/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c/logo.png",
-            "name": "MintSwap Bridged WETH",
-            "symbol": "WETH"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -782,6 +734,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
             "name": "Base Wrapped Ether",
             "symbol": "WETH"
+        },
+        {
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "chainId": 8453,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
+            "name": "USDC on Base",
+            "symbol": "USDC"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3905,8 +3865,8 @@
         }
     ],
     "version": {
-        "major": 35,
-        "minor": 1,
-        "patch": 1
+        "major": 36,
+        "minor": 0,
+        "patch": 0
     }
 }
