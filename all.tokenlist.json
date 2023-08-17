@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-08-10T06:53:20+00:00",
+    "timestamp": "2023-08-17T02:54:51+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3056,6 +3056,14 @@
             "symbol": "WETH"
         },
         {
+            "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+            "chainId": 59144,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x176211869cA2b568f2A7D4EE941E073a821EE1ff/logo.png",
+            "name": "USDC",
+            "symbol": "USDC"
+        },
+        {
             "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
             "chainId": 59144,
             "decimals": 18,
@@ -4360,6 +4368,14 @@
             "symbol": "WETH"
         },
         {
+            "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0xc111c29A988AE0C0087D97b33C6E6766808A3BD3/logo.png",
+            "name": "MultiChain Labs BUSD",
+            "symbol": "BUSD"
+        },
+        {
             "address": "0x2B8e9cD44C9e09D936149549a8d207c918ecB5C4",
             "chainId": 106,
             "decimals": 18,
@@ -4794,7 +4810,7 @@
     ],
     "version": {
         "major": 36,
-        "minor": 0,
+        "minor": 4,
         "patch": 0
     }
 }
