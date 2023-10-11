@@ -103,11 +103,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
             "name": "Spice",
             "symbol": "SFI"
+        },
+        {
+            "address": "0x006d6f38234be7f0519286011A5bf39A35D501b7",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x006d6f38234be7f0519286011A5bf39A35D501b7/logo.png",
+            "name": "Better Bits Club",
+            "symbol": "BBC"
         }
     ],
     "version": {
         "major": 36,
-        "minor": 1,
+        "minor": 2,
         "patch": 1
     }
 }
