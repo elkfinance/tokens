@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-09-07T03:27:21+00:00",
+    "timestamp": "2023-10-11T19:09:11+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3032,6 +3032,14 @@
             "symbol": "SFI"
         },
         {
+            "address": "0x006d6f38234be7f0519286011A5bf39A35D501b7",
+            "chainId": 321,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x006d6f38234be7f0519286011A5bf39A35D501b7/logo.png",
+            "name": "Better Bits Club",
+            "symbol": "BBC"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 59144,
             "decimals": 18,
@@ -4802,7 +4810,7 @@
     ],
     "version": {
         "major": 36,
-        "minor": 1,
+        "minor": 2,
         "patch": 1
     }
 }
