@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2023-10-11T19:09:13+00:00",
+    "timestamp": "2023-10-22T20:13:00+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3384,6 +3384,30 @@
             "symbol": "QUSD"
         },
         {
+            "address": "0x79Cb92a2806BF4f82B614A84b6805963b8b1D8BB",
+            "chainId": 35441,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0x79Cb92a2806BF4f82B614A84b6805963b8b1D8BB/logo.png",
+            "name": "USDC on Q",
+            "symbol": "USDC"
+        },
+        {
+            "address": "0xde397e6C442A3E697367DecBF0d50733dc916b79",
+            "chainId": 35441,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xde397e6C442A3E697367DecBF0d50733dc916b79/logo.png",
+            "name": "Wrapped BTC on Q",
+            "symbol": "WBTC"
+        },
+        {
+            "address": "0xDeb87c37Dcf7F5197026f574cd40B3Fc8Aa126D1",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xDeb87c37Dcf7F5197026f574cd40B3Fc8Aa126D1/logo.png",
+            "name": "DAI on Q",
+            "symbol": "DAI"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
@@ -3881,8 +3905,8 @@
         }
     ],
     "version": {
-        "major": 36,
-        "minor": 2,
-        "patch": 1
+        "major": 37,
+        "minor": 0,
+        "patch": 0
     }
 }
