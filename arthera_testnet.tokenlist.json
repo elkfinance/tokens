@@ -23,11 +23,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0xC7A183Ad373301d68f7E0Ee824c8c727C7D5B21d/logo.png",
             "name": "Snake Temp Wrapped AA",
             "symbol": "WAA"
+        },
+        {
+            "address": "0x1655C298D4820b972484569aB33A04a25d7F6f9e",
+            "chainId": 10243,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x1655C298D4820b972484569aB33A04a25d7F6f9e/logo.png",
+            "name": "FlokiIsNotLate",
+            "symbol": "FlokiAA"
         }
     ],
     "version": {
         "major": 37,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
