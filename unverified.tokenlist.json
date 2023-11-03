@@ -3,7 +3,7 @@
         "elk",
         "defi"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0x067D94301F2C02A5A57e05dB0D924eFEfEA5078D/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0x000000000000000000000000000000000000000d/logo.png",
     "name": "Elk Unverified Tokens",
     "timestamp": "2023-10-24T13:27:07+00:00",
     "tokens": [
@@ -19,6 +19,6 @@
     "version": {
         "major": 38,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     }
 }
