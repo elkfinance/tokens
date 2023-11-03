@@ -27,7 +27,7 @@
         {
             "address": "0x80A75739E5aEA9211F2c053dFdd34F71b369A7Cd",
             "chainId": 10243,
-            "decimals": 9,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x80A75739E5aEA9211F2c053dFdd34F71b369A7Cd/logo.png",
             "name": "FlokiIsNotLate",
             "symbol": "FlokiAA"
@@ -36,6 +36,6 @@
     "version": {
         "major": 38,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     }
 }
