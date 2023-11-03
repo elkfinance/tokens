@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-10-24T13:27:07+00:00",
+    "timestamp": "2023-11-03T01:21:57+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -36,7 +36,15 @@
             "chainId": 42161,
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png",
-            "name": "USD Coin Arb1",
+            "name": "Arbitrum Bridged USDC",
+            "symbol": "USDC.e"
+        },
+        {
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "chainId": 42161,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png",
+            "name": "USDC on Arbitrum",
             "symbol": "USDC"
         },
         {
@@ -1993,8 +2001,8 @@
         }
     ],
     "version": {
-        "major": 37,
-        "minor": 1,
+        "major": 38,
+        "minor": 0,
         "patch": 0
     }
 }
