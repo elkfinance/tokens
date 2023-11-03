@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2023-11-03T01:21:57+00:00",
+    "timestamp": "2023-11-03T01:49:15+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2003,6 +2003,6 @@
     "version": {
         "major": 38,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     }
 }
