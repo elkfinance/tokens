@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2023-11-03T01:49:14+00:00",
+    "timestamp": "2023-11-03T18:34:16+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -192,10 +192,10 @@
             "symbol": "WAA"
         },
         {
-            "address": "0x1655C298D4820b972484569aB33A04a25d7F6f9e",
+            "address": "0x80A75739E5aEA9211F2c053dFdd34F71b369A7Cd",
             "chainId": 10243,
             "decimals": 9,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x1655C298D4820b972484569aB33A04a25d7F6f9e/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x80A75739E5aEA9211F2c053dFdd34F71b369A7Cd/logo.png",
             "name": "FlokiIsNotLate",
             "symbol": "FlokiAA"
         },
@@ -3923,6 +3923,6 @@
     "version": {
         "major": 38,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
