@@ -1,0 +1,24 @@
+{
+    "keywords": [
+        "elk",
+        "defi"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0x067D94301F2C02A5A57e05dB0D924eFEfEA5078D/logo.png",
+    "name": "Elk Unverified Tokens",
+    "timestamp": "2023-10-24T13:27:07+00:00",
+    "tokens": [
+        {
+            "address": "0x067D94301F2C02A5A57e05dB0D924eFEfEA5078D",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0x067D94301F2C02A5A57e05dB0D924eFEfEA5078D/logo.png",
+            "name": "Digital Mooncake",
+            "symbol": "MOON"
+        }
+    ],
+    "version": {
+        "major": 38,
+        "minor": 0,
+        "patch": 0
+    }
+}

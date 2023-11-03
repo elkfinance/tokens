@@ -16,7 +16,7 @@ from web3 import Web3
 from pathlib import Path
 
 
-IGNORE_LISTS = ['all', 'top', 'farms']
+IGNORE_LISTS = ['all', 'top', 'farms', 'unverified']
 
 
 if __name__ == '__main__':

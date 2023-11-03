@@ -965,7 +965,15 @@
                 "l1GatewayAddress": "0xcEe284F754E854890e311e3280b767F80797180d"
             },
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png",
-            "name": "USD Coin Arb1",
+            "name": "Arbitrum Bridged USDC",
+            "symbol": "USDC.e"
+        },
+        {
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "chainId": 42161,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png",
+            "name": "USDC on Arbitrum",
             "symbol": "USDC"
         },
         {
@@ -1174,8 +1182,8 @@
         }
     ],
     "version": {
-        "major": 37,
-        "minor": 1,
+        "major": 38,
+        "minor": 0,
         "patch": 0
     }
 }
