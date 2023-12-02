@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-12-02T01:30:27+00:00",
+    "timestamp": "2023-12-02T01:39:42+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1366,6 +1366,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png",
             "name": "Binance-Peg Avalanche Token",
             "symbol": "AVAX"
+        },
+        {
+            "address": "0x8d1437a21f055B88C29a80EE65C400de8959525b",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8d1437a21f055B88C29a80EE65C400de8959525b/logo.png",
+            "name": "RHINE Rewards",
+            "symbol": "RHINE"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4850,7 +4858,7 @@
     ],
     "version": {
         "major": 38,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
