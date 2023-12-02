@@ -1935,11 +1935,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png",
             "name": "Binance-Peg Avalanche Token",
             "symbol": "AVAX"
+        },
+        {
+            "address": "0x8d1437a21f055B88C29a80EE65C400de8959525b",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8d1437a21f055B88C29a80EE65C400de8959525b/logo.png",
+            "name": "RHINE Rewards",
+            "symbol": "RHINE"
         }
     ],
     "version": {
         "major": 38,
-        "minor": 0,
-        "patch": 3
+        "minor": 1,
+        "patch": 0
     }
 }
