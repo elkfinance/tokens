@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-12-02T01:39:42+00:00",
+    "timestamp": "2023-12-21T02:06:11+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2248,12 +2248,12 @@
             "symbol": "DAI"
         },
         {
-            "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
+            "address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
             "chainId": 122,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
-            "name": "Fuse Dollar",
-            "symbol": "FUSD"
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F/logo.png",
+            "name": "Fuse Dollar V3",
+            "symbol": "fUSDv3"
         },
         {
             "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
@@ -4857,8 +4857,8 @@
         }
     ],
     "version": {
-        "major": 38,
-        "minor": 2,
+        "major": 39,
+        "minor": 0,
         "patch": 0
     }
 }

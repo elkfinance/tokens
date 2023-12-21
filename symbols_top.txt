@@ -207,3 +207,4 @@ WSOL
 WVLX
 BBC
 FlokiAA
+fUSDv3
