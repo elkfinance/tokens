@@ -63,11 +63,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0xcFFd84d468220c11be64dc9dF64eaFE02AF60e8A/logo.png",
             "name": "Sollet Wrapped Ether",
             "symbol": "WETH"
+        },
+        {
+            "address": "0x432B39E097d9faA2CBAa86F8D36Bcf3b8019fE9f",
+            "chainId": 245022934,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/neon/0x432B39E097d9faA2CBAa86F8D36Bcf3b8019fE9f/logo.png",
+            "name": "Neo Pepe",
+            "symbol": "NEOP"
         }
     ],
     "version": {
         "major": 39,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
