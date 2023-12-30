@@ -191,11 +191,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x42E44f16D2183d7eD27C501b04F29084eF4C2D24/logo.png",
             "name": "In Seth We Trust",
             "symbol": "ISWT"
+        },
+        {
+            "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png",
+            "name": "Coineus",
+            "symbol": "CEUS"
         }
     ],
     "version": {
         "major": 39,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }

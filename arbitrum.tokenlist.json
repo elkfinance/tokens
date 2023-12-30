@@ -1179,11 +1179,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
             "name": "Arbitrum Token",
             "symbol": "ARB"
+        },
+        {
+            "address": "0x1ed0C2a88c4E76B99bEb9B14ec6e0A1d26742E56",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x1ed0C2a88c4E76B99bEb9B14ec6e0A1d26742E56/logo.png",
+            "name": "Coineus",
+            "symbol": "CEUS"
         }
     ],
     "version": {
         "major": 39,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
