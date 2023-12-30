@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-12-23T00:58:06+00:00",
+    "timestamp": "2023-12-30T15:49:21+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -254,6 +254,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
             "name": "Arbitrum Token",
             "symbol": "ARB"
+        },
+        {
+            "address": "0x1ed0C2a88c4E76B99bEb9B14ec6e0A1d26742E56",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x1ed0C2a88c4E76B99bEb9B14ec6e0A1d26742E56/logo.png",
+            "name": "Coineus",
+            "symbol": "CEUS"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -960,6 +968,14 @@
             "symbol": "USDT"
         },
         {
+            "address": "0x7efC6A44c996680b1738385b7E57E494Bd2f7981",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7efC6A44c996680b1738385b7E57E494Bd2f7981/logo.png",
+            "name": "Coineus",
+            "symbol": "CEUS"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 8453,
             "decimals": 18,
@@ -1374,6 +1390,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8d1437a21f055B88C29a80EE65C400de8959525b/logo.png",
             "name": "RHINE Rewards",
             "symbol": "RHINE"
+        },
+        {
+            "address": "0x511aAccF687c21150b737dAe9a4f56aaFb7583e6",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x511aAccF687c21150b737dAe9a4f56aaFb7583e6/logo.png",
+            "name": "Coineus",
+            "symbol": "CEUS"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2334,6 +2358,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x42E44f16D2183d7eD27C501b04F29084eF4C2D24/logo.png",
             "name": "In Seth We Trust",
             "symbol": "ISWT"
+        },
+        {
+            "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png",
+            "name": "Coineus",
+            "symbol": "CEUS"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4866,7 +4898,7 @@
     ],
     "version": {
         "major": 39,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }

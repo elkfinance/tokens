@@ -1943,11 +1943,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8d1437a21f055B88C29a80EE65C400de8959525b/logo.png",
             "name": "RHINE Rewards",
             "symbol": "RHINE"
+        },
+        {
+            "address": "0x511aAccF687c21150b737dAe9a4f56aaFb7583e6",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x511aAccF687c21150b737dAe9a4f56aaFb7583e6/logo.png",
+            "name": "Coineus",
+            "symbol": "CEUS"
         }
     ],
     "version": {
         "major": 39,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
