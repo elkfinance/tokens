@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2023-12-30T15:49:22+00:00",
+    "timestamp": "2023-12-30T16:56:01+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -174,14 +174,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
             "name": "Arbitrum Token",
             "symbol": "ARB"
-        },
-        {
-            "address": "0x1ed0C2a88c4E76B99bEb9B14ec6e0A1d26742E56",
-            "chainId": 42161,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x1ed0C2a88c4E76B99bEb9B14ec6e0A1d26742E56/logo.png",
-            "name": "Coineus",
-            "symbol": "CEUS"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -744,14 +736,6 @@
             "symbol": "USDT"
         },
         {
-            "address": "0x7efC6A44c996680b1738385b7E57E494Bd2f7981",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7efC6A44c996680b1738385b7E57E494Bd2f7981/logo.png",
-            "name": "Coineus",
-            "symbol": "CEUS"
-        },
-        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 8453,
             "decimals": 18,
@@ -1110,14 +1094,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png",
             "name": "Binance-Peg Avalanche Token",
             "symbol": "AVAX"
-        },
-        {
-            "address": "0x511aAccF687c21150b737dAe9a4f56aaFb7583e6",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x511aAccF687c21150b737dAe9a4f56aaFb7583e6/logo.png",
-            "name": "Coineus",
-            "symbol": "CEUS"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3963,6 +3939,6 @@
     "version": {
         "major": 39,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     }
 }
