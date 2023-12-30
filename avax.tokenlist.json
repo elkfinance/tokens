@@ -3471,19 +3471,11 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
-        },
-        {
-            "address": "0x7efC6A44c996680b1738385b7E57E494Bd2f7981",
-            "chainId": 43114,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7efC6A44c996680b1738385b7E57E494Bd2f7981/logo.png",
-            "name": "Coineus",
-            "symbol": "CEUS"
         }
     ],
     "version": {
         "major": 39,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     }
 }
