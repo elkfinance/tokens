@@ -159,11 +159,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x00fe915a5209e74D5a88334cC2daA4541AEC8278/logo.png",
             "name": "Goal",
             "symbol": "GOAL"
+        },
+        {
+            "address": "0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC/logo.png",
+            "name": "Moonbys Lunarite Token",
+            "symbol": "LRE"
         }
     ],
     "version": {
         "major": 40,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

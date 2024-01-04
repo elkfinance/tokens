@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2023-12-30T16:56:00+00:00",
+    "timestamp": "2024-01-04T12:33:52+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1678,6 +1678,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x00fe915a5209e74D5a88334cC2daA4541AEC8278/logo.png",
             "name": "Goal",
             "symbol": "GOAL"
+        },
+        {
+            "address": "0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC/logo.png",
+            "name": "Moonbys Lunarite Token",
+            "symbol": "LRE"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4874,7 +4882,7 @@
     ],
     "version": {
         "major": 40,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

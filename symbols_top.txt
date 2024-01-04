@@ -210,3 +210,4 @@ FlokiAA
 fUSDv3
 NEOP
 CEUS
+LRE
