@@ -49,52 +49,12 @@
             "symbol": "RIB"
         },
         {
-            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-            "chainId": 1285,
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
-            "name": "USDC Coin",
-            "symbol": "USDC"
-        },
-        {
-            "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI"
-        },
-        {
-            "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/logo.png",
-            "name": "Binance-Peg BUSD Token",
-            "symbol": "BUSD"
-        },
-        {
             "address": "0x480CD4Fa911eeEFf93cB11135C97237455617862",
             "chainId": 1285,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x480CD4Fa911eeEFf93cB11135C97237455617862/logo.png",
             "name": "KusaMOON",
             "symbol": "KMOON"
-        },
-        {
-            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
-            "name": "Wrapped Ethereum",
-            "symbol": "WETH"
-        },
-        {
-            "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
-            "name": "Wrapped Binance Coin",
-            "symbol": "WBNB"
         },
         {
             "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
@@ -113,52 +73,12 @@
             "symbol": "LAIKA"
         },
         {
-            "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-            "chainId": 1285,
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
-            "name": "Wrapped BTC",
-            "symbol": "WBTC"
-        },
-        {
-            "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-            "chainId": 1285,
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
-            "name": "Tether USD",
-            "symbol": "USDT"
-        },
-        {
             "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
             "chainId": 1285,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x52f04C806EB82930F40D410259b7AF8E18d3BDc9/logo.png",
             "name": "MoonKafe",
             "symbol": "KAFE"
-        },
-        {
-            "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
-            "name": "Relay Token",
-            "symbol": "RELAY"
-        },
-        {
-            "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x14a0243C333A5b238143068dC3A7323Ba4C30ECB/logo.png",
-            "name": "Wrapped Avalanche",
-            "symbol": "WAVAX"
-        },
-        {
-            "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
-            "chainId": 1285,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x682F81e57EAa716504090C3ECBa8595fB54561D8/logo.png",
-            "name": "WMatic",
-            "symbol": "WMATIC"
         },
         {
             "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
@@ -199,11 +119,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C/logo.png",
             "name": "MmiMatic",
             "symbol": "MAI"
+        },
+        {
+            "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
+            "chainId": 1285,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x1A93B23281CC1CDE4C4741353F3064709A16197d/logo.png",
+            "name": "FRAX",
+            "symbol": "FRAX"
         }
     ],
     "version": {
-        "major": 40,
-        "minor": 1,
+        "major": 41,
+        "minor": 0,
         "patch": 0
     }
 }

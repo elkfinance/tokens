@@ -25,22 +25,6 @@
             "symbol": "WBRISE"
         },
         {
-            "address": "0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06",
-            "chainId": 32520,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06/logo.png",
-            "name": "Bitgert USDT",
-            "symbol": "USDT"
-        },
-        {
-            "address": "0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7",
-            "chainId": 32520,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7/logo.png",
-            "name": "Bitgert USDC",
-            "symbol": "USDC"
-        },
-        {
             "address": "0xB999Ea90607a826A3E6E6646B404c3C7d11fa39D",
             "chainId": 32520,
             "decimals": 18,
@@ -50,8 +34,8 @@
         }
     ],
     "version": {
-        "major": 40,
-        "minor": 1,
+        "major": 41,
+        "minor": 0,
         "patch": 0
     }
 }
