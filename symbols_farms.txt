@@ -58,3 +58,4 @@ WBTC
 fUSDv3
 NEOP
 LRE
+bscUSDT
