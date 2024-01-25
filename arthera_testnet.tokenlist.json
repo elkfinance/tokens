@@ -17,25 +17,17 @@
             "symbol": "ELK"
         },
         {
-            "address": "0xC7A183Ad373301d68f7E0Ee824c8c727C7D5B21d",
+            "address": "0x5A1750f9cb8A7E98e1FD618922Af276493318710",
             "chainId": 10243,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0xC7A183Ad373301d68f7E0Ee824c8c727C7D5B21d/logo.png",
-            "name": "Snake Temp Wrapped AA",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x5A1750f9cb8A7E98e1FD618922Af276493318710/logo.png",
+            "name": "Wrapped AA",
             "symbol": "WAA"
-        },
-        {
-            "address": "0x80A75739E5aEA9211F2c053dFdd34F71b369A7Cd",
-            "chainId": 10243,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x80A75739E5aEA9211F2c053dFdd34F71b369A7Cd/logo.png",
-            "name": "FlokiIsNotLate",
-            "symbol": "FlokiAA"
         }
     ],
     "version": {
         "major": 41,
-        "minor": 0,
-        "patch": 0
+        "minor": 1,
+        "patch": 1
     }
 }

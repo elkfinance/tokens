@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-01-07T22:42:03+00:00",
+    "timestamp": "2024-01-25T02:08:31+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -88,11 +88,11 @@
             "symbol": "ELK"
         },
         {
-            "address": "0xC7A183Ad373301d68f7E0Ee824c8c727C7D5B21d",
+            "address": "0x5A1750f9cb8A7E98e1FD618922Af276493318710",
             "chainId": 10243,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0xC7A183Ad373301d68f7E0Ee824c8c727C7D5B21d/logo.png",
-            "name": "Snake Temp Wrapped AA",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0x5A1750f9cb8A7E98e1FD618922Af276493318710/logo.png",
+            "name": "Wrapped AA",
             "symbol": "WAA"
         },
         {
@@ -1746,7 +1746,7 @@
     ],
     "version": {
         "major": 41,
-        "minor": 0,
-        "patch": 0
+        "minor": 1,
+        "patch": 1
     }
 }
