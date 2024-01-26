@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-01-26T19:16:24+00:00",
+    "timestamp": "2024-01-26T22:21:43+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -96,10 +96,10 @@
             "symbol": "WAA"
         },
         {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "address": "0xd1120E67A2bf245B62C0aF804fFa112fd28D8e56",
             "chainId": 10243,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera_testnet/0xd1120E67A2bf245B62C0aF804fFa112fd28D8e56/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -1763,6 +1763,6 @@
     "version": {
         "major": 42,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     }
 }
