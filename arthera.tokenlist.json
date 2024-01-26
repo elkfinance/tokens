@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "arthera"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Arthera Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 10242,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x69D349E2009Af35206EFc3937BaD6817424729F7",
+            "chainId": 10242,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x69D349E2009Af35206EFc3937BaD6817424729F7/logo.png",
+            "name": "Wrapped AA",
+            "symbol": "WAA"
+        }
+    ],
+    "version": {
+        "major": 42,
+        "minor": 0,
+        "patch": 0
+    }
+}

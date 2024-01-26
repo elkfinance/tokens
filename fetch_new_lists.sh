@@ -27,6 +27,7 @@ python update_list.py -o kava.tokenlist.json -c kava --logos
 python update_list.py -o bttc.tokenlist.json -c bttc --logos
 python update_list.py -o bttc_testnet.tokenlist.json -c bttc_testnet --logos
 python update_list.py -o arthera_testnet.tokenlist.json -c arthera_testnet --logos
+python update_list.py -o arthera.tokenlist.json -c arthera --logos
 python update_list.py -o astar.tokenlist.json -c astar --logos
 python update_list.py -o bitgert.tokenlist.json -c bitgert --logos
 python update_list.py -o metis.tokenlist.json -c metis --logos
