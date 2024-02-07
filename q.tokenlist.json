@@ -55,11 +55,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xDeb87c37Dcf7F5197026f574cd40B3Fc8Aa126D1/logo.png",
             "name": "DAI on Q",
             "symbol": "DAI"
+        },
+        {
+            "address": "0xe4fadBBF24F118b1E63d65f1aAC2A825A07F7619",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xe4fadBBF24F118b1E63d65f1aAC2A825A07F7619/logo.png",
+            "name": "VNXAU on Q",
+            "symbol": "VNXAU"
         }
     ],
     "version": {
         "major": 43,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

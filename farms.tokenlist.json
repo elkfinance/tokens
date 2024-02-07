@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-01-26T22:21:43+00:00",
+    "timestamp": "2024-02-07T03:41:34+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1568,6 +1568,14 @@
             "symbol": "DAI"
         },
         {
+            "address": "0xe4fadBBF24F118b1E63d65f1aAC2A825A07F7619",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xe4fadBBF24F118b1E63d65f1aAC2A825A07F7619/logo.png",
+            "name": "VNXAU on Q",
+            "symbol": "VNXAU"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
@@ -1762,7 +1770,7 @@
     ],
     "version": {
         "major": 43,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
