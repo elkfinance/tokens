@@ -59,3 +59,4 @@ fUSDv3
 NEOP
 LRE
 bscUSDT
+VNXAU
