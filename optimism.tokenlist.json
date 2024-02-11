@@ -117,6 +117,14 @@
                 "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
             },
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+            "name": "USD Coin Bridged from Ethereum",
+            "symbol": "USDC.e"
+        },
+        {
+            "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo.png",
             "name": "USD Coin",
             "symbol": "USDC"
         },
@@ -497,8 +505,8 @@
         }
     ],
     "version": {
-        "major": 43,
-        "minor": 1,
+        "major": 44,
+        "minor": 0,
         "patch": 0
     }
 }

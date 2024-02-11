@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2024-02-07T03:41:33+00:00",
+    "timestamp": "2024-02-11T18:04:56+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3180,6 +3180,14 @@
             "chainId": 10,
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+            "name": "USD Coin Bridged from Ethereum",
+            "symbol": "USDC.e"
+        },
+        {
+            "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "chainId": 10,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo.png",
             "name": "USD Coin",
             "symbol": "USDC"
         },
@@ -3729,8 +3737,8 @@
         }
     ],
     "version": {
-        "major": 43,
-        "minor": 1,
+        "major": 44,
+        "minor": 0,
         "patch": 0
     }
 }
