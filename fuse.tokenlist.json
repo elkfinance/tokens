@@ -191,11 +191,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png",
             "name": "Coineus",
             "symbol": "CEUS"
+        },
+        {
+            "address": "0x2DFDab3253051f6857580D9a360C531CBF40eB4d",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x2DFDab3253051f6857580D9a360C531CBF40eB4d/logo.png",
+            "name": "Dummy Kid",
+            "symbol": "DMK"
         }
     ],
     "version": {
         "major": 44,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

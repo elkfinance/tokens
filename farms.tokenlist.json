@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-02-11T18:04:56+00:00",
+    "timestamp": "2024-03-14T23:27:31+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -694,6 +694,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
             "name": "Wrapped Fuse",
             "symbol": "WFUSE"
+        },
+        {
+            "address": "0x2DFDab3253051f6857580D9a360C531CBF40eB4d",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x2DFDab3253051f6857580D9a360C531CBF40eB4d/logo.png",
+            "name": "Dummy Kid",
+            "symbol": "DMK"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1778,7 +1786,7 @@
     ],
     "version": {
         "major": 44,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
