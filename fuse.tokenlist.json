@@ -197,13 +197,13 @@
             "chainId": 122,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x2DFDab3253051f6857580D9a360C531CBF40eB4d/logo.png",
-            "name": "Dummy Kid V2",
+            "name": "Dummie Kid V2",
             "symbol": "DMK"
         }
     ],
     "version": {
-        "major": 44,
-        "minor": 1,
-        "patch": 1
+        "major": 45,
+        "minor": 0,
+        "patch": 0
     }
 }
