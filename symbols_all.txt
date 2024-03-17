@@ -287,3 +287,4 @@ bscUSDT
 FRAX
 VNXAU
 DMK
+G$

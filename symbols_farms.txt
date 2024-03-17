@@ -61,3 +61,4 @@ LRE
 bscUSDT
 VNXAU
 DMK
+G$
