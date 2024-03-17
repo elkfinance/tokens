@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2024-03-15T22:37:48+00:00",
+    "timestamp": "2024-03-17T21:21:45+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1774,6 +1774,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F/logo.png",
             "name": "Fuse Dollar V3",
             "symbol": "fUSDv3"
+        },
+        {
+            "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+            "chainId": 122,
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png",
+            "name": "GoodDollar",
+            "symbol": "G$"
         },
         {
             "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
@@ -3746,7 +3754,7 @@
     ],
     "version": {
         "major": 46,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
