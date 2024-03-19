@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-03-17T21:21:46+00:00",
+    "timestamp": "2024-03-19T00:20:35+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -710,6 +710,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x2DFDab3253051f6857580D9a360C531CBF40eB4d/logo.png",
             "name": "Dummie Kid V2",
             "symbol": "DMK"
+        },
+        {
+            "address": "0x6d2A05948ED279f8A0ca532fC1A2a7767300C46E",
+            "chainId": 122,
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x6d2A05948ED279f8A0ca532fC1A2a7767300C46E/logo.png",
+            "name": "Dummie Coin V2",
+            "symbol": "DC"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1794,7 +1802,7 @@
     ],
     "version": {
         "major": 46,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
