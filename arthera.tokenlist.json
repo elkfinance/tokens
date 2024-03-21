@@ -23,11 +23,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x69D349E2009Af35206EFc3937BaD6817424729F7/logo.png",
             "name": "Wrapped AA",
             "symbol": "WAA"
+        },
+        {
+            "address": "0x3df2B61C29459a4dC36062e616390860dbb14D78",
+            "chainId": 10242,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x3df2B61C29459a4dC36062e616390860dbb14D78/logo.png",
+            "name": "BabyTuru",
+            "symbol": "BBT"
         }
     ],
     "version": {
         "major": 46,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
