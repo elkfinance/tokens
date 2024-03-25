@@ -207,11 +207,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x6d2A05948ED279f8A0ca532fC1A2a7767300C46E/logo.png",
             "name": "Dummie Coin V2",
             "symbol": "DC"
+        },
+        {
+            "address": "0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png",
+            "name": "Foo",
+            "symbol": "FOO"
         }
     ],
     "version": {
         "major": 47,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
