@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2024-03-25T17:56:06+00:00",
+    "timestamp": "2024-03-25T18:04:50+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1854,6 +1854,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png",
             "name": "Coineus",
             "symbol": "CEUS"
+        },
+        {
+            "address": "0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9",
+            "chainId": 122,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png",
+            "name": "Foo",
+            "symbol": "FOO"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3754,7 +3762,7 @@
     ],
     "version": {
         "major": 47,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
