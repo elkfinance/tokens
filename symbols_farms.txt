@@ -60,7 +60,5 @@ NEOP
 LRE
 bscUSDT
 VNXAU
-DMK
 G$
-DC
 BBT
