@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2024-03-25T18:04:50+00:00",
+    "timestamp": "2024-03-26T06:48:11+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -790,6 +790,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
             "name": "USDC on Base",
             "symbol": "USDC"
+        },
+        {
+            "address": "0x05F1938646a897008e813fb03CE7C575eAE45738",
+            "chainId": 8453,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x05F1938646a897008e813fb03CE7C575eAE45738/logo.png",
+            "name": "Project Ralph",
+            "symbol": "PR"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3762,7 +3770,7 @@
     ],
     "version": {
         "major": 47,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
