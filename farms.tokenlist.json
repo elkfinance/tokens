@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-03-26T06:48:12+00:00",
+    "timestamp": "2024-03-28T18:38:23+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -232,11 +232,11 @@
             "symbol": "WETH"
         },
         {
-            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
             "chainId": 8453,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
-            "name": "USDC on Base",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo.png",
+            "name": "USD Coin",
             "symbol": "USDC"
         },
         {
@@ -1801,8 +1801,8 @@
         }
     ],
     "version": {
-        "major": 47,
-        "minor": 2,
+        "major": 48,
+        "minor": 0,
         "patch": 0
     }
 }
