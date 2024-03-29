@@ -47,11 +47,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x05F1938646a897008e813fb03CE7C575eAE45738/logo.png",
             "name": "Project Ralph",
             "symbol": "PR"
+        },
+        {
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "chainId": 8453,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         }
     ],
     "version": {
         "major": 48,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
