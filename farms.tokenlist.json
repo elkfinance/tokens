@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-03-28T18:38:23+00:00",
+    "timestamp": "2024-03-29T20:46:25+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -246,6 +246,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x05F1938646a897008e813fb03CE7C575eAE45738/logo.png",
             "name": "Project Ralph",
             "symbol": "PR"
+        },
+        {
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "chainId": 8453,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1802,7 +1810,7 @@
     ],
     "version": {
         "major": 48,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
