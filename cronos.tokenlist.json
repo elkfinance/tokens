@@ -167,11 +167,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC/logo.png",
             "name": "Moonbys Lunarite Token",
             "symbol": "LRE"
+        },
+        {
+            "address": "0xEfE15a7232b9F0aA890FF97Aaf53afe87D00F8BE",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xEfE15a7232b9F0aA890FF97Aaf53afe87D00F8BE/logo.png",
+            "name": "Bitcoin CRO",
+            "symbol": "BTCRONOS"
         }
     ],
     "version": {
         "major": 48,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
