@@ -1,0 +1,374 @@
+{
+  "bttc": {
+    "name": "BitTorrent Chain",
+    "coin_gecko_id": "bittorrent",
+    "rpc_url": "https://rpc.bittorrentchain.io",
+    "chain_id": "199",
+    "symbol": "BTT",
+    "url": "https://scan.bittorrentchain.io",
+    "contracts": {
+      "factory": "0xc06348aee3f3e92ee452816e0d3f25c919f6fb04",
+      "router": "0x7520d45bcc30be211c6b28f6291522555eda4d6c"
+    }
+  },
+  "kava": {
+    "name": "Kava EVM Co-Chain",
+    "coin_gecko_id": "kava",
+    "rpc_url": "https://evm.kava.io",
+    "chain_id": "2222",
+    "symbol": "KAVA",
+    "url": "https://explorer.kava.io",
+    "contracts": {
+      "factory": "0xC012C4b3d253A8F22d5e4ADA67ea2236FF9778fc",
+      "router": "0x7a2c1D96C76B6EB62241df4d2fAEb9F0D3D59E10"
+    }
+  },
+  "fuse": {
+    "name": "Fuse Network",
+    "coin_gecko_id": "fuse-network-token",
+    "rpc_url": "https://rpc.fuse.io",
+    "chain_id": "122",
+    "symbol": "FUSE",
+    "url": "https://explorer.fuse.io",
+    "contracts": {
+      "factory": "0x779407e40Dad9D70Ba5ADc30E45cC3494ec71ad2",
+      "router": "0x9a5De8C973c2f64f0f518DE581BcC2aa2dF8A621"
+    }
+  },
+  "ethereum": {
+    "name": "Ethereum",
+    "coin_gecko_id": "ethereum",
+    "rpc_url": "https://rpc.ankr.com/eth",
+    "chain_id": "1",
+    "symbol": "ETH",
+    "url": "https://etherscan.io/",
+    "contracts": {
+      "factory": "0x6511eBA915fC1b94b2364289CCa2b27AE5898d80",
+      "router": "0xb5e9F6C58f548CeE53257304e287b23757eFFCA1"
+    }
+  },  
+  "arbitrum": {
+    "name": "Arbitrum One",
+    "coin_gecko_id": "ethereum",
+    "rpc_url": "https://rpc.ankr.com/arbitrum",
+    "chain_id": "42161",
+    "symbol": "ETH",
+    "url": "https://arbiscan.io/",
+    "contracts": {
+      "factory": "0xA59B2044EAFD15ee4deF138D410d764c9023E1F0",
+      "router": "0x0A2e5A3Dc2f74E5Bfaf0Bf90685A5A899f379Cb0"
+    }
+  },
+  "optimism": {
+    "name": "Optimism",
+    "coin_gecko_id": "ethereum",
+    "rpc_url": "https://mainnet.optimism.io",
+    "chain_id": "10",
+    "symbol": "ETH",
+    "url": "https://optimistic.etherscan.io/",
+    "contracts": {
+      "factory": "0xedfad3a0F42A8920B011bb0332aDe632e552d846",
+      "router": "0xeadE97aFC8f79A8E5Ba85d57C4a4E629b1160C6A"
+    }
+  },
+  "avax": {
+    "name": "Avalanche Network",
+    "coin_gecko_id": "avalanche-2",
+    "rpc_url": "https://api.avax.network/ext/bc/C/rpc",
+    "chain_id": "43114",
+    "symbol": "AVAX",
+    "url": "https://cchain.explorer.avax.network/",
+    "contracts": {
+      "factory": "0x091d35d7F63487909C863001ddCA481c6De47091",
+      "router": "0x9E4AAbd2B3E60Ee1322E94307d0776F2c8e6CFbb"
+    }
+  },
+  "matic": {
+    "name": "Polygon",
+    "coin_gecko_id": "matic-network",
+    "rpc_url": "https://polygon-rpc.com",
+    "chain_id": "137",
+    "symbol": "MATIC",
+    "url": "https://polygonscan.com/",
+    "contracts": {
+      "factory": "0xf38a7A7Ac2D745E2204c13F824c00139DF831FFf",
+      "router": "0xf38a7A7Ac2D745E2204c13F824c00139DF831FFf"
+    }
+  },
+  "ftm": {
+    "name": "Fantom",
+    "coin_gecko_id": "fantom",
+    "rpc_url": "https://rpc.ftm.tools",
+    "chain_id": "250",
+    "symbol": "FTM",
+    "url": "https://ftmscan.com/",
+    "contracts": {
+      "factory": "0x7Ba73c99e6f01a37f3e33854c8F544BbbadD3420",
+      "router": "0x4D2cf285a519261F30b4d9c2c344Baf260d65Fa2"
+    }
+  },
+  "heco": {
+    "name": "heco-mainnet",
+    "coin_gecko_id": "huobi-token",
+    "rpc_url": "https://http-mainnet.hecochain.com",
+    "chain_id": "128",
+    "symbol": "HT",
+    "url": "https://hecoinfo.com/",
+    "contracts": {
+      "factory": "0x997fCE9164D630CC58eE366d4D275B9D773d54A4",
+      "router": "0x62710D18596c808c70864695c77480De252DD9D5"
+    }
+  },
+  "xdai": {
+    "name": "xDai",
+    "coin_gecko_id": "xdai",
+    "rpc_url": "https://rpc.gnosischain.com",
+    "chain_id": "100",
+    "symbol": "XDAI",
+    "url": "https://blockscout.com/xdai/mainnet",
+    "contracts": {
+      "factory": "0xCB018587dA9590A18f49fFE2b85314c33aF3Ad3B",
+      "router": "0xe5759714998e8B50A33c7333C04C2d02e5dcE77f"
+    }
+  },
+  "bsc": {
+    "name": "Binance Smart Chain",
+    "coin_gecko_id": "binancecoin",
+    "rpc_url": "https://bsc-dataseed.binance.org/",
+    "chain_id": "56",
+    "symbol": "BNB",
+    "url": "https://bscscan.com",
+    "contracts": {
+      "factory": "0x31aFfd875e9f68cd6Cd12Cee8943566c9A4bBA13",
+      "router": "0xA63B831264183D755756ca9AE5190fF5183d65D6"
+    }
+  },
+  "elastos": {
+    "name": "ELA Sidechain",
+    "coin_gecko_id": "elastos",
+    "rpc_url": "https://api.elastos.io/eth",
+    "chain_id": "20",
+    "symbol": "ELA",
+    "url": "https://eth.elastos.io",
+    "contracts": {
+      "factory": "0x440a1B8b8e968D6765D41E6b92DF3cBb0e9D2b1e",
+      "router": "0xbF9Bebfd6954985E41Fed497a5421B3B5B0f66AB"
+    }
+  },
+  "harmony": {
+    "name": "Harmony Mainnet",
+    "coin_gecko_id": "harmony",
+    "rpc_url": "https://rpc.ankr.com/harmony",
+    "chain_id": "1666600000",
+    "symbol": "ONE",
+    "url": "https://explorer.harmony.one/",
+    "contracts": {
+      "factory": "0xCdde1AbfF5Ae3Cbfbdb55c1e866Ac56380e18720",
+      "router": "0xbeA02dc919B08b5aE2158a8fBC60D4DA5640737B"
+    }
+  },
+  "hoo": {
+    "name": "Hoo Smart Chain Mainnet",
+    "coin_gecko_id": "hoo-token",
+    "rpc_url": "https://http-mainnet.hoosmartchain.com",
+    "chain_id": "70",
+    "symbol": "HOO",
+    "url": "https://hscscan.com",
+    "contracts": {
+      "factory": "0x9c03E724455306491BfD2CE0805fb872727313eA",
+      "router": "0x358382C226Da7Ba5E672F06a7E263Bd926eB0265"
+    }
+  },
+  "kcc": {
+    "name": "KCC-Mainnet",
+    "coin_gecko_id": "kucoin-shares",
+    "rpc_url": "https://rpc-mainnet.kcc.network",
+    "chain_id": "321",
+    "symbol": "KCS",
+    "url": "https://explorer.kcc.io/en",
+    "contracts": {
+      "factory": "0x1f9aa39001ed0630dA6854859D7B3eD255648599",
+      "router": "0x5DDac4C73b15353dc4a00DaeAfb38631a7cBd389"
+    }
+  },
+  "moonriver": {
+    "name": "Moonriver",
+    "coin_gecko_id": "moonriver",
+    "rpc_url": "https://rpc.moonriver.moonbeam.network/",
+    "chain_id": "1285",
+    "symbol": "MOVR",
+    "url": "https://blockscout.moonriver.moonbeam.network/",
+    "contracts": {
+      "factory": "0xd45145f10fD4071dfC9fC3b1aefCd9c83A685e77",
+      "router": "0xdCB8C29298AF7E9C48b56dB3c87dB6d124d1Ef97"
+    }
+  },
+  "okex": {
+    "name": "OKExChain Mainnet",
+    "coin_gecko_id": "oec-token",
+    "rpc_url": "https://exchainrpc.okex.org",
+    "chain_id": "66",
+    "symbol": "OKT",
+    "url": "https://www.oklink.com/okexchain",
+    "contracts": {
+      "factory": "0x1116f8B82028324f2065078b4ff6b47F1Cc22B97",
+      "router": "0x4652ab8e8821F234407b1f1cB0ac8dD7E617BfF8"
+    }
+  },
+  "telos": {
+    "name": "Telos EVM Mainnet",
+    "coin_gecko_id": "telos",
+    "rpc_url": "https://mainnet.telos.net/evm",
+    "chain_id": "40",
+    "symbol": "TLOS",
+    "url": "https://telos.net",
+    "contracts": {
+      "factory": "0x47c3163e691966f8c1b93B308A236DDB3C1C592d",
+      "router": "0x75840EBB437981a3F3F1F004513821E0CcDCFC21"
+    }
+  },
+  "cronos": {
+    "name": "Cronos EVM Mainnet Beta",
+    "coin_gecko_id": "crypto-com-chain",
+    "rpc_url": "https://evm-cronos.crypto.org",
+    "chain_id": "25",
+    "symbol": "CRO",
+    "url": "https://cronos.crypto.org/explorer",
+    "contracts": {
+      "factory": "0xEEa0e2830D09D8786Cb9F484cA20898b61819ef1",
+      "router": "0xdB02A597b283eACb9436Cd2a2d15039a11A3299d"
+    }
+  },
+  "iotex": {
+    "name": "IoTeX Network Mainnet",
+    "coin_gecko_id": "iotex",
+    "rpc_url": "https://babel-api.mainnet.iotex.io",
+    "chain_id": "4689",
+    "symbol": "IOTX",
+    "url": "https://iotexscan.io",
+    "contracts": {
+      "factory": "0xF96bE66DA0b9bC9DFD849827b4acfA7e8a6F3C42",
+      "router": "0xAEB801BA5Cf1233B2a3765890D4f8f8C8141Fa43"
+    }
+  },
+  "astar": {
+    "name": "Astar EVM",
+    "coin_gecko_id": "astar",
+    "rpc_url": "https://evm.astar.network",
+    "chain_id": "592",
+    "symbol": "ASTR",
+    "url": "https://astar.subscan.io",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "bitgert": {
+    "name": "Bitgert EVM",
+    "coin_gecko_id": "bitgert",
+    "rpc_url": "https://mainnet-rpc.brisescan.com",
+    "chain_id": "32520",
+    "symbol": "BRISE",
+    "url": "https://brisescan.com/",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "metis": {
+    "name": "Metis Andromeda Mainnet",
+    "coin_gecko_id": "metis-token",
+    "rpc_url": "https://andromeda.metis.io/?owner=1088",
+    "chain_id": "1088",
+    "symbol": "METIS",
+    "url": "https://andromeda-explorer.metis.io",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "wan": {
+    "name": "Wanchain",
+    "coin_gecko_id": "wanchain",
+    "rpc_url": "https://gwan2-ssl.wandevs.org",
+    "chain_id": "888",
+    "symbol": "WAN",
+    "url": "https://www.wanscan.org",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "neon": {
+    "name": "Neon EVM Mainnet",
+    "coin_gecko_id": "neon",
+    "rpc_url": "https://neon-proxy-mainnet.solana.p2p.org",
+    "chain_id": "245022934",
+    "symbol": "NEON",
+    "url": "https://neonscan.org",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "base": {
+    "name": "Base",
+    "coin_gecko_id": "ethereum",
+    "rpc_url": "https://mainnet.base.org",
+    "chain_id": "8453",
+    "symbol": "ETH",
+    "url": "https://basescan.org",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "linea": {
+    "name": "Linea",
+    "coin_gecko_id": "ethereum",
+    "rpc_url": "https://rpc.linea.build",
+    "chain_id": "59144",
+    "symbol": "ETH",
+    "url": "https://lineascan.build",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "velas": {
+    "name": "Velas EVM Mainnet",
+    "coin_gecko_id": "velas",
+    "rpc_url": "https://evmexplorer.velas.com/rpc",
+    "chain_id": "106",
+    "symbol": "VLX",
+    "url": "https://evmexplorer.velas.com",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "q": {
+    "name": "Q Mainnet",
+    "coin_gecko_id": "elk-finance",
+    "rpc_url": "https://rpc.q.org",
+    "chain_id": "35441",
+    "symbol": "Q",
+    "url": "https://explorer.q.org",
+    "contracts": {
+      "factory": "0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4",
+      "router": "0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D"
+    }
+  },
+  "arthera": {
+    "name": "Arthera Mainnet",
+    "coin_gecko_id": "arthera",
+    "rpc_url": "https://rpc.arthera.net",
+    "chain_id": "10242",
+    "symbol": "AA",
+    "url": "https://explorer.arthera.net",
+    "contracts": {
+      "factory": "0x69D10bc18cD588A4b70F836a471D4e9C2FD86092",
+      "router": "0x35FC5DF37eABaB62B55ECDc349b2d718C88E107A"
+    }
+  }
+}
