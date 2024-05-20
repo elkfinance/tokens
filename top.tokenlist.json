@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2024-05-20T19:08:46+00:00",
+    "timestamp": "2024-05-20T22:00:57+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -774,6 +774,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
+        },
+        {
+            "address": "0x05F1938646a897008e813fb03CE7C575eAE45738",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x05F1938646a897008e813fb03CE7C575eAE45738/logo.png",
+            "name": "Project Ralph",
+            "symbol": "PR"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3801,8 +3809,8 @@
         }
     ],
     "version": {
-        "major": 48,
-        "minor": 3,
+        "major": 49,
+        "minor": 0,
         "patch": 0
     }
 }
