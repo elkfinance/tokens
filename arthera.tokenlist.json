@@ -25,17 +25,25 @@
             "symbol": "WAA"
         },
         {
-            "address": "0x3df2B61C29459a4dC36062e616390860dbb14D78",
+            "address": "0x6C45E28A76977a96e263f84F95912B47F927B687",
             "chainId": 10242,
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x3df2B61C29459a4dC36062e616390860dbb14D78/logo.png",
-            "name": "BabyTuru",
-            "symbol": "BBT"
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x6C45E28A76977a96e263f84F95912B47F927B687/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+            "chainId": 10242,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B/logo.png",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e"
         }
     ],
     "version": {
         "major": 48,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }

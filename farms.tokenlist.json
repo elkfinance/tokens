@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-04-04T19:02:04+00:00",
+    "timestamp": "2024-05-20T19:08:46+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -96,12 +96,20 @@
             "symbol": "WAA"
         },
         {
-            "address": "0x3df2B61C29459a4dC36062e616390860dbb14D78",
+            "address": "0x6C45E28A76977a96e263f84F95912B47F927B687",
             "chainId": 10242,
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x3df2B61C29459a4dC36062e616390860dbb14D78/logo.png",
-            "name": "BabyTuru",
-            "symbol": "BBT"
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x6C45E28A76977a96e263f84F95912B47F927B687/logo.png",
+            "name": "Tether USD",
+            "symbol": "USDT"
+        },
+        {
+            "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+            "chainId": 10242,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B/logo.png",
+            "name": "Bridged USDC",
+            "symbol": "USDC.e"
         },
         {
             "address": "0xd1120E67A2bf245B62C0aF804fFa112fd28D8e56",
@@ -1616,6 +1624,14 @@
             "symbol": "VNXAU"
         },
         {
+            "address": "0xd56F9ffF3fe3BD0C7B52afF9A42eb70E05A287Cc",
+            "chainId": 35441,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/q/0xd56F9ffF3fe3BD0C7B52afF9A42eb70E05A287Cc/logo.png",
+            "name": "WETH on Q",
+            "symbol": "WETH"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 40,
             "decimals": 18,
@@ -1810,7 +1826,7 @@
     ],
     "version": {
         "major": 48,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     }
 }
