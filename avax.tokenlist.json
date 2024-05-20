@@ -3471,11 +3471,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
             "name": "Tether USD",
             "symbol": "USDT"
+        },
+        {
+            "address": "0x05F1938646a897008e813fb03CE7C575eAE45738",
+            "chainId": 43114,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x05F1938646a897008e813fb03CE7C575eAE45738/logo.png",
+            "name": "Project Ralph",
+            "symbol": "PR"
         }
     ],
     "version": {
-        "major": 48,
-        "minor": 3,
+        "major": 49,
+        "minor": 0,
         "patch": 0
     }
 }
