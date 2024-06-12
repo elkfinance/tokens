@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2024-05-20T22:00:56+00:00",
+    "timestamp": "2024-06-12T14:58:58+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -286,6 +286,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B/logo.png",
             "name": "Bridged USDC",
             "symbol": "USDC.e"
+        },
+        {
+            "address": "0x3df2B61C29459a4dC36062e616390860dbb14D78",
+            "chainId": 10242,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x3df2B61C29459a4dC36062e616390860dbb14D78/logo.png",
+            "name": "BabyTuru",
+            "symbol": "BBT"
         },
         {
             "address": "0xd1120E67A2bf245B62C0aF804fFa112fd28D8e56",
@@ -2382,14 +2390,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png",
             "name": "Coineus",
             "symbol": "CEUS"
-        },
-        {
-            "address": "0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9",
-            "chainId": 122,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png",
-            "name": "Foo",
-            "symbol": "FOO"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4754,7 +4754,7 @@
     ],
     "version": {
         "major": 49,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
