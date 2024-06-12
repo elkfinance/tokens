@@ -39,11 +39,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B/logo.png",
             "name": "Bridged USDC",
             "symbol": "USDC.e"
+        },
+        {
+            "address": "0x3df2B61C29459a4dC36062e616390860dbb14D78",
+            "chainId": 10242,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x3df2B61C29459a4dC36062e616390860dbb14D78/logo.png",
+            "name": "BabyTuru",
+            "symbol": "BBT"
         }
     ],
     "version": {
         "major": 49,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
