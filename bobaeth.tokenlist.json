@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "bobaeth"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobaeth/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk bobaeth Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 288,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "chainId": 288,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobaeth/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png",
+            "name": "Wrapped Ethereum on Boba",
+            "symbol": "WETH"
+        }
+    ],
+    "version": {
+        "major": 49,
+        "minor": 1,
+        "patch": 0
+    }
+}

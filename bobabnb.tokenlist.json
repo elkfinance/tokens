@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "bobabnb"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobabnb/0x4200000000000000000000000000000000000023/logo.png",
+    "name": "Elk bobabnb Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 56288,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x4200000000000000000000000000000000000023",
+            "chainId": 56288,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobabnb/0x4200000000000000000000000000000000000023/logo.png",
+            "name": "Boba BNB",
+            "symbol": "BNB"
+        }
+    ],
+    "version": {
+        "major": 49,
+        "minor": 1,
+        "patch": 0
+    }
+}

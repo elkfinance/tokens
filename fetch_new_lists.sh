@@ -38,3 +38,9 @@ python update_list.py -o wan.tokenlist.json -c wan --logos
 python update_list.py -o neon.tokenlist.json -c neon --logos
 python update_list.py -o base.tokenlist.json -c base --logos
 python update_list.py -o velas.tokenlist.json -c velas --logos
+python update_list.py -o rootstock.tokenlist.json -c rootstock --logos
+python update_list.py -o bobaeth.tokenlist.json -c bobaeth --logos
+python update_list.py -o bobabnb.tokenlist.json -c bobabnb --logos
+python update_list.py -o clover.tokenlist.json -c clover --logos
+python update_list.py -o celo.tokenlist.json -c celo --logos
+python update_list.py -o aurora.tokenlist.json -c aurora --logos
