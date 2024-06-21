@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "clover"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/clover/0x1376C97C5c512d2d6F9173A9A3A016B6140b4536/logo.png",
+    "name": "Elk clover Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 1024,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x1376C97C5c512d2d6F9173A9A3A016B6140b4536",
+            "chainId": 1024,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/clover/0x1376C97C5c512d2d6F9173A9A3A016B6140b4536/logo.png",
+            "name": "Wrapped CLV",
+            "symbol": "WCLV"
+        }
+    ],
+    "version": {
+        "major": 50,
+        "minor": 0,
+        "patch": 0
+    }
+}

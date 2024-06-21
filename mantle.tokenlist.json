@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "mantle"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
+    "name": "Elk mantle Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mantle/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
+            "name": "Wrapped Mantle",
+            "symbol": "WMNT"
+        }
+    ],
+    "version": {
+        "major": 50,
+        "minor": 0,
+        "patch": 0
+    }
+}

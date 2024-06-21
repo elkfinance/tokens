@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "polygonzkevm"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/polygonzkevm/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk polygonzkevm Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 1101,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+            "chainId": 1101,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/polygonzkevm/0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9/logo.png",
+            "name": "Wrapped Ether Polygon ZkEVM",
+            "symbol": "WETH"
+        }
+    ],
+    "version": {
+        "major": 50,
+        "minor": 0,
+        "patch": 0
+    }
+}
