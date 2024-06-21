@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-06-21T20:37:22+00:00",
+    "timestamp": "2024-06-21T22:33:39+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -334,6 +334,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
+        },
+        {
+            "address": "0xC58aaD327D6D58D979882601ba8DDa0685B505eA",
+            "chainId": 56288,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xC58aaD327D6D58D979882601ba8DDa0685B505eA/logo.png",
+            "name": "Wrapped BOBA Token",
+            "symbol": "WBOBA"
         },
         {
             "address": "0x4200000000000000000000000000000000000023",
@@ -2049,8 +2057,8 @@
         }
     ],
     "version": {
-        "major": 50,
+        "major": 51,
         "minor": 0,
-        "patch": 1
+        "patch": 0
     }
 }
