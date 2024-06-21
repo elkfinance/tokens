@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2024-06-21T04:41:56+00:00",
+    "timestamp": "2024-06-21T20:37:21+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -3536,7 +3536,7 @@
             "symbol": "ELK"
         },
         {
-            "address": "0x542FDA317318eBf1d3DeAF76E0B632741a7e677d",
+            "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
             "chainId": 30,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/rootstock/0x542FDA317318eBf1d3DeAF76E0B632741a7e677d/logo.png",
@@ -3598,6 +3598,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df/logo.png",
             "name": "Charm",
             "symbol": "CHARM"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 0,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4011,6 +4019,6 @@
     "version": {
         "major": 50,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     }
 }
