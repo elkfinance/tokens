@@ -226,8 +226,8 @@
         }
     ],
     "version": {
-        "major": 50,
+        "major": 51,
         "minor": 0,
-        "patch": 1
+        "patch": 0
     }
 }

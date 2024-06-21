@@ -4,7 +4,7 @@
         "defi",
         "bobabnb"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobabnb/0x4200000000000000000000000000000000000023/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobabnb/0xC58aaD327D6D58D979882601ba8DDa0685B505eA/logo.png",
     "name": "Elk bobabnb Tokens",
     "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
@@ -17,6 +17,14 @@
             "symbol": "ELK"
         },
         {
+            "address": "0xC58aaD327D6D58D979882601ba8DDa0685B505eA",
+            "chainId": 56288,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xC58aaD327D6D58D979882601ba8DDa0685B505eA/logo.png",
+            "name": "Wrapped BOBA Token",
+            "symbol": "WBOBA"
+        },
+        {
             "address": "0x4200000000000000000000000000000000000023",
             "chainId": 56288,
             "decimals": 18,
@@ -26,8 +34,8 @@
         }
     ],
     "version": {
-        "major": 50,
+        "major": 51,
         "minor": 0,
-        "patch": 1
+        "patch": 0
     }
 }
