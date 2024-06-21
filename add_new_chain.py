@@ -33,7 +33,7 @@ else:
     print(f"Folder already exists: {native_token_folder}")
 
 # Load template file
-template_file_path = os.path.join(os.path.dirname(__file__), 'template.tokenlist.json')
+template_file_path = os.path.join(os.path.dirname(__file__), 'template.json')
 try:
     with open(template_file_path, 'r') as f:
         template = f.read()
@@ -82,8 +82,8 @@ if f"'{chain_name.upper()}': '{address}'" not in config:
 else:
     print(f"'{chain_name.upper()}': '{address}' already exists in WETH")
 
-if re.search(rf"IGNORE = \[.*'{symbol}'.*\]", config) is None:
-    config = re.sub(r"(IGNORE = \[.*\])", f"\\1, '{symbol}'", config)
+if re.search(rf"'{symbol}'", config) is None:
+    config = re.sub(r"(IGNORE = \[.*?)\]", f"\\1, '{symbol}']", config, flags=re.DOTALL)
     print(f"Added '{symbol}' to IGNORE")
 else:
     print(f"'{symbol}' already exists in IGNORE")

@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "zksyncera"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/zksyncera/0x000000000000000000000000000000000000800A/logo.png",
+    "name": "Elk zksyncera Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 324,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+            "chainId": 324,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/zksyncera/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
+            "name": "Wrapped Ethereum on ZkSync Era",
+            "symbol": "WETH"
+        }
+    ],
+    "version": {
+        "major": 50,
+        "minor": 0,
+        "patch": 0
+    }
+}

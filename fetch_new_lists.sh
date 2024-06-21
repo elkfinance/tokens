@@ -44,3 +44,10 @@ python update_list.py -o bobabnb.tokenlist.json -c bobabnb --logos
 python update_list.py -o clover.tokenlist.json -c clover --logos
 python update_list.py -o celo.tokenlist.json -c celo --logos
 python update_list.py -o aurora.tokenlist.json -c aurora --logos
+python update_list.py -o zksyncera.tokenlist.json -c zksyncera --logos
+python update_list.py -o scroll.tokenlist.json -c scroll --logos
+python update_list.py -o blast.tokenlist.json -c blast --logos
+python update_list.py -o opbnb.tokenlist.json -c opbnb --logos
+python update_list.py -o moonbeam.tokenlist.json -c moonbeam --logos
+python update_list.py -o mantle.tokenlist.json -c mantle --logos
+python update_list.py -o polygonzkevm.tokenlist.json -c polygonzkevm --logos

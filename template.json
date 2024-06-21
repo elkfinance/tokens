@@ -10,7 +10,7 @@
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": ,
+            "chainId": 0,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
