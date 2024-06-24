@@ -4,7 +4,7 @@
         "defi",
         "aurora"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/aurora/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/aurora/0x0000000000000000000000000000000000000000/logo.png",
     "name": "Elk aurora Tokens",
     "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
@@ -17,16 +17,24 @@
             "symbol": "ELK"
         },
         {
+            "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+            "chainId": 1313161554,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/aurora/0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB/logo.png",
+            "name": "Wrapped Ether on Aurora",
+            "symbol": "WETH"
+        },
+        {
             "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
             "chainId": 1313161554,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/aurora/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/aurora/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.svg",
             "name": "Aurora",
             "symbol": "AURORA"
         }
     ],
     "version": {
-        "major": 51,
+        "major": 52,
         "minor": 0,
         "patch": 0
     }
