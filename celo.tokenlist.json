@@ -4,7 +4,7 @@
         "defi",
         "celo"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/celo/0x471EcE3750Da237f93B8E339c536989b8978a438/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/celo/0x0000000000000000000000000000000000000000/logo.png",
     "name": "Elk celo Tokens",
     "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
@@ -23,10 +23,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/celo/0x471EcE3750Da237f93B8E339c536989b8978a438/logo.png",
             "name": "CELO Native Asset",
             "symbol": "CELO"
+        },
+        {
+            "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+            "chainId": 42220,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/celo/0x765DE816845861e75A25fCA122bb6898B8B1282a/logo.png",
+            "name": "Celo Dollar",
+            "symbol": "cUSD"
         }
     ],
     "version": {
-        "major": 51,
+        "major": 52,
         "minor": 0,
         "patch": 0
     }
