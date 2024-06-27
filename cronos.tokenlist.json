@@ -175,10 +175,18 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xEfE15a7232b9F0aA890FF97Aaf53afe87D00F8BE/logo.png",
             "name": "Bitcoin CRO",
             "symbol": "BTCRONOS"
+        },
+        {
+            "address": "0x6519BD0745f21F34C22bBb16aBA24601e9B1f366",
+            "chainId": 25,
+            "decimals": 12,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x6519BD0745f21F34C22bBb16aBA24601e9B1f366/logo.png",
+            "name": "CroSaitama",
+            "symbol": "CSAI"
         }
     ],
     "version": {
-        "major": 53,
+        "major": 54,
         "minor": 0,
         "patch": 0
     }

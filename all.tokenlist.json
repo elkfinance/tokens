@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2024-06-26T23:38:02+00:00",
+    "timestamp": "2024-06-27T18:15:32+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1878,6 +1878,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xEfE15a7232b9F0aA890FF97Aaf53afe87D00F8BE/logo.png",
             "name": "Bitcoin CRO",
             "symbol": "BTCRONOS"
+        },
+        {
+            "address": "0x6519BD0745f21F34C22bBb16aBA24601e9B1f366",
+            "chainId": 25,
+            "decimals": 12,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x6519BD0745f21F34C22bBb16aBA24601e9B1f366/logo.png",
+            "name": "CroSaitama",
+            "symbol": "CSAI"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4993,7 +5001,7 @@
         }
     ],
     "version": {
-        "major": 53,
+        "major": 54,
         "minor": 0,
         "patch": 0
     }
