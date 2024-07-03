@@ -183,11 +183,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x6519BD0745f21F34C22bBb16aBA24601e9B1f366/logo.png",
             "name": "CroSaitama",
             "symbol": "CSAI"
+        },
+        {
+            "address": "0xd4B9Dd61ebA441f706EB4728518D1eFc20Af4ee8",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xd4B9Dd61ebA441f706EB4728518D1eFc20Af4ee8/logo.png",
+            "name": "Crow with Knife",
+            "symbol": "CAW2.0"
         }
     ],
     "version": {
         "major": 54,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
