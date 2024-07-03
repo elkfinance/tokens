@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2024-06-27T18:15:33+00:00",
+    "timestamp": "2024-07-03T02:03:38+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1462,6 +1462,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0x6519BD0745f21F34C22bBb16aBA24601e9B1f366/logo.png",
             "name": "CroSaitama",
             "symbol": "CSAI"
+        },
+        {
+            "address": "0xd4B9Dd61ebA441f706EB4728518D1eFc20Af4ee8",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xd4B9Dd61ebA441f706EB4728518D1eFc20Af4ee8/logo.png",
+            "name": "Crow with Knife",
+            "symbol": "CAW2.0"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4058,7 +4066,7 @@
     ],
     "version": {
         "major": 54,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
