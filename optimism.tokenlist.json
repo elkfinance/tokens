@@ -502,11 +502,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000042/logo.png",
             "name": "Optimism",
             "symbol": "OP"
+        },
+        {
+            "address": "0xAed882F117b78034829E2cfFA11206706837B1b1",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xAed882F117b78034829E2cfFA11206706837B1b1/logo.png",
+            "name": "Q Governance Token",
+            "symbol": "WQ"
         }
     ],
     "version": {
         "major": 54,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }

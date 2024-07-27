@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-07-03T02:03:39+00:00",
+    "timestamp": "2024-07-27T03:23:40+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -78,6 +78,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
             "name": "Arbitrum Token",
             "symbol": "ARB"
+        },
+        {
+            "address": "0xAed882F117b78034829E2cfFA11206706837B1b1",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xAed882F117b78034829E2cfFA11206706837B1b1/logo.png",
+            "name": "Q Governance Token",
+            "symbol": "WQ"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1752,6 +1760,14 @@
             "symbol": "OP"
         },
         {
+            "address": "0xAed882F117b78034829E2cfFA11206706837B1b1",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xAed882F117b78034829E2cfFA11206706837B1b1/logo.png",
+            "name": "Q Governance Token",
+            "symbol": "WQ"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 1101,
             "decimals": 18,
@@ -2082,7 +2098,7 @@
     ],
     "version": {
         "major": 54,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
