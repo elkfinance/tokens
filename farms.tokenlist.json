@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-07-27T03:23:40+00:00",
+    "timestamp": "2024-09-20T18:57:24+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -126,6 +126,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x3df2B61C29459a4dC36062e616390860dbb14D78/logo.png",
             "name": "BabyTuru",
             "symbol": "BBT"
+        },
+        {
+            "address": "0xBEa7d44bb5627533a54DFD3ca131FD7E323d1f29",
+            "chainId": 10242,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0xBEa7d44bb5627533a54DFD3ca131FD7E323d1f29/logo.png",
+            "name": "Beat",
+            "symbol": "BEAT"
         },
         {
             "address": "0xd1120E67A2bf245B62C0aF804fFa112fd28D8e56",
@@ -2097,8 +2105,8 @@
         }
     ],
     "version": {
-        "major": 54,
-        "minor": 2,
+        "major": 52,
+        "minor": 4,
         "patch": 0
     }
 }
