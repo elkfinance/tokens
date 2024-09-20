@@ -47,11 +47,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0x3df2B61C29459a4dC36062e616390860dbb14D78/logo.png",
             "name": "BabyTuru",
             "symbol": "BBT"
+        },
+        {
+            "address": "0xBEa7d44bb5627533a54DFD3ca131FD7E323d1f29",
+            "chainId": 10242,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arthera/0xBEa7d44bb5627533a54DFD3ca131FD7E323d1f29/logo.png",
+            "name": "Beat",
+            "symbol": "BEAT"
         }
     ],
     "version": {
-        "major": 54,
-        "minor": 2,
+        "major": 52,
+        "minor": 3,
         "patch": 0
     }
 }
