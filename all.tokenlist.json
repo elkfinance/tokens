@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2024-09-20T18:57:23+00:00",
+    "timestamp": "2024-10-26T02:10:25+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2618,7 +2618,7 @@
         {
             "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
             "chainId": 1666600000,
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a/logo.png",
             "name": "LayerZero Wrapped Tether USD from BNB Chain",
             "symbol": "bscUSDT"
@@ -4488,6 +4488,14 @@
             "symbol": "rUSDT"
         },
         {
+            "address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
+            "chainId": 30,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/rootstock/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db/logo.jpg",
+            "name": "Dollar on Chain",
+            "symbol": "DOC"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 534352,
             "decimals": 18,
@@ -5033,8 +5041,8 @@
         }
     ],
     "version": {
-        "major": 54,
-        "minor": 3,
+        "major": 55,
+        "minor": 0,
         "patch": 0
     }
 }

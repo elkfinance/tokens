@@ -31,11 +31,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/rootstock/0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96/logo.svg",
             "name": "Rootstock USDT",
             "symbol": "rUSDT"
+        },
+        {
+            "address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
+            "chainId": 30,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/rootstock/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db/logo.jpg",
+            "name": "Dollar on Chain",
+            "symbol": "DOC"
         }
     ],
     "version": {
-        "major": 54,
-        "minor": 3,
+        "major": 55,
+        "minor": 0,
         "patch": 0
     }
 }
