@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-10-26T02:10:27+00:00",
+    "timestamp": "2024-10-30T03:55:40+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -494,6 +494,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bttc/0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A/logo.png",
             "name": "Wrapped BTT",
             "symbol": "wBTT"
+        },
+        {
+            "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+            "chainId": 199,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bttc/0xdB28719F7f938507dBfe4f0eAe55668903D34a15/logo.png",
+            "name": "Tether USD_TRON",
+            "symbol": "USDT_t"
         },
         {
             "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
@@ -2114,7 +2122,7 @@
     ],
     "version": {
         "major": 55,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }

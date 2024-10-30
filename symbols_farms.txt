@@ -74,3 +74,4 @@ cUSD
 rUSDT
 BEAT
 DOC
+USDT_t
