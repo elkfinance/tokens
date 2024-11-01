@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2024-10-30T03:55:38+00:00",
+    "timestamp": "2024-11-01T03:15:58+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1536,6 +1536,14 @@
             "symbol": "RHINE"
         },
         {
+            "address": "0x7891D5F6C0eBA5485D2fCA5cc83b4c89a770F9A6",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x7891D5F6C0eBA5485D2fCA5cc83b4c89a770F9A6/logo.png",
+            "name": "Nash Smart Finance Token",
+            "symbol": "NASF"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 199,
             "decimals": 18,
@@ -2334,6 +2342,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x53D831e1db0947c74e8a52618f662209ec5dE0cE/logo.png",
             "name": "Singular.Farm",
             "symbol": "SING"
+        },
+        {
+            "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
+            "chainId": 250,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf/logo.png",
+            "name": "LayerZero Bridged USDC",
+            "symbol": "lzUSDC"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -5042,7 +5058,7 @@
     ],
     "version": {
         "major": 55,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }

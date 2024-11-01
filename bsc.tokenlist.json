@@ -1943,11 +1943,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x8d1437a21f055B88C29a80EE65C400de8959525b/logo.png",
             "name": "RHINE Rewards",
             "symbol": "RHINE"
+        },
+        {
+            "address": "0x7891D5F6C0eBA5485D2fCA5cc83b4c89a770F9A6",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x7891D5F6C0eBA5485D2fCA5cc83b4c89a770F9A6/logo.png",
+            "name": "Nash Smart Finance Token",
+            "symbol": "NASF"
         }
     ],
     "version": {
         "major": 55,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
