@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2024-11-01T03:15:58+00:00",
+    "timestamp": "2024-11-02T01:03:17+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2636,7 +2636,7 @@
             "chainId": 1666600000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a/logo.png",
-            "name": "LayerZero Wrapped Tether USD from BNB Chain",
+            "name": "Tether from BNB Chain",
             "symbol": "bscUSDT"
         },
         {
@@ -5059,6 +5059,6 @@
     "version": {
         "major": 55,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     }
 }
