@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-11-02T01:03:19+00:00",
+    "timestamp": "2024-11-12T21:21:31+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -478,6 +478,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png",
             "name": "Binance-Peg Avalanche Token",
             "symbol": "AVAX"
+        },
+        {
+            "address": "0xD6752D1c7FCEC58BFfE3898eB31453B9E35D47e6",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xD6752D1c7FCEC58BFfE3898eB31453B9E35D47e6/logo.png",
+            "name": "Baldor",
+            "symbol": "BALDOR"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2122,7 +2130,7 @@
     ],
     "version": {
         "major": 55,
-        "minor": 2,
-        "patch": 1
+        "minor": 3,
+        "patch": 0
     }
 }

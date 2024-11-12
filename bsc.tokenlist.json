@@ -1951,11 +1951,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x7891D5F6C0eBA5485D2fCA5cc83b4c89a770F9A6/logo.png",
             "name": "Nash Smart Finance Token",
             "symbol": "NASF"
+        },
+        {
+            "address": "0xD6752D1c7FCEC58BFfE3898eB31453B9E35D47e6",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xD6752D1c7FCEC58BFfE3898eB31453B9E35D47e6/logo.png",
+            "name": "Baldor",
+            "symbol": "BALDOR"
         }
     ],
     "version": {
         "major": 55,
-        "minor": 2,
-        "patch": 1
+        "minor": 3,
+        "patch": 0
     }
 }
