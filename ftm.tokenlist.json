@@ -169,10 +169,10 @@
             "symbol": "ICE"
         },
         {
-            "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+            "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xaf319E5789945197e365E7f7fbFc56B130523B33/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xdc301622e621166bd8e82f2ca0a26c13ad0be355/logo.png",
             "name": "Frax",
             "symbol": "FRAX"
         },
@@ -348,6 +348,6 @@
     "version": {
         "major": 55,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     }
 }

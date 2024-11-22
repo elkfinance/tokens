@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2024-11-12T21:21:30+00:00",
+    "timestamp": "2024-11-22T15:02:36+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2296,10 +2296,10 @@
             "symbol": "ICE"
         },
         {
-            "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+            "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
             "chainId": 250,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xaf319E5789945197e365E7f7fbFc56B130523B33/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xdc301622e621166bd8e82f2ca0a26c13ad0be355/logo.png",
             "name": "Frax",
             "symbol": "FRAX"
         },
@@ -5067,6 +5067,6 @@
     "version": {
         "major": 55,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     }
 }
