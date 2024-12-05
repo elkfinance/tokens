@@ -3234,7 +3234,7 @@
         {
             "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
             "chainId": 59144,
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/linea/0x176211869cA2b568f2A7D4EE941E073a821EE1ff/logo.png",
             "name": "USDC",
             "symbol": "USDC"
@@ -5065,7 +5065,7 @@
         }
     ],
     "version": {
-        "major": 56,
+        "major": 57,
         "minor": 0,
         "patch": 0
     }
