@@ -37,8 +37,8 @@
             "chainId": 80001,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x5b67676a984807a212b1c59ebfc9b3568a474f0a/logo.png",
-            "name": "Wrapped Matic",
-            "symbol": "WMATIC"
+            "name": "Wrapped Polygon",
+            "symbol": "WPOL"
         },
         {
             "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
@@ -74,7 +74,7 @@
         }
     ],
     "version": {
-        "major": 58,
+        "major": 59,
         "minor": 0,
         "patch": 0
     }

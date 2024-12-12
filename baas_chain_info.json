@@ -56,7 +56,7 @@
     "coin_gecko_id": "matic-network",
     "rpc_url": "https://polygon-rpc.com",
     "chain_id": "137",
-    "symbol": "MATIC",
+    "symbol": "POL",
     "url": "https://polygonscan.com/",
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
     "contracts": {

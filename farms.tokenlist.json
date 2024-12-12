@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-12-05T23:27:00+00:00",
+    "timestamp": "2024-12-12T02:58:39+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -244,8 +244,8 @@
             "chainId": 43114,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
-            "name": "Wrapped Matic Token",
-            "symbol": "WMATIC"
+            "name": "Wrapped Polygon Token",
+            "symbol": "WPOL"
         },
         {
             "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
@@ -1148,8 +1148,8 @@
             "chainId": 4689,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/iotex/0x8e66c0d6B70C0B23d39f4B21A1eAC52BBA8eD89a/logo.png",
-            "name": "Wrapped MATIC",
-            "symbol": "WMATIC"
+            "name": "Wrapped POL",
+            "symbol": "WPOL"
         },
         {
             "address": "0x6fbCdc1169B5130C59E72E51Ed68A84841C98cd1",
@@ -1372,8 +1372,8 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
-            "name": "Wrapped Matic",
-            "symbol": "WMATIC"
+            "name": "Wrapped Polygon",
+            "symbol": "WPOL"
         },
         {
             "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
@@ -1516,8 +1516,8 @@
             "chainId": 80001,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/mumbai/0x5b67676a984807a212b1c59ebfc9b3568a474f0a/logo.png",
-            "name": "Wrapped Matic",
-            "symbol": "WMATIC"
+            "name": "Wrapped Polygon",
+            "symbol": "WPOL"
         },
         {
             "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
@@ -2012,8 +2012,8 @@
             "chainId": 106,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0x6ab0B8C1a35F9F4Ce107cCBd05049CB1Dbd99Ec5/logo.png",
-            "name": "Velas MATIC",
-            "symbol": "WMATIC"
+            "name": "Velas POL",
+            "symbol": "WPOL"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2077,7 +2077,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x7122d7661c4564b7C6Cd4878B06766489a6028A2/logo.png",
             "name": "Matic Token on xDai",
-            "symbol": "WMATIC"
+            "symbol": "WPOL"
         },
         {
             "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
@@ -2137,8 +2137,8 @@
         }
     ],
     "version": {
-        "major": 58,
-        "minor": 0,
+        "major": 59,
+        "minor": 1,
         "patch": 0
     }
 }

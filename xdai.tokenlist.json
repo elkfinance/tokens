@@ -790,7 +790,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x7122d7661c4564b7C6Cd4878B06766489a6028A2/logo.png",
             "name": "Matic Token on xDai",
-            "symbol": "WMATIC"
+            "symbol": "WPOL"
         },
         {
             "address": "0xd361c1FD663d8f2dc36ae07FF6F3623532cAbdD3",
@@ -1586,7 +1586,7 @@
         }
     ],
     "version": {
-        "major": 58,
+        "major": 59,
         "minor": 0,
         "patch": 0
     }

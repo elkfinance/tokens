@@ -53,12 +53,12 @@
             "chainId": 106,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/velas/0x6ab0B8C1a35F9F4Ce107cCBd05049CB1Dbd99Ec5/logo.png",
-            "name": "Velas MATIC",
-            "symbol": "WMATIC"
+            "name": "Velas POL",
+            "symbol": "WPOL"
         }
     ],
     "version": {
-        "major": 58,
+        "major": 59,
         "minor": 0,
         "patch": 0
     }
