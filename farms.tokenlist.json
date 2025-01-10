@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2024-12-12T02:58:39+00:00",
+    "timestamp": "2025-01-10T17:37:39+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1348,8 +1348,8 @@
             "chainId": 137,
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png",
-            "name": "USD Coin",
-            "symbol": "USDC"
+            "name": "USDC Coin",
+            "symbol": "USDC.e"
         },
         {
             "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
@@ -1422,6 +1422,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x1f89600A0a08bC51Eef1BeC8E1CA826145753052/logo.png",
             "name": "CREW",
             "symbol": "CREW"
+        },
+        {
+            "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+            "chainId": 137,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png",
+            "name": "USD Coin",
+            "symbol": "USDC"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2138,7 +2146,7 @@
     ],
     "version": {
         "major": 60,
-        "minor": 0,
+        "minor": 2,
         "patch": 0
     }
 }
