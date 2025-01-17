@@ -1959,11 +1959,19 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xD6752D1c7FCEC58BFfE3898eB31453B9E35D47e6/logo.png",
             "name": "Baldor",
             "symbol": "BALDOR"
+        },
+        {
+            "address": "0xdd6dB15a6b1EfB974031C57E90340a46b652f936",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xdd6dB15a6b1EfB974031C57E90340a46b652f936/logo.png",
+            "name": "Grow Up",
+            "symbol": "GRUP"
         }
     ],
     "version": {
         "major": 61,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
