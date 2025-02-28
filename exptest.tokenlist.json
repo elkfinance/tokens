@@ -2,27 +2,27 @@
     "keywords": [
         "elk",
         "defi",
-        "moonbeam"
+        "exptest"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonbeam/0x0000000000000000000000000000000000000000/logo.png",
-    "name": "Elk moonbeam Tokens",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/exptest/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk exptest Tokens",
     "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 1284,
+            "chainId": 18880,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
         {
-            "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
-            "chainId": 1284,
+            "address": "0x46F2038afa5CDD1a8CD444DB923279ADe1208a48",
+            "chainId": 18880,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonbeam/0xAcc15dC74880C9944775448304B263D191c6077F/logo.png",
-            "name": "Wrapped GLMR",
-            "symbol": "WGLMR"
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/exptest/0x46F2038afa5CDD1a8CD444DB923279ADe1208a48/logo.png",
+            "name": "Wrapped ZKJ",
+            "symbol": "WZKJ"
         }
     ],
     "version": {

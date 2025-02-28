@@ -51,3 +51,5 @@ python update_list.py -o opbnb.tokenlist.json -c opbnb --logos
 python update_list.py -o moonbeam.tokenlist.json -c moonbeam --logos
 python update_list.py -o mantle.tokenlist.json -c mantle --logos
 python update_list.py -o polygonzkevm.tokenlist.json -c polygonzkevm --logos
+python update_list.py -o berachain.tokenlist.json -c berachain --logos
+python update_list.py -o exptest.tokenlist.json -c exptest --logos

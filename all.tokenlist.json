@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2025-01-17T21:09:55+00:00",
+    "timestamp": "2025-02-28T00:49:12+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1113,6 +1113,22 @@
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 80094,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x6969696969696969696969696969696969696969",
+            "chainId": 80094,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.svg",
+            "name": "Wrapped BERA",
+            "symbol": "WBERA"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 32520,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bitgert/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -2198,6 +2214,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
             "name": "Matic on Ethereum",
             "symbol": "POL"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 18880,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x46F2038afa5CDD1a8CD444DB923279ADe1208a48",
+            "chainId": 18880,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/exptest/0x46F2038afa5CDD1a8CD444DB923279ADe1208a48/logo.png",
+            "name": "Wrapped ZKJ",
+            "symbol": "WZKJ"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -5089,8 +5121,8 @@
         }
     ],
     "version": {
-        "major": 61,
-        "minor": 1,
-        "patch": 1
+        "major": 62,
+        "minor": 0,
+        "patch": 0
     }
 }
