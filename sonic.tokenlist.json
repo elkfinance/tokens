@@ -2,27 +2,27 @@
     "keywords": [
         "elk",
         "defi",
-        "opbnb"
+        "sonic"
     ],
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/opbnb/0x0000000000000000000000000000000000000000/logo.png",
-    "name": "Elk opbnb Tokens",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/sonic/0x0000000000000000000000000000000000000000/logo.png",
+    "name": "Elk Sonic Tokens",
     "timestamp": "2023-07-02T17:42:41+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-            "chainId": 204,
+            "chainId": 146,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
         {
-            "address": "0x4200000000000000000000000000000000000006",
-            "chainId": 204,
+            "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+            "chainId": 146,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/opbnb/0x4200000000000000000000000000000000000006/logo.png",
-            "name": "Wrapped BNB on opBNB",
-            "symbol": "WBNB"
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/sonic/0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38/logo.png",
+            "name": "Wrapped Sonic",
+            "symbol": "wS"
         }
     ],
     "version": {

@@ -119,4 +119,4 @@ for filename in ['symbols_farms.txt', 'symbols_top.txt', 'symbols_all.txt']:
         print(f"Error updating file: {file_path}")
         print(f"Error: {e}")
 
-print("If this has succeeded, remember to put WETH logo in address folder.")
+print("If this has succeeded, remember to put WETH logo in address folder and update the Chain ID of the ELK token in the token list.")

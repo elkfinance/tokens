@@ -53,3 +53,4 @@ python update_list.py -o mantle.tokenlist.json -c mantle --logos
 python update_list.py -o polygonzkevm.tokenlist.json -c polygonzkevm --logos
 python update_list.py -o berachain.tokenlist.json -c berachain --logos
 python update_list.py -o exptest.tokenlist.json -c exptest --logos
+python update_list.py -o sonic.tokenlist.json -c sonic --logos
