@@ -1,0 +1,33 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "CytonicTest"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/CytonicTest/0x0000000000000000000000000000000000000000/logo.svg",
+    "name": "Elk CytonicTest Tokens",
+    "timestamp": "2023-07-02T17:42:41+00:00",
+    "tokens": [
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 52226,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x30fDf316f8DFA2F0d10c7e2F900F43979ca4C60a",
+            "chainId": 52226,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/CytonicTest/0x30fDf316f8DFA2F0d10c7e2F900F43979ca4C60a/logo.svg",
+            "name": "Wrapped Cytonic",
+            "symbol": "WCCC"
+        }
+    ],
+    "version": {
+        "major": 49,
+        "minor": 1,
+        "patch": 0
+    }
+}
