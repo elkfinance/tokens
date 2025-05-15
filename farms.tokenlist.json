@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Farms Tokens",
-    "timestamp": "2025-03-10T19:13:25+00:00",
+    "timestamp": "2025-05-15T17:26:42+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -678,6 +678,22 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC/logo.png",
             "name": "Moonbys Lunarite Token",
             "symbol": "LRE"
+        },
+        {
+            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "chainId": 52226,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "name": "Elk",
+            "symbol": "ELK"
+        },
+        {
+            "address": "0x30fDf316f8DFA2F0d10c7e2F900F43979ca4C60a",
+            "chainId": 52226,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/CytonicTest/0x30fDf316f8DFA2F0d10c7e2F900F43979ca4C60a/logo.svg",
+            "name": "Wrapped Cytonic",
+            "symbol": "WCCC"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2193,7 +2209,7 @@
         }
     ],
     "version": {
-        "major": 63,
+        "major": 64,
         "minor": 1,
         "patch": 0
     }
