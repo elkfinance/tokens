@@ -680,10 +680,10 @@
             "symbol": "LRE"
         },
         {
-            "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "address": "0x56b0b95Dd296104ECd440B2636046D19D8337639",
             "chainId": 52226,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0x56b0b95Dd296104ECd440B2636046D19D8337639/logo.png",
             "name": "Elk",
             "symbol": "ELK"
         },
@@ -2211,6 +2211,6 @@
     "version": {
         "major": 65,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     }
 }
