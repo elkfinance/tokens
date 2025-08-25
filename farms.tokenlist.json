@@ -676,7 +676,7 @@
             "chainId": 25,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC/logo.png",
-            "name": "Moonbys Lunarite Token",
+            "name": "Arcturus  Lunarite Token",
             "symbol": "LRE"
         },
         {
@@ -2209,7 +2209,7 @@
         }
     ],
     "version": {
-        "major": 66,
+        "major": 67,
         "minor": 0,
         "patch": 0
     }
