@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk All Tokens",
-    "timestamp": "2025-05-15T17:48:36+00:00",
+    "timestamp": "2025-12-08T20:07:56+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1584,6 +1584,14 @@
             "symbol": "GRUP"
         },
         {
+            "address": "0xd83C128e7498bE555845A6dc331A99E1524C1777",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xd83C128e7498bE555845A6dc331A99E1524C1777/logo.png",
+            "name": "Utopia",
+            "symbol": "UTOPIA"
+        },
+        {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
             "chainId": 199,
             "decimals": 18,
@@ -1932,7 +1940,7 @@
             "chainId": 25,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xa169DD64B901aFfD3E6cb601a63412e0A840b4BC/logo.png",
-            "name": "Arcturus  Lunarite Token",
+            "name": "Arcturus Lunarite Token",
             "symbol": "LRE"
         },
         {
@@ -5153,7 +5161,7 @@
         }
     ],
     "version": {
-        "major": 67,
+        "major": 68,
         "minor": 0,
         "patch": 0
     }
