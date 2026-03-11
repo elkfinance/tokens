@@ -5,7 +5,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk Top Tokens",
-    "timestamp": "2025-12-08T20:07:57+00:00",
+    "timestamp": "2026-03-11T17:47:06+00:00",
     "tokens": [
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1310,6 +1310,14 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xd83C128e7498bE555845A6dc331A99E1524C1777/logo.png",
             "name": "Utopia",
             "symbol": "UTOPIA"
+        },
+        {
+            "address": "0xCcf93Cfa588922adc7998676f94A195eAE971214",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xCcf93Cfa588922adc7998676f94A195eAE971214/logo.png",
+            "name": "Galia Finance",
+            "symbol": "GALIA"
         },
         {
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -4225,7 +4233,7 @@
         }
     ],
     "version": {
-        "major": 68,
+        "major": 69,
         "minor": 0,
         "patch": 0
     }
